@@ -9,8 +9,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo16.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo16.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo16.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo16.jpg
 
 newmtl つつじ
 Ns 92.156863
@@ -20,8 +20,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo35.png
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo35.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo35.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo35.png
 
 newmtl 土
 Ns 90.196078
@@ -31,8 +31,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo13.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo13.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo13.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo13.jpg
 
 newmtl 土間
 Ns 90.196078
@@ -42,8 +42,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo17.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo17.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo17.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo17.jpg
 
 newmtl 地面縁
 Ns 90.196078
@@ -53,8 +53,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo32.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo32.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo32.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo32.jpg
 
 newmtl 壁
 Ns 90.196078
@@ -64,8 +64,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo03.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo03.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo03.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo03.jpg
 
 newmtl 壁縁
 Ns 90.196078
@@ -75,8 +75,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo03b.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo03b.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo03b.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo03b.jpg
 
 newmtl 壁縁.001
 Ns 90.196078
@@ -86,8 +86,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo03b.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo03b.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo03b.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo03b.jpg
 
 newmtl 壷
 Ns 90.196078
@@ -97,8 +97,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo18.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo18.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo18.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo18.jpg
 
 newmtl 天井
 Ns 90.196078
@@ -108,8 +108,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo09.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo09.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo09.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo09.jpg
 
 newmtl 家具
 Ns 90.196078
@@ -119,8 +119,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo27.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo27.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo27.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo27.jpg
 
 newmtl 屋根
 Ns 90.196078
@@ -130,8 +130,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo01.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo01.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo01.jpg
 
 newmtl 屋根裏
 Ns 90.196078
@@ -141,8 +141,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo12.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo12.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo12.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo12.jpg
 
 newmtl 屋根飾
 Ns 90.196078
@@ -152,8 +152,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo05.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo05.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo05.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo05.jpg
 
 newmtl 屏風
 Ns 90.196078
@@ -163,8 +163,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo28.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo28.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo28.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo28.jpg
 
 newmtl 幹
 Ns 90.196078
@@ -174,8 +174,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/tree02.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/tree02.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/tree02.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/tree02.jpg
 
 newmtl 座布団
 Ns 90.196078
@@ -185,8 +185,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo25.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo25.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo25.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo25.jpg
 
 newmtl 扉
 Ns 90.196078
@@ -196,8 +196,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo26.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo26.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo26.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo26.jpg
 
 newmtl 掛軸
 Ns 90.196078
@@ -207,8 +207,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo29.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo29.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo29.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo29.jpg
 
 newmtl 木材赤
 Ns 90.196078
@@ -218,8 +218,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo24.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo24.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo24.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo24.jpg
 
 newmtl 松幹
 Ns 90.196078
@@ -229,8 +229,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/pine02.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/pine02.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/pine02.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/pine02.jpg
 
 newmtl 松葉
 Ns 92.156863
@@ -240,8 +240,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/pine01.png
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/pine01.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/pine01.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/pine01.png
 
 newmtl 板
 Ns 90.196078
@@ -251,8 +251,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo30.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo30.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo30.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo30.jpg
 
 newmtl 柱
 Ns 90.196078
@@ -262,8 +262,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo02.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo02.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo02.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo02.jpg
 
 newmtl 桜
 Ns 92.156863
@@ -273,8 +273,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/chery01.png
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/chery01.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/chery01.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/chery01.png
 
 newmtl 桜周囲1
 Ns 92.156863
@@ -284,8 +284,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/chery03.png
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/chery03.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/chery03.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/chery03.png
 
 newmtl 桜周囲2
 Ns 92.156863
@@ -295,8 +295,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/chery03.png
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/chery03.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/chery03.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/chery03.png
 
 newmtl 桜幹
 Ns 90.196078
@@ -306,8 +306,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/chery02.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/chery02.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/chery02.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/chery02.jpg
 
 newmtl 橋
 Ns 90.196078
@@ -317,8 +317,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo04.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo04.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo04.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo04.jpg
 
 newmtl 欄間
 Ns 90.196078
@@ -328,8 +328,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo11.png
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo11.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo11.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo11.png
 
 newmtl 玉砂利
 Ns 90.196078
@@ -339,8 +339,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo19.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo19.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo19.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo19.jpg
 
 newmtl 畳
 Ns 90.196078
@@ -350,8 +350,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo07.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo07.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo07.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo07.jpg
 
 newmtl 白石
 Ns 90.196078
@@ -361,8 +361,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo37.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo37.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo37.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo37.jpg
 
 newmtl 石
 Ns 90.196078
@@ -372,8 +372,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo22.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo22.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo22.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo22.jpg
 
 newmtl 石壁
 Ns 90.196078
@@ -383,8 +383,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo14.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo14.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo14.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo14.jpg
 
 newmtl 石灯篭
 Ns 90.196078
@@ -394,8 +394,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo31.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo31.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo31.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo31.jpg
 
 newmtl 縁側
 Ns 90.196078
@@ -405,8 +405,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo06.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo06.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo06.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo06.jpg
 
 newmtl 苔土
 Ns 90.196078
@@ -416,8 +416,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo21.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo21.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo21.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo21.jpg
 
 newmtl 苔石
 Ns 90.196078
@@ -427,8 +427,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo36.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo36.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo36.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo36.jpg
 
 newmtl 草
 Ns 92.156863
@@ -438,8 +438,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo39.png
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo39.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo39.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo39.png
 
 newmtl 草地
 Ns 90.196078
@@ -449,8 +449,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo15.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo15.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo15.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo15.jpg
 
 newmtl 葉
 Ns 92.156863
@@ -460,8 +460,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/tree01.png
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/tree01.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/tree01.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/tree01.png
 
 newmtl 襖
 Ns 90.196078
@@ -471,8 +471,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo08.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo08.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo08.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo08.jpg
 
 newmtl 鉄
 Ns 90.196078
@@ -482,8 +482,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo23.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo23.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo23.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo23.jpg
 
 newmtl 鎧戸
 Ns 90.196078
@@ -493,8 +493,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo10.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo10.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo10.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo10.jpg
 
 newmtl 黒石
 Ns 90.196078
@@ -504,5 +504,5 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo38.jpg
-map_d http://localhost/janusvr/assets/mmd/places/hakugyokurou/materials/hagyo38.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo38.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo38.jpg
