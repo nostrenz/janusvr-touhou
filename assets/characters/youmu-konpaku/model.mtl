@@ -1,0 +1,570 @@
+# Blender MTL File: 'original.blend'
+# Material Count: 52
+
+newmtl ○
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(hada).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(hada).png
+
+newmtl お札
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(katana).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(katana).jpg
+
+newmtl お札（模様）
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku-moyou(youmu).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku-moyou(youmu).png
+
+newmtl ほほ染め
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(hada).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(hada).png
+
+newmtl まつげ
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(hada).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(hada).png
+
+newmtl シャツ
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/syatu(youmu).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/syatu(youmu).jpg
+
+newmtl スカート(白）
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku(youmu).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku(youmu).jpg
+
+newmtl スカート1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/skart(youmu).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/skart(youmu).jpg
+
+newmtl スカート1（裏）
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku(youmu).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku(youmu).jpg
+
+newmtl スカート2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku(youmu).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku(youmu).jpg
+
+newmtl スカートボタン
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku(youmu).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku(youmu).jpg
+
+newmtl スカート（模様）
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku-moyou(youmu).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku-moyou(youmu).png
+
+newmtl デレ
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(hada).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(hada).png
+
+newmtl ドロワ
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku(youmu).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku(youmu).jpg
+
+newmtl ネクタイ
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/syatu(youmu).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/syatu(youmu).jpg
+
+newmtl ボタン（シャツ）
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku(youmu).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku(youmu).jpg
+
+newmtl ボタン（上着）
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku(youmu).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku(youmu).jpg
+
+newmtl リボン1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/skart(youmu).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/skart(youmu).jpg
+
+newmtl リボン2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/syatu(youmu).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/syatu(youmu).jpg
+
+newmtl リボン（白線）
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/skart(youmu).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/skart(youmu).jpg
+
+newmtl 上着1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/skart(youmu).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/skart(youmu).jpg
+
+newmtl 上着2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku(youmu).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku(youmu).jpg
+
+newmtl 上着（模様）
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku-moyou(youmu).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku-moyou(youmu).png
+
+newmtl 口
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(hada).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(hada).png
+
+newmtl 楼観剣刃
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.400000 0.400000 0.400000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(katana).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(katana).jpg
+
+newmtl 楼観剣房
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(katana).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(katana).jpg
+
+newmtl 楼観剣柄
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.400000 0.400000 0.400000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(katana).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(katana).jpg
+
+newmtl 楼観剣柄（模様）
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.400000 0.400000 0.400000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku-moyou(youmu).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku-moyou(youmu).png
+
+newmtl 楼観剣鍔
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.400000 0.400000 0.400000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(katana).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(katana).jpg
+
+newmtl 楼観剣鞘
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.400000 0.400000 0.400000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(katana).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(katana).jpg
+
+newmtl 歯
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(hada).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(hada).png
+
+newmtl 爪
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(hada).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(hada).png
+
+newmtl 白楼剣刃
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.400000 0.400000 0.400000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(katana).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(katana).jpg
+
+newmtl 白楼剣柄
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.400000 0.400000 0.400000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(katana).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(katana).jpg
+
+newmtl 白楼剣柄（模様）
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.400000 0.400000 0.400000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku-moyou(youmu).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku-moyou(youmu).png
+
+newmtl 白楼剣鍔
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.400000 0.400000 0.400000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(katana).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(katana).jpg
+
+newmtl 白楼剣鞘
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.400000 0.400000 0.400000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(katana).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(katana).jpg
+
+newmtl 目
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(hada).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(hada).png
+
+newmtl 目光
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.900000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(hada).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(hada).png
+
+newmtl 眉
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/kami(youmu).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/kami(youmu).png
+
+newmtl 紐1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 紐2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 肌
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(hada).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(hada).png
+
+newmtl 胸ポケット
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku(youmu).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku(youmu).jpg
+
+newmtl 舌
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(hada).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(hada).png
+
+newmtl 花1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(katana).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(katana).jpg
+
+newmtl 花2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(katana).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(katana).jpg
+
+newmtl 赤い瞳
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(hada).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(hada).png
+
+newmtl 青い瞳
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(hada).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/youmu(hada).png
+
+newmtl 靴
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.380000 0.380000 0.380000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/syatu(youmu).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/syatu(youmu).jpg
+
+newmtl 靴下
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku(youmu).jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/huku(youmu).jpg
+
+newmtl 髪
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/kami(youmu).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/materials/kami(youmu).png

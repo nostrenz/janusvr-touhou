@@ -10,14 +10,22 @@
         src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/model.obj'
         mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/model.mtl'
     />
+	<AssetObject
+        id='youmu-konpaku'
+        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/model.obj'
+        mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/model.mtl'
+    />
   </Assets>
   <Room
   col="0.5 0.5 0.5"
-  pos="1 0 50"
+  pos="0 0 58"
   fwd="0 0 -1">
-    <Object use_local_asset="room_plane" id="place" collision_id="place" pos="1.5 0 0" fwd="0 0 1" scale="0.5 0.5 0.5" lighting="false">
-		<Text pos="-1 6 -30" fwd="0 0 1" scale="2 1.5 2">Yuyuko Saigyouji</Text>
-		<Object id="yuyuko-saigyouji" collision_id="yuyuko-saigyouji" pos="-1 1.5 -30" fwd="0 0 1" scale="2 2 2" lighting="false" />
+    <Object use_local_asset="room_plane" id="place" collision_id="place" pos="0 0 0" fwd="0 0 1" scale="1 1 1" locked="true" lighting="false">
+		<Text pos="-1 3.5 -25" fwd="0 0 1" scale="2 1.5 2">Yuyuko Saigyouji</Text>
+		<Object id="yuyuko-saigyouji" collision_id="yuyuko-saigyouji" pos="-1 1 -25" fwd="0 0 1" scale="1 1 1" lighting="false" />
+		
+		<Text pos="-3 3 -25" fwd="0 0 1" scale="2 1.5 2">Youmu Konpaku</Text>
+		<Object id="youmu-konpaku" collision_id="youmu-konpaku" pos="-3 1 -25" fwd="0 0 1" scale="1 1 1" lighting="false" />
 	</object>
   </Room>
 </FireBoxRoom>

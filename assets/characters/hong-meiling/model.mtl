@@ -1,0 +1,357 @@
+# Blender MTL File: 'original.blend'
+# Material Count: 34
+
+newmtl Material0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Face.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Face.jpg
+
+newmtl Material1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Face.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Face.jpg
+
+newmtl Material10
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Blouse.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Blouse.jpg
+
+newmtl Material11
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Ribbon_H.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Ribbon_H.jpg
+
+newmtl Material12
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Vest.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Vest.jpg
+
+newmtl Material13
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/SkirtS.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/SkirtS.jpg
+
+newmtl Material14
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Vest.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Vest.jpg
+
+newmtl Material15
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/SkirtS.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/SkirtS.jpg
+
+newmtl Material16
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Eff.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Eff.png
+
+newmtl Material17
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.980000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Eff.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Eff.png
+
+newmtl Material18
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.980000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Eff.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Eff.png
+
+newmtl Material19
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.980000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Eff.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Eff.png
+
+newmtl Material2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Eye.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Eye.jpg
+
+newmtl Material20
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.000000 0.050000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Hair.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Hair.png
+
+newmtl Material21
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.980000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Eff.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Eff.png
+
+newmtl Material22
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.980000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Eff.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Eff.png
+
+newmtl Material23
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.100000
+Ni 1.000000
+d 0.900000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Vest.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Vest.jpg
+
+newmtl Material24
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/K_Pants.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/K_Pants.jpg
+
+newmtl Material3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Face.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Face.jpg
+
+newmtl Material4
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Eye.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Eye.jpg
+
+newmtl Material5
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Face.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Face.jpg
+
+newmtl Material6
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Face.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Face.jpg
+
+newmtl Material7
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.401600
+Ks 0.200000 0.200000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Metal.spa
+
+newmtl Material8
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.150000 0.050000 0.100000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Hair.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Hair.png
+
+newmtl Material9
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Body.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/materials/Body.jpg
+
+newmtl mmd_tools_rigid_0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.498039 0.866667 0.831373
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
+
+newmtl mmd_tools_rigid_1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.941176 0.901961 0.549020
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
+
+newmtl mmd_tools_rigid_2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.933333 0.509804 0.933333
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
+
+newmtl mmd_tools_rigid_3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.894118 0.882353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
+
+newmtl mmd_tools_rigid_4
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.560784 0.933333 0.933333
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
+
+newmtl mmd_tools_rigid_6
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.980392 0.501961 0.447059
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
+
+newmtl mmd_tools_rigid_7
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.439216 0.858824
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
+
+newmtl mmd_tools_rigid_8
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.250980 0.878431 0.815686
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
+
+newmtl mmd_tools_rigid_9
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.588235 0.317647 0.301961
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
