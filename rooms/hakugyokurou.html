@@ -1,0 +1,23 @@
+<FireBoxRoom>
+  <Assets>
+    <AssetObject
+        id='place'
+        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/optimized.obj'
+        mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/optimized.mtl'
+    />
+	<AssetObject
+        id='yuyuko-saigyouji'
+        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/optimized.obj'
+        mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/model.mtl'
+    />
+  </Assets>
+  <Room
+  col="0.5 0.5 0.5"
+  pos="1 0 50"
+  fwd="0 0 -1">
+    <Object use_local_asset="room_plane" id="place" collision_id="place" pos="1.5 0 0" fwd="0 0 1" scale="0.5 0.5 0.5" lighting="false">
+		<Text pos="-1 6 -30" fwd="0 0 1" scale="2 1.5 2">Yuyuko Saigyouji</Text>
+		<Object id="yuyuko-saigyouji" collision_id="yuyuko-saigyouji" pos="-1 1.5 -30" fwd="0 0 1" scale="2 2 2" lighting="false" />
+	</object>
+  </Room>
+</FireBoxRoom>
