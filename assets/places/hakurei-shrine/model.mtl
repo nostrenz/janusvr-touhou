@@ -9,8 +9,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/mokuzai2.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/mokuzai2.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/mokuzai2.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/mokuzai2.jpg
 
 newmtl 土間石
 Ns 96.078431
@@ -20,8 +20,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/isi2.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/isi2.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/isi2.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/isi2.jpg
 
 newmtl 土間金
 Ns 96.078431
@@ -31,8 +31,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/kin.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/kin.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/kin.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/kin.jpg
 
 newmtl 地面
 Ns 96.078431
@@ -42,8 +42,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/sand.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/sand.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/sand.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/sand.jpg
 
 newmtl 壁
 Ns 96.078431
@@ -53,8 +53,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/kabe.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/kabe.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/kabe.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/kabe.jpg
 
 newmtl 外石
 Ns 96.078431
@@ -64,8 +64,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/isi.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/isi.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/isi.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/isi.jpg
 
 newmtl 屋根裏
 Ns 96.078431
@@ -75,8 +75,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/mokuzai3.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/mokuzai3.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/mokuzai3.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/mokuzai3.jpg
 
 newmtl 山
 Ns 96.078431
@@ -86,8 +86,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/yama2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/yama2.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/yama2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/yama2.png
 
 newmtl 掛け軸
 Ns 96.078431
@@ -97,8 +97,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/kakeziku.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/kakeziku.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/kakeziku.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/kakeziku.jpg
 
 newmtl 木1
 Ns 96.078431
@@ -108,8 +108,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/ki.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/ki.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/ki.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/ki.png
 
 newmtl 木2
 Ns 96.078431
@@ -119,8 +119,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/ki.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/ki.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/ki.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/ki.png
 
 newmtl 木3
 Ns 96.078431
@@ -130,8 +130,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/ki.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/ki.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/ki.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/ki.png
 
 newmtl 板戸と襖
 Ns 96.078431
@@ -141,8 +141,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/tobira1.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/tobira1.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/tobira1.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/tobira1.jpg
 
 newmtl 柱
 Ns 96.078431
@@ -152,8 +152,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/mokuzai.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/mokuzai.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/mokuzai.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/mokuzai.jpg
 
 newmtl 注連縄
 Ns 96.078431
@@ -163,8 +163,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/simenawa.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/simenawa.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/simenawa.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/simenawa.png
 
 newmtl 瓦
 Ns 96.078431
@@ -174,8 +174,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/kawara.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/kawara.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/kawara.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/kawara.jpg
 
 newmtl 畳
 Ns 96.078431
@@ -185,8 +185,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/tatami.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/tatami.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/tatami.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/tatami.jpg
 
 newmtl 石畳
 Ns 96.078431
@@ -196,8 +196,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/isi3.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/isi3.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/isi3.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/isi3.jpg
 
 newmtl 神棚
 Ns 96.078431
@@ -207,8 +207,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/kamidana.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/kamidana.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/kamidana.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/kamidana.jpg
 
 newmtl 障子
 Ns 96.078431
@@ -218,8 +218,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/tobira2.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/tobira2.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/tobira2.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/tobira2.jpg
 
 newmtl 鳥居
 Ns 96.078431
@@ -229,5 +229,5 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/torii.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/assets/places/hakurei-shrine/materials/torii.jpg
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/torii.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/materials/torii.jpg
