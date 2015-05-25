@@ -1,0 +1,816 @@
+# Blender MTL File: 'original_untouched.blend'
+# Material Count: 74
+
+newmtl いす
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_board03.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_board03.jpg
+
+newmtl けやき
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/ke_leaf01.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/ke_leaf01.png
+
+newmtl けやき幹
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/ke_wood01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/ke_wood01.jpg
+
+newmtl ざぶとん
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hagyo25.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hagyo25.jpg
+
+newmtl すだれ
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/suzu_cloth02.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/suzu_cloth02.jpg
+
+newmtl たな
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_item01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_item01.jpg
+
+newmtl たる
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_item02.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_item02.jpg
+
+newmtl ちょうちん
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_litht01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_litht01.jpg
+
+newmtl つくえ
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hagyo24.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hagyo24.jpg
+
+newmtl つつじ
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hagyo35.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hagyo35.png
+
+newmtl つぼ
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_obj01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_obj01.jpg
+
+newmtl なまこ壁
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_wall05.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_wall05.jpg
+
+newmtl のれん緑
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_cloth01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_cloth01.jpg
+
+newmtl のれん青
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_cloth02.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_cloth02.jpg
+
+newmtl ひも
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_litht01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_litht01.jpg
+
+newmtl びん
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/bin01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/bin01.jpg
+
+newmtl ふすま
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hagyo08.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hagyo08.jpg
+
+newmtl ぶな
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_tree02.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_tree02.png
+
+newmtl コンクリ
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_store03a.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_store03a.jpg
+
+newmtl コンクリ壁
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_store03s.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_store03s.jpg
+
+newmtl コンクリ壁青
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.583529 0.636863 0.696471
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_store03s.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_store03s.jpg
+
+newmtl コンクリ扉
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_store03w.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_store03w.jpg
+
+newmtl 傘
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_amb01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_amb01.jpg
+
+newmtl 古板
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_wood02.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_wood02.jpg
+
+newmtl 土
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_ground05.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_ground05.jpg
+
+newmtl 地面1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_ground03.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_ground03.jpg
+
+newmtl 地面2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_ground01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_ground01.jpg
+
+newmtl 地面草
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_ground03gr.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_ground03gr.jpg
+
+newmtl 壁
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_wall01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_wall01.jpg
+
+newmtl 壁窓
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_wall04.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_wall04.jpg
+
+newmtl 屋根
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_roof01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_roof01.jpg
+
+newmtl 屋根.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_roof04.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_roof04.jpg
+
+newmtl 屋根1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_roof03.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_roof03.jpg
+
+newmtl 屋根2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_roof02.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_roof02.jpg
+
+newmtl 屋根裏
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_roofin01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_roofin01.jpg
+
+newmtl 岸
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_ground02.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_ground02.jpg
+
+newmtl 川底
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_ground04.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_ground04.jpg
+
+newmtl 幹
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/tree02.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/tree02.jpg
+
+newmtl 廊下
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_item02.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_item02.jpg
+
+newmtl 扉1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_door04.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_door04.jpg
+
+newmtl 扉2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_door03.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_door03.jpg
+
+newmtl 扉3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_door01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_door01.jpg
+
+newmtl 木壁
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_wall01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_wall01.jpg
+
+newmtl 木戸
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_wood01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_wood01.jpg
+
+newmtl 松
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/pine01.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/pine01.png
+
+newmtl 松幹
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/pine02.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/pine02.jpg
+
+newmtl 板壁
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_wall02.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_wall02.jpg
+
+newmtl 柱
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_pillar01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_pillar01.jpg
+
+newmtl 柱新
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hagyo02.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hagyo02.jpg
+
+newmtl 柳
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/wi_leaf01.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/wi_leaf01.png
+
+newmtl 柳幹
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/wi_wood01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/wi_wood01.jpg
+
+newmtl 棟
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_roofside01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_roofside01.jpg
+
+newmtl 橋
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_bri01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_bri01.jpg
+
+newmtl 灯篭
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hagyo10.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hagyo10.jpg
+
+newmtl 畳
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hagyo07.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hagyo07.jpg
+
+newmtl 白壁
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_wall03.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_wall03.jpg
+
+newmtl 白壁.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_wall03.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_wall03.jpg
+
+newmtl 看板
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_signboard01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_signboard01.jpg
+
+newmtl 石
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_stone01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_stone01.jpg
+
+newmtl 石白
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hagyo37.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hagyo37.jpg
+
+newmtl 石緑
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hagyo36.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hagyo36.jpg
+
+newmtl 石黒
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hagyo38.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hagyo38.jpg
+
+newmtl 竹柵
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_litht01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_litht01.jpg
+
+newmtl 縁の下壁
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_wall07.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_wall07.jpg
+
+newmtl 縁石
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_grside01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_grside01.jpg
+
+newmtl 花
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_grass02.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_grass02.png
+
+newmtl 草
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hagyo39.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hagyo39.png
+
+newmtl 蔵
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_wall06.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_wall06.jpg
+
+newmtl 軒
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hagyo12.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hagyo12.jpg
+
+newmtl 遠景
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_far01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_far01.jpg
+
+newmtl 鈴奈
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/suzu_cloth01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/suzu_cloth01.jpg
+
+newmtl 鐘
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/suzu_door01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/suzu_door01.jpg
+
+newmtl 鐘.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/suzu_door01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/suzu_door01.jpg
+
+newmtl 障子古
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_window01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/human-village/materials/hito_window01.jpg

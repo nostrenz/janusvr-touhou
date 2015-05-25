@@ -1,0 +1,319 @@
+# Blender MTL File: 'original.blend'
+# Material Count: 29
+
+newmtl Material0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Face.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Face.jpg
+
+newmtl Material1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Face.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Face.jpg
+
+newmtl Material10
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Apron2.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Apron2.jpg
+
+newmtl Material11
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Apron.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Apron.jpg
+
+newmtl Material12
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Skirt.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Skirt.png
+
+newmtl Material13
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.150000 0.150000 0.175000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Knife1.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Knife1.jpg
+
+newmtl Material14
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Knife1.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Knife1.jpg
+
+newmtl Material15
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Shoes.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Shoes.jpg
+
+newmtl Material16
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Shoes.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Shoes.jpg
+
+newmtl Material17
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Shoes.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Shoes.jpg
+
+newmtl Material18
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.456000 0.000000 0.000000
+Ks 0.150000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+
+newmtl Material19
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Eff.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Eff.png
+
+newmtl Material2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Eye2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Eye2.png
+
+newmtl Material20
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.980000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Eff.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Eff.png
+
+newmtl Material21
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.980000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Eff.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Eff.png
+
+newmtl Material22
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.980000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Eff.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Eff.png
+
+newmtl Material23
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Hair.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Hair.png
+
+newmtl Material24
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.980000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Eff.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Eff.png
+
+newmtl Material25
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.980000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Eff.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Eff.png
+
+newmtl Material26
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Eff.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Eff.png
+
+newmtl Material27
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Skirt.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Skirt.png
+
+newmtl Material28
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Skirt.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Skirt.png
+
+newmtl Material3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Hair.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Hair.png
+
+newmtl Material4
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Body.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Body.jpg
+
+newmtl Material5
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.100000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Pants1.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Pants1.jpg
+
+newmtl Material6
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Rbn_H.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Rbn_H.jpg
+
+newmtl Material7
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Blouse.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Blouse.jpg
+
+newmtl Material8
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Cuff.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Cuff.jpg
+
+newmtl Material9
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Vest2.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/materials/Vest2.jpg

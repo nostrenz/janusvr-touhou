@@ -10,6 +10,11 @@
         src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/model.obj'
         mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/model.mtl'
     />
+	<AssetObject
+        id='sakuya-izayoi'
+        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/model.obj'
+        mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/model.mtl'
+    />
   </Assets>
   <Room
   col="1 0 0"
@@ -18,6 +23,9 @@
     <Object use_local_asset="room_plane" id="place" collision_id="place" pos="0 0 0" fwd="0 0 1" locked="true" lighting="true">
 		<Text pos="-3 2.2 12" fwd="0 0 -1" scale="2 1.5 2">Hong Meiling (sleeping)</Text>
 		<Object id="hong-meiling" collision_id="hong-meiling" pos="-3 0.1 12" fwd="0 0 -1" lighting="false"/>
+		
+		<Text pos="-2.5 3.3 -23" fwd="2.5 0 1" scale="2 1.5 2">Sakuya Izayoi</Text>
+		<Object id="sakuya-izayoi" collision_id="sakuya-izayoi" pos="-2.5 1.3 -23" fwd="2.5 0 1" lighting="false"/>
 	</object>
   </Room>
 </FireBoxRoom>
