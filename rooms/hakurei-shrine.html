@@ -1,10 +1,16 @@
 <FireBoxRoom>
   <Assets>
     <AssetObject
-        id='place'
-        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/model.obj'
-        mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/model.mtl'
+        id='place-terrain'
+        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/terrain.obj'
+        mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/terrain.mtl'
     />
+	<AssetObject
+        id='place-plants'
+        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/plants.obj'
+        mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakurei-shrine/plants.mtl'
+    />
+	
 	<AssetObject
         id='reimu-hakurei'
         src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/reimu-hakurei/model.obj'
@@ -20,26 +26,36 @@
         src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/marisa-kirisame/model.obj'
         mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/marisa-kirisame/model.mtl'
     />
+	
+	<AssetShader id="tree_shader"
+		vertex_src="http://www.dgp.toronto.edu/~mccrae/projects/firebox/home/tree_vertex.txt"
+	/>
+	
+	<AssetSound id="bgm" src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/audio/hakurei-shrine.mp3" />
   </Assets>
   <Room
+  locked="true"
+  visible="false"
   col="1 0 0"
-  pos="0 -3.3 67"
+  pos="0 -3 58.5"
   fwd="0 0 -1">
-    <Object use_local_asset="room_plane" id="place" collision_id="place" pos="0 0 0" fwd="0 0 -1" locked="true" lighting="false">
-		<Text pos="0 7.9 -41.5" fwd="0 0 -1" scale="8 8 8">Welcome to the Hakurei Shrine</Text>
+    <Object id="place-terrain" collision_id="place-terrain" pos="0 0 0" fwd="0 0 -1" locked="true" lighting="false">
+		<Text pos="0 6.9 -35.5" fwd="0 0 -1" scale="7 7 7">Welcome to the Hakurei Shrine</Text>
 		
-		<Link pos="5 -1.3 30" fwd="-10 0 1" col="1 0.2 0.9" scale="1.8 3.2 1" url="https://beta.vrsites.com/nostrenz/hakugyokurou" title="Hakugyokurou" />
-		<Link pos="-5 -1.3 27" fwd="10 0 1" col="1 0 0" scale="1.8 3.2 1" url="https://beta.vrsites.com/nostrenz/scarlet-devil-mansion" title="Scarlet Devil Mansion" />
-		<Link pos="5 -1.3 24" fwd="-10 0 1" col="0 0 1" scale="1.8 3.2 1" url="https://beta.vrsites.com/nostrenz/human-village" title="Human village" />
+		<Link pos="6 -1.3 30" fwd="-10 0 1" col="1 0.2 0.9" scale="1.8 3.2 1" url="https://beta.vrsites.com/nostrenz/hakugyokurou" title="Hakugyokurou" />
+		<Link pos="-6 -1.3 27" fwd="10 0 1" col="1 0 0" scale="1.8 3.2 1" url="https://beta.vrsites.com/nostrenz/scarlet-devil-mansion" title="Scarlet Devil Mansion" />
+		<Link pos="6 -1.3 24" fwd="-10 0 1" col="0 0 1" scale="1.8 3.2 1" url="https://beta.vrsites.com/nostrenz/human-village" title="Human village" />
 		
-		<Text pos="-1.8 2.5 -7" fwd="0 0 -1" >Hakurei Reimu</Text>
-		<Object pos="-1.8 0 -7" id="reimu-hakurei" collision_id="reimu-hakurei"  fwd="0 0 -1" scale="0.85 0.85 0.85" lighting="false"/>
+		<Text pos="-1.8 2.1 -6" fwd="0 0 -1" >Hakurei Reimu</Text>
+		<Object pos="-1.8 0 -6" id="reimu-hakurei" collision_id="reimu-hakurei" fwd="0 0 -1" scale="0.85 0.85 0.85" lighting="false"/>
 		
-		<Text pos="-3 1.5 -20" fwd="0 0 -1" >Suika Ibuki</Text>
-		<Object pos="-3 -1.3 -20" id="suika-ibuki" collision_id="suika-ibuki"  fwd="0 0 -1" scale="1 1 1" lighting="false" />
+		<Text pos="-2.5 1.2 -20" fwd="0 0 -1" >Suika Ibuki</Text>
+		<Object pos="-2.5 -1 -20" id="suika-ibuki" collision_id="suika-ibuki" fwd="0 0 -1" scale="1 1 1" lighting="false" />
 		
-		<Text pos="-2.3 1.5 -13" fwd="0 0 -1" >Marisa Kirisame</Text>
-		<Object pos="-2.3 -1.3 -13" id="marisa-kirisame" collision_id="marisa-kirisame"  fwd="0 0 -1" scale="1 1 1" lighting="false" />
-	</object>
+		<Text pos="-2.3 1.35 -13" fwd="0 0 -1" >Marisa Kirisame</Text>
+		<Object pos="-2.3 -1 -13" id="marisa-kirisame" collision_id="marisa-kirisame" fwd="0 0 -1" scale="1 1 1" lighting="false" />
+	</Object>
+	<Object id="place-plants" collision_id="place-plants" pos="0 0 0" fwd="0 0 -1" scale="1 1 1" locked="true" lighting="false" shader_id="tree_shader" blend_src="one_minus_constant_color" blend_dest="constant_color" />
+	<Sound id="bgm" loop="true" rect="-100 100 100 -100" />
   </Room>
 </FireBoxRoom>
