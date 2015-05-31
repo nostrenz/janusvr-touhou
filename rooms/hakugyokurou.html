@@ -10,6 +10,13 @@
         src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/plants.obj"
         mtl="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/plants.mtl"
     />
+
+    <AssetObject id="place-terrain-collision"
+      src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/terrain-collision.obj"
+    />
+    <AssetObject id="place-plants-collision"
+      src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/plants-collision.obj"
+    />
 	
 	<AssetObject
         id='yuyuko-saigyouji'
@@ -21,6 +28,8 @@
         src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/model.obj'
         mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/model.mtl'
     />
+
+    <AssetSound id="bgm" src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/audio/hakugyokurou.mp3" />
 	
 	<AssetShader id="water_shader"
 		src="http://www.gathervr.com/Dizzyhomeroom/watershaderT.txt"
@@ -36,13 +45,14 @@
   col="0.5 0.5 0.5"
   pos="0 0 58"
   fwd="0 0 -1">
-    <Object id="place-terrain" collision_id="place-terrain" pos="0 0 0" fwd="0 0 1" locked="true" lighting="false">
+    <Object id="place-terrain" collision_id="place-terrain-collision" pos="0 0 0" fwd="0 0 1" locked="true" lighting="false">
 		<Text pos="-1 3.2 -25" fwd="0 0 1" scale="2 1.5 2">Yuyuko Saigyouji</Text>
 		<Object id="yuyuko-saigyouji" collision_id="yuyuko-saigyouji" pos="-1 0.8 -25" fwd="0 0 1" lighting="false" />
 		
 		<Text pos="-3 2.8 -25" fwd="0 0 1" scale="2 1.5 2">Youmu Konpaku</Text>
 		<Object id="youmu-konpaku" collision_id="youmu-konpaku" pos="-3 0.8 -25" fwd="0 0 1" lighting="false" />
 	</Object>
-	<Object id="place-plants" pos="0 0 0" fwd="0 0 1" locked="true" lighting="false" shader_id="tree_shader" blend_src="one_minus_constant_color" blend_dest="constant_color" />
+	<Object id="place-plants" collision_id="place-plants-collision" pos="0 0 0" fwd="0 0 1" locked="true" lighting="false" shader_id="tree_shader" blend_src="one_minus_constant_color" blend_dest="constant_color" />
+  <Sound id="bgm" loop="true" rect="-999 999 999 -999" />
   </Room>
 </FireBoxRoom>

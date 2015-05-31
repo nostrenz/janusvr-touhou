@@ -1,0 +1,208 @@
+# Blender MTL File: 'original_groups_scaled_terrain-only_decimated.blend'
+# Material Count: 20
+
+newmtl 材質1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.479360 0.479360 0.479360
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txGround.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txGround.png
+
+newmtl 材質10
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.095360 0.075520 0.057600
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txOldWood.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txOldWood.png
+
+newmtl 材質11
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.479360 0.479360 0.479360
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txSotoba.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txSotoba.png
+
+newmtl 材質12
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.318720 0.318720 0.318720
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txOkeOkiba.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txOkeOkiba.png
+
+newmtl 材質13
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.321280 0.321280 0.321280
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txTombStone.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txTombStone.png
+
+newmtl 材質14
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.160640 0.160640 0.160640
+Ks 0.280000 0.280000 0.280000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 材質15
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.479360 0.479360 0.479360
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txStone.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txStone.png
+
+newmtl 材質16
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.479360 0.479360 0.479360
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txTourou.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txTourou.png
+
+newmtl 材質17
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.160640 0.103040 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 材質18
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/trunc.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/trunc.png
+
+newmtl 材質2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txGround.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txGround.png
+
+newmtl 材質25
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 材質26
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 材質3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txGrass.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txGrass.png
+
+newmtl 材質4
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.569600 0.531840 0.506880
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/gake.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/gake.png
+
+newmtl 材質5
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.577255 0.577255 0.577255
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 材質6
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.479360 0.479360 0.479360
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 材質7
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.128000 0.128000 0.128000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 材質8
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txOldWood.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txOldWood.png
+
+newmtl 材質9
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.384000 0.304000 0.231040
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txOldWood.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txOldWood.png

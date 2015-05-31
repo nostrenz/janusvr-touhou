@@ -1,0 +1,286 @@
+# Blender MTL File: 'None'
+# Material Count: 27
+
+newmtl えり
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.047000 0.047000 0.047000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/niso02.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/niso02.png
+
+newmtl くつ
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/kutsu.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/kutsu.png
+
+newmtl まゆ
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/hair.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/hair.png
+
+newmtl ニーソ
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/niso02.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/niso02.png
+
+newmtl リストバンド
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.850000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/kutsu.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/kutsu.png
+
+newmtl リボン
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/kutsu.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/kutsu.png
+
+newmtl 口1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.240000 0.105360 0.123360
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 口2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.240000 0.105360 0.123360
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 口3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 服
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/fuku.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/fuku.png
+
+newmtl 柄
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/mono.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/mono.png
+
+newmtl 照れ
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/kao.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/kao.png
+
+newmtl 目1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.172549 0.000000 0.000000
+Ks 0.254902 0.000000 0.005882
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 目2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/n_eye07.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/n_eye07.png
+
+newmtl 目3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 肌
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/hada05.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/hada05.png
+
+newmtl 肌普段なし
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.721569 0.489412 0.367059
+Ks 0.047059 0.047059 0.047059
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 蛇
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/mono.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/mono.png
+
+newmtl 蛇目
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.734118 0.000000 0.181961
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/spa4.png
+
+newmtl 赤
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/mono.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/mono.png
+
+newmtl 金属
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.082353 0.082353 0.082353
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/mono.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/mono.png
+
+newmtl 金属2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/maki.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/maki.png
+
+newmtl 青
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/mono.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/mono.png
+
+newmtl 顔1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/kao.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/kao.png
+
+newmtl 髪
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/hair.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/hair.png
+
+newmtl 髪2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.850000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/hair.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/hair.png
+
+newmtl 髪後頭部
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/hair.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/hair.png

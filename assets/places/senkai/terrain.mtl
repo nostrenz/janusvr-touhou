@@ -1,0 +1,354 @@
+# Blender MTL File: 'original_groups.blend'
+# Material Count: 32
+
+newmtl 回廊壁
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinwl03.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinwl03.jpg
+
+newmtl 回廊天井
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinwl04.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinwl04.jpg
+
+newmtl 地面
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shingr01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shingr01.jpg
+
+newmtl 天井
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinrf03.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinrf03.jpg
+
+newmtl 屋根
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinrf01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinrf01.jpg
+
+newmtl 屋根縁
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shindc03.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shindc03.jpg
+
+newmtl 屋根飾り
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shindc04.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shindc04.png
+
+newmtl 屋根飾り2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinrf02.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinrf02.jpg
+
+newmtl 床
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shingr03.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shingr03.jpg
+
+newmtl 座布団
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinob01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinob01.jpg
+
+newmtl 応接家具
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinob03.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinob03.jpg
+
+newmtl 提灯
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinwl08.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinwl08.png
+
+newmtl 本
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/suzubook01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/suzubook01.jpg
+
+newmtl 本棚
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinit03.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinit03.jpg
+
+newmtl 本殿
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinwl08.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinwl08.png
+
+newmtl 机
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinob02.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinob02.jpg
+
+newmtl 柱
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shindc03.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shindc03.jpg
+
+newmtl 柱.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinpl02.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinpl02.jpg
+
+newmtl 柱壁
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinwl01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinwl01.jpg
+
+newmtl 瓶
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/hito_obj01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/hito_obj01.jpg
+
+newmtl 畳襖
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinit01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinit01.jpg
+
+newmtl 白壁
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinwl06.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinwl06.jpg
+
+newmtl 石柱
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinpl01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinpl01.jpg
+
+newmtl 石段
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinst01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinst01.jpg
+
+newmtl 石畳
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shingr02.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shingr02.jpg
+
+newmtl 石飾り
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinst02.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinst02.jpg
+
+newmtl 窓
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinwl05.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinwl05.jpg
+
+newmtl 簾
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shindc05.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shindc05.png
+
+newmtl 金壁
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinwl07.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinwl07.jpg
+
+newmtl 金装飾
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shindc02.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shindc02.jpg
+
+newmtl 鐘楼壁
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinwl02.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shinwl02.jpg
+
+newmtl 門石
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shingt04.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/shingt04.jpg

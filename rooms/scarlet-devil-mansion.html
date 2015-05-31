@@ -1,10 +1,26 @@
 <FireBoxRoom>
   <Assets>
     <AssetObject
-        id='place'
-        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/model.obj'
-        mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/model.mtl'
+        id='place-terrain'
+        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/terrain.obj'
+        mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/terrain.mtl'
     />
+    <AssetObject
+        id='place-decorations'
+        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/decorations.obj'
+        mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/decorations.mtl'
+    />
+    <AssetObject
+        id='place-trees'
+        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/trees.obj'
+        mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/trees.mtl'
+    />
+
+    <AssetObject
+        id='place-terrain-collision'
+        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/terrain-collision.obj'
+    />
+
 	<AssetObject
         id='hong-meiling'
         src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hong-meiling/model.obj'
@@ -15,6 +31,12 @@
         src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/model.obj'
         mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/sakuya-izayoi/model.mtl'
     />
+
+    <AssetSound id="bgm" src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/audio/scarlet-devil-mansion.mp3" />
+
+    <AssetShader id="tree_shader"
+      vertex_src="http://www.dgp.toronto.edu/~mccrae/projects/firebox/home/tree_vertex.txt"
+    />
   </Assets>
   <Room
   locked="true"
@@ -22,12 +44,18 @@
   col="1 0 0"
   pos="0 0.2 13.7"
   fwd="0 0 -1">
-    <Object id="place" collision_id="place" pos="0 0 0" fwd="0 0 1" locked="true" lighting="true">
-		<Text pos="-3 2.2 12" fwd="0 0 -1" scale="2 1.5 2">Hong Meiling (sleeping)</Text>
-		<Object id="hong-meiling" collision_id="hong-meiling" pos="-3 0.1 12" fwd="0 0 -1" lighting="false"/>
-		
-		<Text pos="-2.5 3.3 -23" fwd="2.5 0 1" scale="2 1.5 2">Sakuya Izayoi</Text>
-		<Object id="sakuya-izayoi" collision_id="sakuya-izayoi" pos="-2.5 1.3 -23" fwd="2.5 0 1" lighting="false"/>
-	</object>
+    <Object id="place-terrain" collision_id="place-terrain-collision" pos="0 0 0" fwd="0 0 1" locked="true" lighting="true" >
+    <Link pos="0 1 -34.2" fwd="0 0 1" col="1 0.2 0.9" scale="0.9 1.6 1" url="https://beta.vrsites.com/nostrenz/sdm-hall" title="Hall" />
+    <Link pos="-3.2 1 -33" fwd="1 0 1" col="1 0.2 0.9" scale="0.9 1.6 1" url="https://beta.vrsites.com/nostrenz/sdm-library" title="Library" />
+
+  		<Text pos="-3 2.2 12" fwd="0 0 -1" scale="2 1.5 2">Hong Meiling (sleeping)</Text>
+  		<Object id="hong-meiling" collision_id="hong-meiling" pos="-3 0.1 12" fwd="0 0 -1" lighting="false"/>
+  		
+  		<Text pos="-2.5 3.3 -23" fwd="2.5 0 1" scale="2 1.5 2">Sakuya Izayoi</Text>
+  		<Object id="sakuya-izayoi" collision_id="sakuya-izayoi" pos="-2.5 1.3 -23" fwd="2.5 0 1" lighting="false" />
+	  </Object>
+    <Object id="place-decorations" collision_id="place-decorations" pos="0 0 0" fwd="0 0 1" locked="true" lighting="true" />
+    <Object id="place-trees" collision_id="place-trees" pos="0 0 0" fwd="0 0 1" locked="true" lighting="true" shader_id="tree_shader" blend_src="one_minus_constant_color" blend_dest="constant_color" />
+    <Sound id="bgm" loop="true" rect="-999 999 999 -999" />
   </Room>
 </FireBoxRoom>

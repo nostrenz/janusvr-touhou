@@ -1,0 +1,233 @@
+# Blender MTL File: 'model.blend'
+# Material Count: 21
+
+newmtl 3rdEye
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/3_1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/3_1.png
+
+newmtl 3rdEye2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/3_1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/3_1.png
+
+newmtl EYE
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/ys1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/ys1.png
+
+newmtl Face
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/Kao.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/Kao.png
+
+newmtl FaceIN
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/KaoIN.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/KaoIN.png
+
+newmtl ケーブル
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/4_1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/4_1.png
+
+newmtl スカート1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999900
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.png
+
+newmtl スカート2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999900
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.png
+
+newmtl スカート3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999900
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.png
+
+newmtl ドロワ
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/2_1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/2_1.png
+
+newmtl 上着
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999900
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.png
+
+newmtl 手
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/hand.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/hand.png
+
+newmtl 材質3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/Hoho.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/Hoho.png
+
+newmtl 材質4
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.845000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/sh2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/sh2.png
+
+newmtl 白目
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/Kao.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/Kao.png
+
+newmtl 肌
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/Kao.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/Kao.png
+
+newmtl 肩
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999900
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.png
+
+newmtl 肩後
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999900
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.png
+
+newmtl 袖フリル
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999900
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.png
+
+newmtl 触角
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.419608 0.337255 0.500000
+Ni 1.000000
+d 0.999990
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/5_1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/5_1.png
+
+newmtl 髪
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999990
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/5_1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/5_1.png

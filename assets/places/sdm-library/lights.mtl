@@ -1,0 +1,35 @@
+# Blender MTL File: 'lights.blend'
+# Material Count: 3
+
+newmtl Material1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.075000 0.075000 0.075000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/light2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/light2.png
+
+newmtl Material10
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.075000 0.075000 0.075000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/light9.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/light9.png
+
+newmtl Material9
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.075000 0.075000 0.075000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/light6.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/light6.png

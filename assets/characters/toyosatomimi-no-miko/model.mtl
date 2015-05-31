@@ -1,0 +1,416 @@
+# Blender MTL File: 'original.blend'
+# Material Count: 38
+
+newmtl body
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_body.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_body.png
+
+newmtl coat
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_huku.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_huku.png
+
+newmtl collar
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_huku.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_huku.png
+
+newmtl dorowa
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_dorowa.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_dorowa.png
+
+newmtl eye
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.150000 0.150000 0.150000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_face.png
+
+newmtl face_0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_face.png
+
+newmtl face_1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_face.png
+
+newmtl gold
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_huku.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_huku.png
+
+newmtl hair
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_hair.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_hair.png
+
+newmtl head
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_face.png
+
+newmtl headphone
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_headphone.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_headphone.png
+
+newmtl hl
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.475000 0.475000 0.475000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl huku
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_huku.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_huku.png
+
+newmtl manteau_0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_manteau.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_manteau.png
+
+newmtl manteau_1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_manteau.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_manteau.png
+
+newmtl manteau_cape_0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_manteau.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_manteau.png
+
+newmtl manteau_cape_1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_manteau.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_manteau.png
+
+newmtl manteau_medal
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_manteau.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_manteau.png
+
+newmtl manteau_tunagu_1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_manteau.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_manteau.png
+
+newmtl matuge
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_face.png
+
+newmtl mhBLACK
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_morph.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_morph.tga
+
+newmtl mhE
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_morph.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_morph.tga
+
+newmtl mhFACE
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_morph.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_morph.tga
+
+newmtl mhP
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_morph.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_morph.tga
+
+newmtl nail
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.560000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/2.spa
+
+newmtl pants
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_pants.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_pants.png
+
+newmtl sheath
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_sword.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_sword.png
+
+newmtl sheath_gold
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_sword.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_sword.png
+
+newmtl sirome
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_face.png
+
+newmtl skirt
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_huku.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_huku.png
+
+newmtl skirt_innner
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_huku.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_huku.png
+
+newmtl sword
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_sword.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_sword.png
+
+newmtl sword_crystal
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_crystal.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_crystal.tga
+
+newmtl sword_gold
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_sword.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_sword.png
+
+newmtl syaku
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_syaku.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_syaku.png
+
+newmtl tear
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.680000 0.740000 0.800000
+Ks 0.210000 0.230000 0.250000
+Ni 1.000000
+d 0.800000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/2.spa
+
+newmtl tooth
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_face.png
+
+newmtl tung
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/materials/miko_face.png

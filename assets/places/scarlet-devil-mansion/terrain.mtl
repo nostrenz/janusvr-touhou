@@ -1,0 +1,303 @@
+# Blender MTL File: 'positioned-scaled_corrected.blend'
+# Material Count: 29
+
+newmtl Material0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.125000 0.125000 0.125000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txWall.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txWall.png
+
+newmtl Material0.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txOuterWall.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txOuterWall.png
+
+newmtl Material1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.479360 0.479360 0.479360
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txWall.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txWall.png
+
+newmtl Material1.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txOuterGate.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txOuterGate.png
+
+newmtl Material10
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txCTowerD.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txCTowerD.png
+
+newmtl Material11
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.632320 0.577280
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txClockBoard.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txClockBoard.png
+
+newmtl Material12
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.125000 0.125000 0.125000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txLobby.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txLobby.png
+
+newmtl Material13
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txLobbySub.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txLobbySub.png
+
+newmtl Material14
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txMahojin.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txMahojin.png
+
+newmtl Material17
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txGround.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txGround.png
+
+newmtl Material18
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material19
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txCastleTop.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txCastleTop.png
+
+newmtl Material2.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txOuterFance.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txOuterFance.png
+
+newmtl Material21
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.261120 0.321280 0.177920
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+
+newmtl Material22
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.336000 0.305920 0.225920
+Ks 0.200000 0.200000 0.200000
+Ni 1.000000
+d 0.999000
+illum 2
+
+newmtl Material23
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.609920 0.384000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material24
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.223360 0.135680 0.115200
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material25
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.637440 0.640000 0.617600
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material26
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.081600 0.081600 0.081600
+Ks 0.200000 0.200000 0.200000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txEntOutNormal.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txEntOutNormal.png
+
+newmtl Material3.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txMainGate.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txMainGate.png
+
+newmtl Material4
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txEntOutLite.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txEntOutLite.png
+
+newmtl Material4.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.081600 0.081600 0.081600
+Ks 0.200000 0.200000 0.200000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material5
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txMainGate.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txMainGate.png
+
+newmtl Material6
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txTower.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txTower.png
+
+newmtl Material7
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.321280 0.240640 0.160640
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txKawara.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txKawara.png
+
+newmtl Material8
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.321280 0.240640 0.160640
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txKawaraSide.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txKawaraSide.png
+
+newmtl Material9
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txCTowerL.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/scarlet-devil-mansion/materials/txCTowerL.png

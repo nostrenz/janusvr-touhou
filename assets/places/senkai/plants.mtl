@@ -1,0 +1,68 @@
+# Blender MTL File: 'original_groups.blend'
+# Material Count: 6
+
+newmtl 梅周囲1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/sinprum00.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/sinprum00.png
+
+newmtl 梅周囲2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/sinprum00.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/sinprum00.png
+
+newmtl 梅幹
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/woodume01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/woodume01.jpg
+
+newmtl 梅花1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/woodume03.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/woodume03.png
+
+newmtl 梅花2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/woodume02.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/woodume02.png
+
+newmtl 草
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/hagyo39.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/senkai/materials/hagyo39.png

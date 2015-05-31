@@ -1,0 +1,57 @@
+<FireBoxRoom>
+  <Assets>
+    <AssetObject
+        id='place-terrain'
+        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/terrain.obj'
+        mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/terrain.mtl'
+    />
+    <AssetObject
+        id='place-palanquin'
+        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/palanquin.obj'
+        mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/palanquin.mtl'
+    />
+    <AssetObject
+        id='place-trees'
+        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/trees.obj'
+        mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/trees.mtl'
+    />
+
+    <AssetObject
+        id='place-terrain-collision'
+        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/terrain-collision.obj'
+    />
+    <AssetObject
+        id='place-palanquin-collision'
+        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/palanquin-collision.obj'
+    />
+    <AssetObject
+        id='place-trees-collision'
+        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/trees-collision.obj'
+    />
+
+    <AssetObject
+        id='nue-houjuu'
+        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/model.obj'
+        mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/model.mtl'
+    />
+
+    <AssetShader id="tree_shader"
+      vertex_src="http://www.dgp.toronto.edu/~mccrae/projects/firebox/home/tree_vertex.txt"
+    />
+  </Assets>
+  <Room
+  locked="true"
+  visible="false"
+  col="1 0 0"
+  pos="18.5 0 105"
+  fwd="0 0 -1">
+    <Object id="place-terrain" collision_id="place-terrain-collision" pos="0 0 0" fwd="0 0 1" locked="true" lighting="true">
+
+      <Text pos="18.5 2.2 10" fwd="0 0 1" scale="1 1.2 1">Nue Houjuu</Text>
+      <Object id="nue-houjuu" collision_id="nue-houjuu-collision" pos="18.5 0.1 10" fwd="0 0 1" lighting="false" />
+
+	  </Object>
+    <Object id="place-palanquin" collision_id="place-palanquin-collision" pos="0 0 0" fwd="0 0 1" locked="true" lighting="true" />
+    <Object id="place-trees" collision_id="place-trees-collision" pos="0 0 0" fwd="0 0 1" locked="true" lighting="true" shader_id="tree_shader" blend_src="one_minus_constant_color" blend_dest="constant_color" />
+  </Room>
+</FireBoxRoom>

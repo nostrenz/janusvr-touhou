@@ -1,0 +1,57 @@
+# Blender MTL File: 'None'
+# Material Count: 5
+
+newmtl ハードカバー
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/books/materials/Book.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/books/materials/Book.jpg
+
+newmtl ページ
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/books/materials/Book.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/books/materials/Book.jpg
+
+newmtl 繰りページ上
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/books/materials/Page.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/books/materials/Page.jpg
+
+newmtl 繰りページ下
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/books/materials/Page.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/books/materials/Page.jpg
+
+newmtl 繰りページ中
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/books/materials/Page.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/books/materials/Page.jpg

@@ -1,0 +1,91 @@
+<FireBoxRoom>
+  <Assets>
+    <AssetObject
+        id='place-room'
+        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/room.obj'
+        mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/room.mtl'
+    />
+    <AssetObject
+        id='place-lights'
+        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/lights.obj'
+        mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/lights.mtl'
+    />
+
+    <AssetObject
+        id='place-room-collision'
+        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/room-collision.obj'
+    />
+
+    <AssetObject
+        id='patchouli-knowledge'
+        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/model.obj'
+        mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/model.mtl'
+    />
+    <AssetObject
+        id='patchouli-knowledge-collision'
+        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/model-collision.obj'
+    />
+
+    <AssetObject
+        id='koakuma'
+        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koakuma/model.obj'
+        mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koakuma/model.mtl'
+    />
+    <AssetObject
+        id='koakuma-collision'
+        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koakuma/model-collision.obj'
+    />
+
+    <AssetObject
+        id='book-opened'
+        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/books/book-opened.obj'
+        mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/books/book-opened.mtl'
+    />
+    <AssetObject
+        id='book-closed'
+        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/books/book-closed.obj'
+        mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/books/book-closed.mtl'
+    />
+
+    <AssetImage id="sky" src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage1.png" />
+    <AssetImage id="ingame-library" src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/images/sdm-library.jpg" />
+
+    <AssetSound id="bgm" src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/audio/sdm-library.mp3" />
+
+    <AssetWebSurface id="wiki" src="http://en.touhouwiki.net/wiki/Patchouli_Knowledge" />
+  </Assets>
+  <Room
+  skybox_left_id="sky" skybox_right_id="sky" skybox_front_id="sky" skybox_back_id="sky" skybox_up_id="sky" skybox_down_id="sky"
+  locked="true"
+  visible="false"
+  col="1 0 0"
+  pos="0 16 -33"
+  fwd="0 0 1">
+    <Object id="place-room" collision_id="place-room-collision" pos="0 0 0" fwd="0 0 1" locked="true" lighting="true">
+
+      <Text pos="-2.5 1.8 -5" fwd="0 0 -1" >Patchouli Knowledge</Text>
+      <Object
+        pos="-2.5 0 -5"
+        id="patchouli-knowledge"
+        collision_id="patchouli-knowledge-collision"
+        fwd="0 0 -1"
+        scale="1 1 1"
+        lighting="false"
+        locked="true"
+      />
+      <!-- Locked="true" girl! Ahah... -->
+
+      <Text pos="-7 8.8 5" fwd="0 0 -1" >Koakuma</Text>
+      <Object pos="-7 6.9 5" id="koakuma" collision_id="koakuma-collision" fwd="-1 0 -1" scale="1 1 1" lighting="false" />
+
+      <Object id="book-opened" fwd="0 0 1" pos="0 1 -3.8" scale="0.7 0.7 0.7" />
+      <Object id="book-closed" fwd="0 0 1" pos="-1 1 -4.7" scale="0.6 0.6 0.6" />
+      <Object id="book-opened" fwd="0 1 1" pos="-4.5 1 -5" scale="0.7 0.7 0.7" />
+
+	  </Object>
+    <Object id="plane" locked="true" fwd="0 1 -1" pos="-4.5 1.11 -5.11" scale="0.82 0.67 1" cull_face="none" collision_id="plane" websurface_id="wiki" />
+    <Image id="ingame-library" pos="-2.5 16 -30" fwd="0 1 -1" scale="1 1 1"/>
+    <Object id="place-lights" locked="true" pos="0 0 0" scale="0.7 0.7 0.7" lighting="true" />
+    <Sound id="bgm" loop="true" rect="-999 999 999 -999" />
+  </Room>
+</FireBoxRoom>

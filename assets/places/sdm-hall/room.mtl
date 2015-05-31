@@ -1,0 +1,46 @@
+# Blender MTL File: 'original.blend'
+# Material Count: 4
+
+newmtl 材質1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-hall/materials/wall2.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-hall/materials/wall2.jpg
+
+newmtl 材質2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.266240 0.266240 0.266240
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-hall/materials/ceiling.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-hall/materials/ceiling.jpg
+
+newmtl 材質3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.800000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-hall/materials/floor2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-hall/materials/floor2.png
+
+newmtl 材質4
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-hall/materials/floor.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-hall/materials/floor.png

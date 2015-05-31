@@ -1,0 +1,31 @@
+# Blender MTL File: 'original_groups_scaled.blend'
+# Material Count: 3
+
+newmtl 材質5
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.577255 0.577255 0.577255
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 材質7
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.128000 0.128000 0.128000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 材質9
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.384000 0.304000 0.231040
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txOldWood.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txOldWood.png
