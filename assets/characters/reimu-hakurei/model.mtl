@@ -9,8 +9,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/reimu-hakurei/materials/body.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/reimu-hakurei/materials/body.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/reimu-hakurei/materials/body.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/reimu-hakurei/materials/body.jpg
 
 newmtl 01:さらし
 Ns 96.078431
@@ -20,8 +20,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/reimu-hakurei/materials/body.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/reimu-hakurei/materials/body.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/reimu-hakurei/materials/body.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/reimu-hakurei/materials/body.jpg
 
 newmtl 02:上着
 Ns 96.078431
@@ -31,8 +31,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/reimu-hakurei/materials/ue.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/reimu-hakurei/materials/ue.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/reimu-hakurei/materials/ue.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/reimu-hakurei/materials/ue.jpg
 
 newmtl 03:スカーツ
 Ns 96.078431
@@ -42,8 +42,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/reimu-hakurei/materials/skt.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/reimu-hakurei/materials/skt.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/reimu-hakurei/materials/skt.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/reimu-hakurei/materials/skt.jpg
 
 newmtl 04:後髪
 Ns 96.078431
@@ -53,8 +53,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/reimu-hakurei/materials/kami.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/reimu-hakurei/materials/kami.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/reimu-hakurei/materials/kami.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/reimu-hakurei/materials/kami.jpg
 
 newmtl 05:白目
 Ns 96.078431
@@ -130,8 +130,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/reimu-hakurei/materials/kage.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/reimu-hakurei/materials/kage.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/reimu-hakurei/materials/face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/reimu-hakurei/materials/face.png
 
 newmtl 12:かみ
 Ns 96.078431
@@ -141,8 +141,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/reimu-hakurei/materials/kami.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/reimu-hakurei/materials/kami.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/reimu-hakurei/materials/kami.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/reimu-hakurei/materials/kami.jpg
 
 newmtl joint
 Ns 96.078431

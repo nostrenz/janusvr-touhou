@@ -30,19 +30,11 @@
         src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/model.obj'
         mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/model.mtl'
 	    />
-	    <AssetObject
-	        id='hieda-no-akyuu-collision'
-	        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/model-collision.obj'
-	    />
 
 	    <AssetObject
         id='keine-kamishirasawa'
         src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/model.obj'
         mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/model.mtl'
-	    />
-	    <AssetObject
-	        id='keine-kamishirasawa-collision'
-	        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/model-collision.obj'
 	    />
 
 		<AssetSound id="bgm" src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/audio/human-village.mp3" />
@@ -66,13 +58,13 @@
 	fwd="0 0 -1">
 		<Object id="place-terrain" collision_id="place-terrain-collision" pos="0 0 0" fwd="0 0 1" locked="true" lighting="false">
 
-			<Text pos="3 1.9 -1" fwd="-1 0 1" scale="1 1.5 1">Hieda No Akyuu</Text>
-    		<Object id="hieda-no-akyuu" collision_id="hieda-no-akyuu-collision" pos="3 0 -1" fwd="-1 0 1" lighting="false" />
-
-    		<Text pos="-116 3 -61.5" fwd="10 0 -1" scale="1 1.5 1">Keine Kamishirasawa</Text>
-    		<Object id="keine-kamishirasawa" collision_id="keine-kamishirasawa-collision" pos="-116 0.8 -61.5" fwd="10 0 -1" lighting="false" />
-
 		</Object>
+
+		<Text pos="3 1.9 -1" fwd="-1 0 1" scale="1 1.5 1">Hieda No Akyuu</Text>
+		<Object id="hieda-no-akyuu" collision_radius="0.5" pos="3 0 -1" fwd="-1 0 1" lighting="false" />
+
+		<Text pos="-116 3 -61.5" fwd="10 0 -1" scale="1 1.5 1">Keine Kamishirasawa</Text>
+		<Object id="keine-kamishirasawa" collision_radius="0.5" pos="-116 0.8 -61.5" fwd="10 0 -1" lighting="false" />
 
 		<Object id="plane" locked="true" pos="-4 0.7 -1" fwd="2 1 1" scale="2 1 1" cull_face="none" collision_id="plane" websurface_id="wiki-village" />
 		<Object id="plane" locked="true" pos="-115 1.9 -60.5" fwd="-100 30 1" scale="0.65 0.4 1" cull_face="none" collision_id="plane" websurface_id="wiki-keine" />

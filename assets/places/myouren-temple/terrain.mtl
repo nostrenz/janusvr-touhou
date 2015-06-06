@@ -9,8 +9,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txGround.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txGround.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txGround.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txGround.jpg
 
 newmtl 材質10
 Ns 96.078431
@@ -20,8 +20,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txOldWood.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txOldWood.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txOldWood.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txOldWood.jpg
 
 newmtl 材質11
 Ns 96.078431
@@ -73,8 +73,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txStone.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txStone.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txStone.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txStone.jpg
 
 newmtl 材質16
 Ns 96.078431
@@ -84,8 +84,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txTourou.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txTourou.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txTourou.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txTourou.jpg
 
 newmtl 材質17
 Ns 96.078431
@@ -115,8 +115,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txGround.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txGround.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txGround.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txGround.jpg
 
 newmtl 材質25
 Ns 96.078431
@@ -144,8 +144,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txGrass.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txGrass.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txGrass.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txGrass.jpg
 
 newmtl 材質4
 Ns 96.078431
@@ -193,8 +193,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txOldWood.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txOldWood.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txOldWood.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txOldWood.jpg
 
 newmtl 材質9
 Ns 96.078431
@@ -204,5 +204,5 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txOldWood.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txOldWood.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txOldWood.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txOldWood.jpg

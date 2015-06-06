@@ -2,20 +2,20 @@
 # Material Count: 30
 
 newmtl bloomers
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku5.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku5.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku5.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku5.jpg
 
 newmtl body
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
@@ -24,20 +24,20 @@ map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/c
 map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/ski.png
 
 newmtl collar
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku3.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku3.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku3.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku3.jpg
 
 newmtl eye
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
@@ -46,9 +46,9 @@ map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/c
 map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/eye.png
 
 newmtl eye_heart
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
@@ -57,20 +57,20 @@ map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/c
 map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/heart.png
 
 newmtl eye_shine
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/face.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/face.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/face.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/face.jpg
 
 newmtl eye_sparkle
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
@@ -79,20 +79,20 @@ map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/c
 map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/sitake.png
 
 newmtl face
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/face.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/face.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/face.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/face.jpg
 
 newmtl facials
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
@@ -101,229 +101,229 @@ map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/c
 map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/morph.png
 
 newmtl frill
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku4.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku4.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku4.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku4.jpg
 
 newmtl hair
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/h.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/h.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/h.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/h.jpg
 
 newmtl hat
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku8.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku8.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku8.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku8.jpg
 
 newmtl hat_frill
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku11.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku11.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku11.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku11.jpg
 
 newmtl hat_holder
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku6.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku6.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku6.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku6.jpg
 
 newmtl hat_pattern
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku10.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku10.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku10.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku10.jpg
 
 newmtl hat_pattern_back
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku10a.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku10a.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku10a.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku10a.jpg
 
 newmtl mouth
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/face.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/face.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/face.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/face.jpg
 
 newmtl shoe
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku12.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku12.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku12.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku12.jpg
 
 newmtl skirt
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku2.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku2.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku2.jpg
 
 newmtl skirt_frill
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku2.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku2.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku2.jpg
 
 newmtl skirt_in
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku3.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku3.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku3.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku3.jpg
 
 newmtl sleeve
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku3.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku3.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku3.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku3.jpg
 
 newmtl sleeve_frill
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku6.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku6.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku6.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku6.jpg
 
 newmtl socks
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku13.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku13.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku13.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku13.jpg
 
 newmtl top
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku2.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku2.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku2.jpg
 
 newmtl top_frill
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku2.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku2.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku2.jpg
 
 newmtl waist
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku3.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku3.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku3.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku3.jpg
 
 newmtl waist_holder
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku7.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku7.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku7.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku7.jpg
 
 newmtl waist_ribbon
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku3.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku3.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku3.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/materials/fuku3.jpg
 
 newmtl worry
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.602353 0.602353 0.602353
+Kd 0.481882 0.481882 0.481882
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000

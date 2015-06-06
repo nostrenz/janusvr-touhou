@@ -1,0 +1,218 @@
+# Blender MTL File: 'body.blend'
+# Material Count: 22
+
+newmtl Material12
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/ksn_hair.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/ksn_hair.jpg
+
+newmtl Material13
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_Body.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_Body.jpg
+
+newmtl Material15
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_Suit.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_Suit.jpg
+
+newmtl Material17
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_Suit.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_Suit.jpg
+
+newmtl Material18
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_Suit.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_Suit.jpg
+
+newmtl Material19
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_Suit.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_Suit.jpg
+
+newmtl Material20
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.250000 0.150000 0.150000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_Suit.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_Suit.jpg
+
+newmtl Material21
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.400000 0.400000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_Suit.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_Suit.jpg
+
+newmtl Material22
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.400000 0.400000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_Suit.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_Suit.jpg
+
+newmtl mmd_tools_rigid_1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.941176 0.901961 0.549020
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
+
+newmtl mmd_tools_rigid_10
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.352941 0.588235 0.305882
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
+
+newmtl mmd_tools_rigid_11
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.901961 0.749020 0.670588
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
+
+newmtl mmd_tools_rigid_12
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.827451 0.219608 0.109804
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
+
+newmtl mmd_tools_rigid_13
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.086275 0.368627 0.513726
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
+
+newmtl mmd_tools_rigid_2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.933333 0.509804 0.933333
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
+
+newmtl mmd_tools_rigid_3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.894118 0.882353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
+
+newmtl mmd_tools_rigid_4
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.560784 0.933333 0.933333
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
+
+newmtl mmd_tools_rigid_5
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.678431 1.000000 0.184314
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
+
+newmtl mmd_tools_rigid_6
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.980392 0.501961 0.447059
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
+
+newmtl mmd_tools_rigid_7
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.439216 0.858824
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
+
+newmtl mmd_tools_rigid_8
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.250980 0.878431 0.815686
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
+
+newmtl mmd_tools_rigid_9
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.588235 0.317647 0.301961
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0

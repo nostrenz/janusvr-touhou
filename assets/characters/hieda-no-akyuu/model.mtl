@@ -1,107 +1,107 @@
-# Blender MTL File: 'original.blend'
+# Blender MTL File: 'None'
 # Material Count: 22
 
 newmtl Material0
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.640000 0.640000 0.640000
+Kd 0.512000 0.512000 0.512000
 Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 0.980000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txFlower.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txFlower.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txFlower.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txFlower.jpg
 
 newmtl Material1
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.640000 0.640000 0.640000
+Kd 0.512000 0.512000 0.512000
 Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txFace.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txFace.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txFace.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txFace.jpg
 
 newmtl Material10
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.640000 0.640000 0.640000
+Kd 0.512000 0.512000 0.512000
 Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txFrill.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txFrill.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txFrill.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txFrill.jpg
 
 newmtl Material11
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.640000 0.640000 0.640000
+Kd 0.512000 0.512000 0.512000
 Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txSkirt.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txSkirt.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txSkirt.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txSkirt.jpg
 
 newmtl Material12
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.640000 0.640000 0.640000
+Kd 0.512000 0.512000 0.512000
 Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txFoot.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txFoot.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txFoot.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txFoot.jpg
 
 newmtl Material13
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.640000 0.640000 0.640000
+Kd 0.512000 0.512000 0.512000
 Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txTabi.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txTabi.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txTabi.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txTabi.jpg
 
 newmtl Material14
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.640000 0.321280 0.321280
+Kd 0.512000 0.257024 0.257024
 Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txEye.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txEye.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txEye.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txEye.jpg
 
 newmtl Material15
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.800000 0.800000 0.800000
+Kd 0.640000 0.640000 0.640000
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.600000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txEyeHL.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txEyeHL.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txEyeHL.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txEyeHL.jpg
 
 newmtl Material16
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.640000 0.640000 0.640000
+Kd 0.512000 0.512000 0.512000
 Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txOther.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txOther.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txOther.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txOther.jpg
 
 newmtl Material17
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
 Kd 0.000000 0.000000 0.000000
 Ks 0.050000 0.050000 0.050000
@@ -110,131 +110,131 @@ d 1.000000
 illum 2
 
 newmtl Material18
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.800000 0.800000 0.800000
+Kd 0.640000 0.640000 0.640000
 Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
 
 newmtl Material19
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.640000 0.640000 0.640000
+Kd 0.512000 0.512000 0.512000
 Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 0.980000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txHair.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txHair.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txHair.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txHair.jpg
 
 newmtl Material2
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.640000 0.640000 0.640000
+Kd 0.512000 0.512000 0.512000
 Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txFace.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txFace.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txFace.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txFace.jpg
 
 newmtl Material20
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.640000 0.640000 0.640000
+Kd 0.512000 0.512000 0.512000
 Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 0.980000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txHair.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txHair.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txHair.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txHair.jpg
 
 newmtl Material21
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.640000 0.640000 0.640000
+Kd 0.512000 0.512000 0.512000
 Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 0.980000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txHoppe.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txHoppe.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txHoppe.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txHoppe.jpg
 
 newmtl Material3
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.640000 0.640000 0.640000
+Kd 0.512000 0.512000 0.512000
 Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 0.980000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txMouth.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txMouth.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txMouth.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txMouth.jpg
 
 newmtl Material4
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.640000 0.640000 0.640000
+Kd 0.512000 0.512000 0.512000
 Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txBody.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txBody.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txBody.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txBody.jpg
 
 newmtl Material5
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.640000 0.640000 0.640000
+Kd 0.512000 0.512000 0.512000
 Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txSleeve.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txSleeve.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txSleeve.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txSleeve.jpg
 
 newmtl Material6
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.640000 0.640000 0.640000
+Kd 0.512000 0.512000 0.512000
 Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txUCloth.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txUCloth.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txUCloth.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txUCloth.jpg
 
 newmtl Material7
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.640000 0.640000 0.640000
+Kd 0.512000 0.512000 0.512000
 Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txHBelt.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txHBelt.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txHBelt.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txHBelt.jpg
 
 newmtl Material8
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.640000 0.640000 0.640000
+Kd 0.512000 0.512000 0.512000
 Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txHRope.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txHRope.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txHRope.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txHRope.jpg
 
 newmtl Material9
-Ns 96.078431
+Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.640000 0.640000 0.640000
+Kd 0.512000 0.512000 0.512000
 Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txHRibbn.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txHRibbn.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txHRibbn.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/hieda-no-akyuu/materials/txHRibbn.jpg

@@ -37,6 +37,8 @@
     <AssetShader id="tree_shader"
       vertex_src="http://www.dgp.toronto.edu/~mccrae/projects/firebox/home/tree_vertex.txt"
     />
+
+    <AssetWebSurface id="wiki" src="http://en.touhouwiki.net/wiki/Scarlet_Devil_Mansion" />
   </Assets>
   <Room
   locked="true"
@@ -45,17 +47,23 @@
   pos="0 0.2 13.7"
   fwd="0 0 -1">
     <Object id="place-terrain" collision_id="place-terrain-collision" pos="0 0 0" fwd="0 0 1" locked="true" lighting="true" >
-    <Link pos="0 1 -34.2" fwd="0 0 1" col="1 0.2 0.9" scale="0.9 1.6 1" url="https://beta.vrsites.com/nostrenz/sdm-hall" title="Hall" />
-    <Link pos="-3.2 1 -33" fwd="1 0 1" col="1 0.2 0.9" scale="0.9 1.6 1" url="https://beta.vrsites.com/nostrenz/sdm-library" title="Library" />
 
-  		<Text pos="-3 2.2 12" fwd="0 0 -1" scale="2 1.5 2">Hong Meiling (sleeping)</Text>
-  		<Object id="hong-meiling" collision_id="hong-meiling" pos="-3 0.1 12" fwd="0 0 -1" lighting="false"/>
-  		
-  		<Text pos="-2.5 3.3 -23" fwd="2.5 0 1" scale="2 1.5 2">Sakuya Izayoi</Text>
-  		<Object id="sakuya-izayoi" collision_id="sakuya-izayoi" pos="-2.5 1.3 -23" fwd="2.5 0 1" lighting="false" />
+      <Link pos="0 1 -34.2" fwd="0 0 1" col="1 0.2 0.9" scale="0.9 1.6 1" url="http://beta.vrsites.com/nostrenz/sdm-hall" title="Hall" />
+      <Link pos="-3.2 1 -33" fwd="1 0 1" col="1 0.2 0.9" scale="0.9 1.6 1" url="http://beta.vrsites.com/nostrenz/sdm-library" title="Library" />
+
 	  </Object>
+
+    <Text pos="-3 2.2 12" fwd="0 0 -1" scale="2 1.5 2">Hong Meiling (sleeping)</Text>
+    <Object id="hong-meiling" collision_radius="0.5" pos="-3 0.1 12" fwd="0 0 -1" lighting="false"/>
+    
+    <Text pos="-2.5 3.3 -23" fwd="2.5 0 1" scale="2 1.5 2">Sakuya Izayoi</Text>
+    <Object id="sakuya-izayoi" collision_radius="0.5" pos="-2.5 1.3 -23" fwd="2.5 0 1" lighting="false" />
+
     <Object id="place-decorations" collision_id="place-decorations" pos="0 0 0" fwd="0 0 1" locked="true" lighting="true" />
     <Object id="place-trees" collision_id="place-trees" pos="0 0 0" fwd="0 0 1" locked="true" lighting="true" shader_id="tree_shader" blend_src="one_minus_constant_color" blend_dest="constant_color" />
+
+    <Object id="plane" locked="true" pos="-3 1.8 -27" fwd="1 0 -2" scale="1 1.5 1" cull_face="none" collision_id="plane" websurface_id="wiki" />
+
     <Sound id="bgm" loop="true" rect="-999 999 999 -999" />
   </Room>
 </FireBoxRoom>
