@@ -79,7 +79,7 @@
   pos="0 0 -8.3"
   fwd="0 0 1">
     <div id="room">
-      <Object id="place-room" collision_id="place-room" pos="0 0 0" fwd="0 0 1" locked="true" lighting="true" >
+      <Object id="place-room" collision_id="place-room" cull_face="none" pos="0 0 0" fwd="0 0 1" locked="true" lighting="true" >
       
   	  </Object>
       <Object id="plane" locked="true" pos="-2.5 0.9 8.5" xdir="1 0 0" ydir="0 0.707 -0.707" zdir="0 0.707 0.707" scale="2 1 1" cull_face="none" collision_id="plane" websurface_id="wiki" />
@@ -88,17 +88,17 @@
     <div id="characters">
       <div class="character">
         <Text pos="-1 1.7 0" fwd="0 0 -1" scale="1.5 1.5 1.5">Remilia Scarlet</Text>
-        <Object id="remilia-scarlet-bodystatic" collision_radius="0.5" pos="-1 0 0" fwd="0 0 -1" lighting="false"/>
-        <Object id="remilia-scarlet-hair" pos="-1 0 0" fwd="0 0 -1" lighting="false" shader_id="hair-shader" />
-        <Object id="remilia-scarlet-dress" pos="-1 0 0" fwd="0 0 -1" lighting="false" shader_id="dress-shader" />
+        <Object id="remilia-scarlet-bodystatic" cull_face="none" collision_radius="0.5" pos="-1 0 0" fwd="0 0 -1" lighting="false"/>
+        <Object id="remilia-scarlet-hair" cull_face="none" pos="-1 0 0" fwd="0 0 -1" lighting="false" shader_id="hair-shader" />
+        <Object id="remilia-scarlet-dress" cull_face="none" pos="-1 0 0" fwd="0 0 -1" lighting="false" shader_id="dress-shader" />
         <Object id="remilia-scarlet-wings" pos="-1 0 0" fwd="0 0 -1" lighting="false" shader_id="wings-shader" />
         <Object id="remilia-scarlet-details" pos="-1 0 0" fwd="0 0 -1" lighting="false" shader_id="hair-shader" />
       </div>
       <div class="character">
         <Text pos="1 1.7 0" fwd="0 0 -1" scale="1.5 1.5 1.5">Flandre Scarlet</Text>
-        <Object id="flandre-scarlet-bodystatic" pos="1 0 0" fwd="0 0 -1" lighting="false" collision_radius="0.5" />
-        <Object id="flandre-scarlet-hair" pos="1 0 0" fwd="0 0 -1" lighting="false" shader_id="hair-shader" />
-        <Object id="flandre-scarlet-dress" pos="1 0 0" fwd="0 0 -1" lighting="false" shader_id="dress-shader" />
+        <Object id="flandre-scarlet-bodystatic" cull_face="none" pos="1 0 0" fwd="0 0 -1" lighting="false" collision_radius="0.5" />
+        <Object id="flandre-scarlet-hair" cull_face="none" pos="1 0 0" fwd="0 0 -1" lighting="false" shader_id="hair-shader" />
+        <Object id="flandre-scarlet-dress" cull_face="none" pos="1 0 0" fwd="0 0 -1" lighting="false" shader_id="dress-shader" />
         <Object id="flandre-scarlet-wings" pos="1 0 0" fwd="0 0 -1" lighting="false" shader_id="wings-shader" />
         <Object id="flandre-scarlet-details" pos="1 0 0" fwd="0 0 -1" lighting="false" shader_id="hair-shader" />
       </div>

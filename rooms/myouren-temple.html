@@ -60,17 +60,17 @@
   col="1 0 0"
   pos="18.5 0 105"
   fwd="0 0 -1">
-    <Object id="place-terrain" collision_id="place-terrain-collision" fwd="0 0 1" locked="true" lighting="true">
+    <Object id="place-terrain" collision_id="place-terrain-collision" cull_face="none" fwd="0 0 1" locked="true" lighting="true">
 
 	  </Object>
 
     <div class="character">
       <Text pos="18.5 2.2 10" fwd="0 0 1" scale="1.5 1.5 1.5">Nue Houjuu</Text>
-      <Object id="nue-houjuu-body" pos="18.5 0.1 10" fwd="0 0 1" lighting="false" collision_radius="0.5" />
-      <Object id="nue-houjuu-hair" pos="18.5 0.1 10" fwd="0 0 1" lighting="false" shader_id="hair-shader" />
+      <Object id="nue-houjuu-body" cull_face="none" pos="18.5 0.1 10" fwd="0 0 1" lighting="false" collision_radius="0.5" />
+      <Object id="nue-houjuu-hair" cull_face="none" pos="18.5 0.1 10" fwd="0 0 1" lighting="false" shader_id="hair-shader" />
     </div>
 
     <Object id="place-palanquin" collision_id="place-palanquin-collision" fwd="0 0 1" locked="true" lighting="true" />
-    <Object id="place-trees" collision_id="place-trees-collision" fwd="0 0 1" locked="true" lighting="true" shader_id="tree_shader" blend_src="one_minus_constant_color" blend_dest="constant_color" />
+    <Object id="place-trees" collision_id="place-trees-collision" cull_face="none" fwd="0 0 1" locked="true" lighting="true" shader_id="tree_shader" blend_src="one_minus_constant_color" blend_dest="constant_color" />
   </Room>
 </FireBoxRoom>

@@ -50,12 +50,12 @@
 	 </Object>
 
    <Text pos="-1 3.2 -25" fwd="0 0 1" scale="2 1.5 2">Yuyuko Saigyouji</Text>
-   <Object id="yuyuko-saigyouji" collision_radius="0.5" pos="-1 0.8 -25" fwd="0 0 1" lighting="false" />
+   <Object id="yuyuko-saigyouji" cull_face="none" collision_radius="0.5" pos="-1 0.8 -25" fwd="0 0 1" lighting="false" />
   
    <Text pos="-3 2.8 -25" fwd="0 0 1" scale="2 1.5 2">Youmu Konpaku</Text>
-   <Object id="youmu-konpaku" collision_radius="0.5" pos="-3 0.8 -25" fwd="0 0 1" lighting="false" />
+   <Object id="youmu-konpaku" cull_face="none" collision_radius="0.5" pos="-3 0.8 -25" fwd="0 0 1" lighting="false" />
 
-	 <Object id="place-plants" collision_id="place-plants-collision" pos="0 0 0" fwd="0 0 1" locked="true" lighting="false" shader_id="tree_shader" blend_src="one_minus_constant_color" blend_dest="constant_color" />
+	 <Object id="place-plants" collision_id="place-plants-collision" cull_face="none" pos="0 0 0" fwd="0 0 1" locked="true" lighting="false" shader_id="tree_shader" blend_src="one_minus_constant_color" blend_dest="constant_color" />
     <Sound id="bgm" loop="true" rect="-999 999 999 -999" />
   </Room>
 </FireBoxRoom>
