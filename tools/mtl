@@ -4,21 +4,27 @@
 # Display errors like missing or unused material files
 # Usage: in the base folder, call tools/mtl 'assets/characters/kasen-ibaraki' for exemple.
 
-P="$1" # Exemple: 'assets/characters/kasen-ibaraki' or 'assets/places/senkai/terrain.mtl'
+P="$1" # Path. Exemple: 'assets/characters/kasen-ibaraki' or 'assets/places/senkai/terrain.mtl'
 
-# Get all files referenced in the given .mtl file, and verifiy if it exists in the materials/ folder
+#======================================================================
+# File actions
+# exemple: assets/places/senkai/terrain.mtl
+#=======================================================================
+
+# Get all files referenced in the given .mtl file, and verify if it exists in the materials/ folder
 function checkFiles {
-	path=$1
-	mtl="${path##*/}" # MTL file extracted from path
-
+	mtl="${1##*/}" # MTL file extracted from path
 	for file in $(cat "$mtl" | rev | cut -d '/' -f 1 -s | rev | sort | uniq); do
-		filename=$(echo "$file" | cut -d . -f 1) #extension=`echo $file | cut -d . -f 2`
-		if ! [ $(find "materials/$file" 2> /dev/null) ]; then
-			if ! [ $(find "materials/$filename.*" 2> /dev/null) ]; then
+		filename=$(echo "$file" | cut -d . -f 1) #extension=$(echo $file | cut -d . -f 2)
+		if ! [[ $(find "materials/$file" 2> /dev/null) ]]; then
+			if ! [[ "$(find materials/$filename.* 2> /dev/null)" ]]; then
 				echo -e "\e[101m NOT FOUND: $file \e[0m"
-				if ! [ -d "materials/unused" ]; then
+				#if ! [[ -d "materials/unused" ]] # if folder does not exists
+				# If the file can't be found inside the unused folder
+				if ! [[ $(find "materials/unused/$file" 2> /dev/null) ]]; then
 					echo -e "\e[101m -> This file is missing from the materials folder, and MUST be added to it. \e[0m"
-				elif [ $(find "materials/unused/$file" 2> /dev/null) ]; then
+				# Else, we ask to restore it into materials/
+				else
 					if [[ "no" == $(askForConfirmation "There is an unused folder and the file was found in it. Do you want to move it?") ]]
 					then
 						echo -e "\e[101m File $mtl still in the unused folder, it will not be loaded with the model. \e[0m"
@@ -32,7 +38,7 @@ function checkFiles {
 				echo -e "\e[101m File $material was found in materials/, but is referenced as $file in $1 \e[0m"
 				if [[ "no" == $(askForConfirmation "Do you want to change $file for $material in the mtl file?") ]]
 				then
-					echo -e "\e[101m Extension not changed, you will be prompted to move it into the unused folder lated. \e[0m"
+					echo -e "\e[101m Extension not changed. \e[0m"
 				else
 					sed -i "s/$file/$material/g" "$1"
 					echo -e "\e[42m -> extension changed in mtl file \e[0m"
@@ -45,31 +51,9 @@ function checkFiles {
 
 # Get all files in materials/ and search for them in the given mtl file.
 function checkReferences {
-	path=$1
-	mtl="${path##*/}" # MTL file extracted from path
-
-	for file in `find materials/ -maxdepth 1 -type f -printf "%f\n"`; do # Get only files
-		if ! grep -q "$file" "$mtl";
-		then
-		    checkFile "$file"
-		fi
-	done
-}
-
-# Just execute checkFiles for each mtl files in the given folder.
-function checkFilesForFolder {
-	for file in *.mtl; do
-		checkFiles "$file"
-	done
-}
-
-# Get all files in materials/ and search for them in all mtl files in the given folder.
-function checkReferencesForFolder {
-	mtls=$(find ./*.mtl -exec cat {} \;);
-
-	for file in $(find materials/ -maxdepth 1 -type f -printf "%f\n"); do # Get only files
-		if ! [[ $mtls == *"$file"* ]]
-		then
+	mtl="${1##*/}" # MTL file extracted from path
+	for file in materials/*.*; do
+		if ! grep -q "$file" "$mtl"; then
 			checkFile "$file"
 		fi
 	done
@@ -79,55 +63,139 @@ function checkReferencesForFolder {
 function checkFile {
 	file="$1"
 	echo -e "\e[30;48;5;166m NOT FOUND: $file is not referenced in any mtl file inside this folder. \e[0m"
-    echo -e "\e[30;48;5;166m -> This file is not needed. \e[0m"
-    # Ask for deletion
-    if [[ "no" == $(askForConfirmation "Do you want to move it to the unused folder?") ]]; then
-	 	echo -e "\e[30;48;5;166m File $file conserved. \e[0m"
-	# Move the unused material into a 'unused' folder, so it can be retreived later if needed.
+   echo -e "\e[30;48;5;166m -> This file is not needed. \e[0m"
+   # Ask for moving the unused file to the 'unused' folder
+   if [[ "no" == $(askForConfirmation "Do you want to move it to the unused folder?") ]]; then
+		echo -e "\e[30;48;5;166m File $file conserved. \e[0m"
+	# Move the unused material into a 'unused' folder, so it can be retrieved later if needed.
 	else
 		if ! [ -d "materials/unused" ]; then
 			mkdir "materials/unused"
 		fi
-		mv "materials/$file" "materials/unused/$file"
+		mv "materials/${file##*/}" "materials/unused/${file##*/}"
 		echo -e "\e[42m Material file $file moved to materials/unused \e[0m"
 	fi
 	echo ""
 }
 
+#=====================================================================
+# Folder actions
+# exemple: assets/places/senkai
+#=====================================================================
+
+# Just execute checkFiles for each mtl files in the given folder.
+function checkFilesForFolder {
+	for file in *.mtl; do
+		checkFiles "$file"
+	done
+	#echo -e "\e[102m OK! No errors for $(dirname "$P$file") \e[0m"
+}
+
+# Get all files in materials/ and search for them in all mtl files in the given folder.
+function checkReferencesForFolder {
+	mtls=$(find ./*.mtl -exec cat {} \;);
+	for file in materials/*.*; do
+		if ! [[ $mtls == *"$file"* ]]; then # If the mtl file contain a referece for this material file
+			checkFile "$file"
+		fi
+	done
+}
+
+#=====================================================================
+# Miscs
+# other functions.
+#=====================================================================
+
 # Just display all materials files referenced in all mtl files in the assets/ folder.
 function displayAllReferencedMaterials {
 	for mtl in $(grep -r "http" "assets/" --include="*.mtl" | awk -F: '{print $1}' | uniq); do
+		echo "$mtl :"
 		for file in $(cat "$mtl" | rev | cut -d '/' -f 1 -s | rev | sort | uniq); do
-			echo "$file"
+			echo "-- $file"
 		done
 	done
 }
 
-function askForConfirmation {
-    read -p "$1 ([y]es / [n]o): "
-    case $(echo "$REPLY" | tr '[A-Z]' '[a-z]') in
-        y|yes) echo "yes" ;;
-        *)     echo "no" ;;
-    esac
+# Execute checkFilesForFolder and checkReferencesForFolder for all character, place and object folders
+function checkAll {
+	# Characters
+	for folder in assets/characters/*; do
+		echo "ASSET :: $folder"
+		cd "$folder"
+		checkFilesForFolder
+		checkReferencesForFolder
+		cd "../../.."
+	done
+	# Places
+	for folder in assets/places/*; do
+		echo "ASSET :: $folder"
+		cd "$folder"
+		checkFilesForFolder
+		checkReferencesForFolder
+		cd "../../.."
+	done
+	# Objects
+	for folder in assets/objects/*; do
+		echo "ASSET :: $folder"
+		cd "$folder"
+		checkFilesForFolder
+		checkReferencesForFolder
+		cd "../../.."
+	done
 }
 
-# ==========================================================================
+function askForConfirmation {
+   read -p "$1 ([y]es / [n]o): "
+   case $(echo "$REPLY" | tr '[A-Z]' '[a-z]') in
+      y|yes) echo "yes" ;;
+   	*)     echo "no" ;;
+ 	esac
+}
 
-if [[ -d $P ]]; then # If the given path is a folder
-    echo "Now checking materials for folder: $P"
-    cd "$P"
-    checkFilesForFolder
-	checkReferencesForFolder
-elif [[ -f $P ]] && [[ $P =~ \.mtl$ ]]; then # If the given path is a mtl file
-	echo "Now checking materials for MTL file: $P"
+function showHelp {
+	echo "Usages: tools/mtl [PATH]"
+	echo "        tools/mtl [ARG]"
 	echo
-	cd "$(dirname "$P")"
-    checkFiles "$P"
-	checkReferences "$P"
+	echo "PATH:"
+	echo "     path to an mtl file or the folder containing mtl files"
+	echo "ARG: "
+	echo "*    --display-all"
+	echo "         	  Just display all referenced materials in all mtl files"
+	echo "*    --check-all"
+	echo "         	  Check all mtl files"
+	echo "*    --help"
+	echo "         	  Show help"
+}
+
+#=====================================================================
+# Main
+#=====================================================================
+
+# First check if the first parameter is a fixed argument:
+if [ "$1" == "--display-all" ]; then
+	displayAllReferencedMaterials
+elif [ "$1" == "--check-all" ]; then
+	checkAll
+elif [ "$1" == "--help" ]; then
+	showHelp
+# Else, if it's a path:
 else
-    echo "$P is not a valid path."
-    echo "You must provide a path to a folder, or an mtl file."
-    exit 1
+	if [[ -d $P ]]; then # If the given path is a folder
+	   echo "Now checking materials for folder: $P"
+	   cd "$P"
+	   checkFilesForFolder
+		checkReferencesForFolder
+	elif [[ -f $P ]] && [[ $P =~ \.mtl$ ]]; then # If the given path is a mtl file
+		echo "Now checking materials for MTL file: $P"
+		echo
+		cd "$(dirname "$P")"
+	   checkFiles "$P"
+		checkReferences "$P"
+	else
+	   echo "$P is not a valid path."
+	   echo "You must provide a path to a folder, or an mtl file."
+	   exit 1
+	fi
 fi
 
-exit 0
+exit
