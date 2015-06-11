@@ -23,7 +23,7 @@ function checkFiles {
 				# If the file can't be found inside the unused folder
 				if ! [[ $(find "materials/unused/$file" 2> /dev/null) ]]; then
 					echo -e "\e[101m -> This file is missing from the materials folder, and MUST be added to it. \e[0m"
-				# Else, we ask to restore it into materials/
+				# Else, we ask for restoring it into materials/
 				else
 					if [[ "no" == $(askForConfirmation "There is an unused folder and the file was found in it. Do you want to move it?") ]]
 					then
@@ -88,7 +88,6 @@ function checkFilesForFolder {
 	for file in *.mtl; do
 		checkFiles "$file"
 	done
-	#echo -e "\e[102m OK! No errors for $(dirname "$P$file") \e[0m"
 }
 
 # Get all files in materials/ and search for them in all mtl files in the given folder.
@@ -160,7 +159,7 @@ function showHelp {
 	echo "     path to an mtl file or the folder containing mtl files"
 	echo "ARG: "
 	echo "*    --display-all"
-	echo "         	  Just display all referenced materials in all mtl files"
+	echo "         	  Display all referenced materials in all mtl files"
 	echo "*    --check-all"
 	echo "         	  Check all mtl files"
 	echo "*    --help"

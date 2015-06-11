@@ -108,7 +108,7 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/metal4.sph
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/metal4.jpg
 
 newmtl 材質19
 Ns 96.078431
