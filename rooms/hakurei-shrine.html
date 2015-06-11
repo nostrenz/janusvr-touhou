@@ -152,16 +152,6 @@
          />
       </div>
       <div class="marisa-kirisame">
-         <Text pos="0.5 2 -2.2" fwd="0 0 1" >Suika Ibuki</Text>
-         <Object id="suika-ibuki"
-            pos="0.5 0 -2.2"
-            cull_face="none"
-            collision_radius="0.5"
-            fwd="0 0 1"
-            lighting="false"
-         />
-      </div>
-      <div class="suika-ibuki">
          <Text pos="-2.3 1.35 13" fwd="0 0 1" >Marisa Kirisame</Text>
          <Object id="marisa-kirisame"
             pos="-2.3 -1 13"
@@ -169,6 +159,16 @@
             collision_radius="0.5" fwd="0 0 1"
             lighting="false"
             scale="0.85 0.85 0.85"
+         />
+      </div>
+      <div class="suika-ibuki">
+         <Text pos="0.5 2 -2.2" fwd="0 0 1" >Suika Ibuki</Text>
+         <Object id="suika-ibuki"
+            pos="0.5 0 -2.2"
+            cull_face="none"
+            collision_radius="0.5"
+            fwd="0 0 1"
+            lighting="false"
          />
       </div>
       <div class="kasen-ibaraki">
@@ -183,7 +183,7 @@
    </div>
 
    <Object id="plane"
-      locked="true"
+      websurface_id="wiki"
       pos="-2.5 -1.5 51.5"
       xdir="1 0 0"
       ydir="0 0.707 -0.707"
@@ -191,12 +191,13 @@
       scale="2 1 1"
       cull_face="none"
       collision_id="plane"
-      websurface_id="wiki"
+      locked="true"
   />
    <Image id="map"
       pos="2.5 -1.5 51.5"
       fwd="0 1 1"
       scale="1 1 1"
+      locked="true"
    />
 	<Sound id="bgm" loop="true" rect="-100 100 100 -100" />
 </Room>
