@@ -42,8 +42,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/Kao.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/Kao.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/Kao.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/Kao.jpg
 
 newmtl FaceIN
 Ns 96.078431
@@ -75,8 +75,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999900
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.jpg
 
 newmtl スカート2
 Ns 96.078431
@@ -86,8 +86,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999900
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.jpg
 
 newmtl スカート3
 Ns 96.078431
@@ -97,8 +97,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999900
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.jpg
 
 newmtl ドロワ
 Ns 96.078431
@@ -108,8 +108,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/2_1.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/2_1.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/2_1.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/2_1.jpg
 
 newmtl 上着
 Ns 96.078431
@@ -119,8 +119,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999900
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.jpg
 
 newmtl 手
 Ns 96.078431
@@ -163,8 +163,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/Kao.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/Kao.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/Kao.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/Kao.jpg
 
 newmtl 肌
 Ns 96.078431
@@ -174,8 +174,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/Kao.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/Kao.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/Kao.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/Kao.jpg
 
 newmtl 肩
 Ns 96.078431
@@ -185,8 +185,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999900
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.jpg
 
 newmtl 肩後
 Ns 96.078431
@@ -196,8 +196,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999900
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.jpg
 
 newmtl 袖フリル
 Ns 96.078431
@@ -207,8 +207,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999900
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/1_1.jpg
 
 newmtl 触角
 Ns 96.078431
@@ -218,8 +218,8 @@ Ks 0.419608 0.337255 0.500000
 Ni 1.000000
 d 0.999990
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/5_1.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/5_1.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/5_1.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/5_1.jpg
 
 newmtl 髪
 Ns 96.078431
@@ -229,5 +229,5 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999990
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/5_1.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/5_1.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/5_1.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/materials/5_1.jpg

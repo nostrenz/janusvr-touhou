@@ -218,7 +218,7 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/j.spa
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/j.png
 
 newmtl Material26
 Ns 96.078431
