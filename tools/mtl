@@ -18,6 +18,7 @@ checkMaterialFiles() {
 	filepath="$1"
 	dirpath="${1%/*}"
 	mtl_filename="${1##*/}" # MTL file extracted from path #$mtl
+	# CAT return nothing if paths in mtl file contain anti-slash instead of slash.
 	for file in $(cat "$filepath" | rev | cut -d '/' -f 1 -s | rev | sort | uniq); do
 		img_filename=$(echo "$file" | cut -d . -f 1)
 		if ! [[ $(find "$dirpath/materials/$file" 2> /dev/null) ]]; then
@@ -38,13 +39,13 @@ checkMaterialFiles() {
 					fi
 				fi
 			else
-				material=$(find -name "$img_filename.*" -printf "%f\n")
+				material=$(find "$dirpath/materials/" -name "$img_filename.*" -printf "%f\n")
 				echo -e "\e[101m File $material was found in materials/, but is referenced as $file in $1 \e[0m"
 				if [[ "no" == $(askForConfirmation "Do you want to change $file for $material in the mtl file?") ]]
 				then
 					echo -e "\e[101m Extension not changed. \e[0m"
 				else
-					sed -i "s/$file/$material/g" "$1"
+					sed -i "s,$file,$material,g" "$1"
 					echo -e "\e[42m -> extension changed in mtl file \e[0m"
 				fi
 			fi
@@ -109,8 +110,8 @@ checkFilesForFolder() {
 # Get all files in materials/ and search for them in all mtl files in the given folder.
 checkReferencesForFolder() {
 	mtls=$(find $1/*.mtl -exec cat {} \;);
-	for file in $1materials/*.*; do
-		if ! [[ $mtls == *"$file"* ]]; then # If the mtl file contain a reference for this material file
+	for file in $1/materials/*.*; do
+		if ! [[ $mtls == *"${file##*/}"* ]]; then # If the mtl file contain a reference for this material file
 			echo -e "\e[30;48;5;166m NOT FOUND: material '${file##*/}' is not referenced in any mtl file inside this folder. \e[0m"
 			checkMaterialFile "$file"
 		fi
@@ -122,7 +123,7 @@ checkFolder() {
 	checkFilesForFolder "$1"
 	checkReferencesForFolder "$1"
 	if [ "$errors" == "0" ]; then
-		echo -e "$1...\e[92m OK! \e[0m"
+	   echo -e "$1...\e[92m OK! \e[0m"
 	else
 		echo -e "$1...\e[91m $errors errors \e[0m"
 	fi
