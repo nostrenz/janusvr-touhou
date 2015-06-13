@@ -1,0 +1,210 @@
+# Blender MTL File: 'None'
+# Material Count: 19
+
+newmtl スカート紐
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/body.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/body.jpg
+
+newmtl スカート紐裏
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/body.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/body.jpg
+
+newmtl ボタン
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.250000 0.250000 0.250000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/buttons.png
+
+newmtl 口
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/face.png
+
+newmtl 団子
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/hair2.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/hair2.jpg
+
+newmtl 手
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/body.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/body.jpg
+
+newmtl 服茶
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/body.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/body.jpg
+
+newmtl 服黒
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/body.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/body.jpg
+
+newmtl 歯
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/face.png
+
+newmtl 涙
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/face.png
+
+newmtl 白目
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/face.png
+
+newmtl 目周辺
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/face.png
+
+newmtl 瞳
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/eye.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/eye.png
+
+newmtl 脚
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/body.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/body.jpg
+
+newmtl 靴
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/shoes.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/shoes.png
+
+newmtl 靴下
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/sox.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/sox.png
+
+newmtl 顔
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/face.png
+
+newmtl 顔２
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/face2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/face2.png
+
+newmtl 髪
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/hair.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/materials/hair.jpg

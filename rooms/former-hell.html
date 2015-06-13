@@ -17,6 +17,16 @@
          src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/trees-collision.obj'
       />
    </div>
+   <div class="characters">
+      <AssetObject id='yuugi-hoshiguma'
+         src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/model.obj'
+         mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/model.mtl'
+      />
+      <AssetObject id='yamame-kurodani'
+         src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/model.obj'
+         mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/model.mtl'
+      />
+   </div>
    <div class="images">
       <AssetImage id="sky_left"
          src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/skybox.jpg"
@@ -91,6 +101,28 @@
          blend_src="one_minus_constant_color"
          blend_dest="constant_color"
       />
+   </div>
+   <div class="characters">
+      <div class="yamame-kurodani">
+	   <Text pos="-2 2 15" fwd="0 0 -1" >Yamame Kurodani</Text>
+		<Object id="yamame-kurodani"
+				collision_radius="0.5"
+				pos="-2 0.1 15"
+				fwd="0 0 -1"
+				lighting="false"
+				cull_face="none"
+		/>
+		</div>
+	   <div class="yuugi-hoshiguma">
+	   	<Text pos="-2 2.5 -9" fwd="0 0 1" >Yuugi Hoshiguma</Text>
+		 	<Object id="yuugi-hoshiguma"
+				collision_radius="0.5"
+				pos="-2 0.1 -9"
+				fwd="0 0 1"
+				lighting="false"
+				cull_face="none"
+		 	/>
+		</div>
    </div>
    <div class="links">
       <Link url="http://beta.vrsites.com/nostrenz/palace-of-the-earth-spirits"

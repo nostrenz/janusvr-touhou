@@ -1,0 +1,174 @@
+# Blender MTL File: 'scaled.blend'
+# Material Count: 16
+
+newmtl Material0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/materials/Yg_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/materials/Yg_face.png
+
+newmtl Material1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.792000 0.792000 0.792000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/materials/Yg_hair.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/materials/Yg_hair.png
+
+newmtl Material10
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/materials/Yg_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/materials/Yg_face.png
+
+newmtl Material11
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material12
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material13
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/materials/Yu_cheak.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/materials/Yu_cheak.png
+
+newmtl Material14
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/materials/Kimono.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/materials/Kimono.png
+
+newmtl Material15
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/materials/Kimono.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/materials/Kimono.png
+
+newmtl Material2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/materials/Yg_hair.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/materials/Yg_hair.png
+
+newmtl Material3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/materials/Yg_Body.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/materials/Yg_Body.png
+
+newmtl Material4
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/materials/Yg_Sports.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/materials/Yg_Sports.png
+
+newmtl Material5
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/materials/Kimono.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/materials/Kimono.png
+
+newmtl Material6
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/materials/Kimono.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/materials/Kimono.png
+
+newmtl Material7
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/materials/Yg_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/materials/Yg_face.png
+
+newmtl Material8
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/materials/Yg_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/materials/Yg_face.png
+
+newmtl Material9
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/materials/Yg_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuugi-hoshiguma/materials/Yg_face.png
