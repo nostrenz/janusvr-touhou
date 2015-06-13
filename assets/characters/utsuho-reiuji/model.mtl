@@ -1,0 +1,513 @@
+# Blender MTL File: 'original.blend'
+# Material Count: 48
+
+newmtl ○
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(hada).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(hada).png
+
+newmtl えり1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(syatu).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(syatu).png
+
+newmtl えり2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(syatu).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(syatu).png
+
+newmtl つめ
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(hada).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(hada).png
+
+newmtl ほほ染め
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(hada).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(hada).png
+
+newmtl まつげ
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(hada).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(hada).png
+
+newmtl シャツ
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(syatu).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(syatu).png
+
+newmtl シャツ模様1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(huku).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(huku).png
+
+newmtl シャツ模様2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(huku).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(huku).png
+
+newmtl スカート1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(skart).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(skart).png
+
+newmtl スカート2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(skart).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(skart).png
+
+newmtl ドロワ
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(huku).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(huku).png
+
+newmtl ドロワリボン
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.384000 0.321280
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl ボタン
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(skart).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(skart).png
+
+newmtl マント表
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(syatu).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(syatu).png
+
+newmtl マント裏
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(manto).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(manto).png
+
+newmtl ヤタの目1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(hada).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(hada).png
+
+newmtl ヤタの目2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(huku).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(huku).png
+
+newmtl ヤタの目3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.193280 0.266240
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.100000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/bn05.png
+
+newmtl ヤタの目4
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl リボン
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(syatu).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(syatu).png
+
+newmtl 光球1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.346240 0.426880 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.900000
+illum 2
+
+newmtl 光球1軌跡
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.479360 0.587520 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.900000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(koukyuu).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(koukyuu).png
+
+newmtl 光球2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.346240 0.426880 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.900000
+illum 2
+
+newmtl 光球2軌跡
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.479360 0.587520 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.900000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(koukyuu).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(koukyuu).png
+
+newmtl 光球3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.346240 0.426880 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.900000
+illum 2
+
+newmtl 光球3軌跡
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.479360 0.587520 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.900000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(koukyuu).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(koukyuu).png
+
+newmtl 口
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(hada).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(hada).png
+
+newmtl 目
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(hada).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(hada).png
+
+newmtl 目光1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(hada).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(hada).png
+
+newmtl 目光2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(hada).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(hada).png
+
+newmtl 瞳
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(hada).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(hada).png
+
+newmtl 第三の足1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(skart).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(skart).png
+
+newmtl 第三の足2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(skart).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(skart).png
+
+newmtl 第三の足3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/m.png
+
+newmtl 第三の足4
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.128000 0.128000 0.128000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/m.png
+
+newmtl 翼
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(syatu).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(syatu).png
+
+newmtl 肌
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(hada).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(hada).png
+
+newmtl 舌
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(hada).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(hada).png
+
+newmtl 融合の足
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(skart).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(skart).png
+
+newmtl 足先
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(hada).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(hada).png
+
+newmtl 靴
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.380000 0.380000 0.380000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(syatu).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(syatu).png
+
+newmtl 靴下
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(syatu).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(syatu).png
+
+newmtl 髪1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(kami).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(kami).png
+
+newmtl 髪2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(huku).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(huku).png
+
+newmtl 髪3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(kami).png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/materials/okuu(kami).png
+
+newmtl 黒い太陽1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.720000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.980000
+illum 2
+
+newmtl 黒い太陽2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.900000
+illum 2

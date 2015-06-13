@@ -26,6 +26,20 @@
          src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/model.obj'
          mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yamame-kurodani/model.mtl'
       />
+      <AssetObject id='rin-kaenbyou'
+         src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/rin-kaenbyou/model.obj'
+         mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/rin-kaenbyou/model.mtl'
+      />
+      <AssetObject id='utsuho-reiuji'
+         src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/model.obj'
+         mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/utsuho-reiuji/model.mtl'
+      />
+   </div>
+   <div class="objects">
+      <AssetObject id='wheelbarrow'
+         src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/wheelbarrow/model.obj'
+         mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/wheelbarrow/model.mtl'
+      />
    </div>
    <div class="images">
       <AssetImage id="sky_left"
@@ -123,6 +137,35 @@
 				cull_face="none"
 		 	/>
 		</div>
+      <div class="rin-kaenbyou">
+         <Text pos="0 2.1 -184.5" fwd="0 0 1" >Rin Kaenbyou</Text>
+         <Object id="rin-kaenbyou"
+            collision_radius="0.5"
+            pos="0 0 -184.5"
+            fwd="0 0 1"
+            lighting="false"
+            cull_face="none"
+         />
+      </div>
+      <div class="utsuho-reiuji">
+         <Text pos="0 2.3 -170" fwd="0 0 -1" >utsuho-reiuji</Text>
+         <Object id="utsuho-reiuji"
+            collision_radius="0.5"
+            pos="0 0 -170"
+            fwd="0 0 -1"
+            lighting="false"
+            cull_face="none"
+         />
+      </div>
+   </div>
+   <div class="objects">
+      <Object id="wheelbarrow"
+         collision_radius="0.5"
+         pos="0 0 -183"
+         fwd="0 0 1"
+         lighting="true"
+         cull_face="none"
+      />
    </div>
    <div class="links">
       <Link url="http://beta.vrsites.com/nostrenz/palace-of-the-earth-spirits"
