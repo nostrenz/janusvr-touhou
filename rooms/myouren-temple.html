@@ -48,6 +48,10 @@
               mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/hair.mtl'
          />
       </div>
+      <AssetObject id='yoshika-miyako'
+         src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/model.obj'
+         mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/model.mtl'
+      />
    </div>
    <div class="shaders">
       <AssetShader id="tree_shader"
@@ -97,6 +101,16 @@
             lighting="false"
             shader_id="hair-shader"
             locked="true"
+         />
+      </div>
+      <div class="yoshika-miyako">
+         <Text pos="-14.8 7 -45" fwd="1 0 1" scale="1.5 1.5 1.5">Yoshika Miyako</Text>
+         <Object id="yoshika-miyako"
+            pos="-14.8 5 -45"
+            fwd="1 0 1"
+            lighting="false"
+            cull_face="none"
+            collision_radius="0.5"
          />
       </div>
    </div>

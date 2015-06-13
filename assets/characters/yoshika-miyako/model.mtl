@@ -1,0 +1,260 @@
+# Blender MTL File: 'scaled.blend'
+# Material Count: 24
+
+newmtl badge
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_badge.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_badge.png
+
+newmtl body
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_body.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_body.jpg
+
+newmtl bousi
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_bousi.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_bousi.png
+
+newmtl dorowa
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_dorowa.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_dorowa.jpg
+
+newmtl eye
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_face.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_face.jpg
+
+newmtl eye_red
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_face.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_face.jpg
+
+newmtl faceA
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_face.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_face.jpg
+
+newmtl faceB
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_face.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_face.jpg
+
+newmtl hair
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_hair.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_hair.jpg
+
+newmtl himo
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_huku.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_huku.png
+
+newmtl hl
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl huku
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_huku.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_huku.png
+
+newmtl huku_c
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_huku.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_huku.png
+
+newmtl morphEye
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_mhE.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_mhE.png
+
+newmtl morphFace
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_mhF.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_mhF.png
+
+newmtl nail
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.080000 0.400000
+Ks 0.062500 0.025000 0.125000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/2.png
+
+newmtl ohuda
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yosika_ohuda.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yosika_ohuda.jpg
+
+newmtl pants
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_body.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_body.jpg
+
+newmtl shirt
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.720000 0.720000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_huku.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_huku.png
+
+newmtl sirome
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_face.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_face.jpg
+
+newmtl skirt
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_huku.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_huku.png
+
+newmtl skirt_c
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_huku.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/yoshika_huku.png
+
+newmtl tear
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.680000 0.740000 0.800000
+Ks 0.210000 0.230000 0.250000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yoshika-miyako/materials/2.png
+
+newmtl tooth
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
