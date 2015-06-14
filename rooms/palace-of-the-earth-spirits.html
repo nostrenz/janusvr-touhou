@@ -14,6 +14,10 @@
          src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/model.obj'
          mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/model.mtl'
       />
+      <AssetObject id='koishi-komeiji'
+         src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/model.obj'
+         mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/model.mtl'
+      />
    </div>
    <div class="objects">
       <AssetObject id='neko-orin'
@@ -47,6 +51,15 @@
          collision_radius="0.5"
          pos="0 3.05 -10"
          fwd="0 0 1"
+         cull_face="none"
+         lighting="false"
+      />
+      <Text pos="-2 7.5 -16" fwd="1 0 1" scale="1 1.5 1">Koishi Komeiji</Text>
+      <Object
+         id="koishi-komeiji"
+         collision_radius="0.5"
+         pos="-2 5.5 -16"
+         fwd="1 0 1"
          cull_face="none"
          lighting="false"
       />
