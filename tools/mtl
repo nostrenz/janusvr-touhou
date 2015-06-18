@@ -111,9 +111,11 @@ checkFilesForFolder() {
 checkReferencesForFolder() {
 	mtls=$(find $1/*.mtl -exec cat {} \;);
 	for file in $1/materials/*.*; do
-		if ! [[ $mtls == *"${file##*/}"* ]]; then # If the mtl file contain a reference for this material file
-			echo -e "\e[30;48;5;166m NOT FOUND: material '${file##*/}' is not referenced in any mtl file inside this folder. \e[0m"
-			checkMaterialFile "$file"
+		if [ "${file##*/}" != "*.*" ]; then # Do not go further if there is no mtl file
+			if ! [[ $mtls == *"${file##*/}"* ]]; then # If the mtl file contain a reference for this material file
+				echo -e "\e[30;48;5;166m NOT FOUND: material '${file##*/}' is not referenced in any mtl file inside this folder. \e[0m"
+				checkMaterialFile "$file"
+			fi
 		fi
 	done
 }
