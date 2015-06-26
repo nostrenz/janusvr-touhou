@@ -22,7 +22,7 @@ checkMaterialFiles() {
 	for file in $(cat "$filepath" | rev | cut -d '/' -f 1 -s | rev | sort | uniq); do
 		img_filename=$(echo "$file" | cut -d . -f 1)
 		if ! [[ $(find "$dirpath/materials/$file" 2> /dev/null) ]]; then
-			if ! [[ "$(find $dirpath/materials/$img_filename.* 2> /dev/null)" ]]; then
+			if ! [[ $(find "$dirpath/materials/$img_filename.*" 2> /dev/null) ]]; then
 				echo -e "\e[101m NOT FOUND: $file in $1 \e[0m"
 				# If the file can't be found inside the unused folder
 				if ! [[ $(find "$dirpath/materials/unused/$file" 2> /dev/null) ]]; then
@@ -109,11 +109,12 @@ checkFilesForFolder() {
 
 # Get all files in materials/ and search for them in all mtl files in the given folder.
 checkReferencesForFolder() {
-	mtls=$(find $1/*.mtl -exec cat {} \;);
-	for file in $1/materials/*.*; do
-		if [ "${file##*/}" != "*.*" ]; then # Do not go further if there is no mtl file
-			if ! [[ $mtls == *"${file##*/}"* ]]; then # If the mtl file contain a reference for this material file
-				echo -e "\e[30;48;5;166m NOT FOUND: material '${file##*/}' is not referenced in any mtl file inside this folder. \e[0m"
+	mtls=$(find "$1"/*.mtl -exec cat {} \;);
+	for file in $1/materials/*; do
+		file="${file##*/}"
+		if [ "$file" != "*" ]; then # Do not go further if there is no mtl file
+			if ! [[ $mtls == *"$file"* ]]; then # If the mtl file contain a reference for this material file
+				echo -e "\e[30;48;5;166m NOT FOUND: material '$file' is not referenced in any mtl file inside this folder. \e[0m"
 				checkMaterialFile "$file"
 			fi
 		fi
@@ -124,7 +125,7 @@ checkReferencesForFolder() {
 checkFolder() {
 	checkFilesForFolder "$1"
 	checkReferencesForFolder "$1"
-	if [ "$errors" == "0" ]; then
+   if [ "$errors" == "0" ]; then
 	   echo -e "$1...\e[92m OK! \e[0m"
 	else
 		echo -e "$1...\e[91m $errors errors \e[0m"
@@ -165,10 +166,10 @@ checkAll() {
 
 askForConfirmation() {
    read -p "$1 ([y]es / [n]o): "
-   case $(echo "$REPLY" | tr '[A-Z]' '[a-z]') in
+   case $(echo "$REPLY" | tr ':A-Z:' ':a-z:') in
       y|yes) echo "yes" ;;
    	*)     echo "no" ;;
- 	esac
+   esac
 }
 
 showHelp() {
@@ -181,7 +182,7 @@ showHelp() {
 	echo "*    --display-all"
 	echo "         	  Display all referenced materials in all mtl files"
 	echo "*    --check-all"
-	echo "         	  Check all mtl files"
+	echo "         	  Check all mtl files in assets/"
 	echo "*    --help"
 	echo "         	  Show help"
 }
