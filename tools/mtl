@@ -22,7 +22,7 @@ checkMaterialFiles() {
 	for file in $(cat "$filepath" | rev | cut -d '/' -f 1 -s | rev | sort | uniq); do
 		img_filename=$(echo "$file" | cut -d . -f 1)
 		if ! [[ $(find "$dirpath/materials/$file" 2> /dev/null) ]]; then
-			if ! [[ $(find "$dirpath/materials/$img_filename.*" 2> /dev/null) ]]; then
+			if ! [[ "$(find $dirpath/materials/$img_filename.* 2> /dev/null)" ]]; then
 				echo -e "\e[101m NOT FOUND: $file in $1 \e[0m"
 				# If the file can't be found inside the unused folder
 				if ! [[ $(find "$dirpath/materials/unused/$file" 2> /dev/null) ]]; then
@@ -110,12 +110,12 @@ checkFilesForFolder() {
 # Get all files in materials/ and search for them in all mtl files in the given folder.
 checkReferencesForFolder() {
 	mtls=$(find "$1"/*.mtl -exec cat {} \;);
-	for file in $1/materials/*.*; do
-		file="${file##*/}"
-		if [ "$file" != "*.*" ]; then # Do not go further if there is no mtl file
-			if ! [[ $mtls == *"$file"* ]]; then # If the mtl file contain a reference for this material file
-				echo -e "\e[30;48;5;166m NOT FOUND: material '$file' is not referenced in any mtl file inside this folder. \e[0m"
-				checkMaterialFile "$file"
+	for filepath in $1/materials/*.*; do
+		filename="${filepath##*/}"
+		if [ "$filename" != "*.*" ]; then # Do not go further if there is no mtl file
+			if ! [[ $mtls == *"$filename"* ]]; then # If the mtl file contain a reference for this material file
+				echo -e "\e[30;48;5;166m NOT FOUND: material '$filename' is not referenced in any mtl file inside this folder. \e[0m"
+				checkMaterialFile "$filepath"
 			fi
 		fi
 	done
