@@ -1,0 +1,101 @@
+# Blender MTL File: 'scaled.blend'
+# Material Count: 9
+
+newmtl eye
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/kogasa-umbrella/materials/umb6.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/kogasa-umbrella/materials/umb6.jpg
+
+newmtl geta
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/kogasa-umbrella/materials/mm1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/kogasa-umbrella/materials/mm1.png
+
+newmtl handle
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/kogasa-umbrella/materials/umb3.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/kogasa-umbrella/materials/umb3.png
+
+newmtl layer
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/kogasa-umbrella/materials/umb4.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/kogasa-umbrella/materials/umb4.jpg
+
+newmtl mouth
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/kogasa-umbrella/materials/umb2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/kogasa-umbrella/materials/umb2.png
+
+newmtl sock
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/kogasa-umbrella/materials/tr02.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/kogasa-umbrella/materials/tr02.jpg
+
+newmtl tier
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/kogasa-umbrella/materials/umb2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/kogasa-umbrella/materials/umb2.png
+
+newmtl tounge
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/kogasa-umbrella/materials/umb1.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/kogasa-umbrella/materials/umb1.jpg
+
+newmtl white
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/kogasa-umbrella/materials/umb5.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/kogasa-umbrella/materials/umb5.png
