@@ -1,0 +1,343 @@
+# Blender MTL File: 'original.blend'
+# Material Count: 31
+
+newmtl まつげ
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/face.png
+
+newmtl まゆげ
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/face.png
+
+newmtl キュロット
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/culottes.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/culottes.png
+
+newmtl スカーフ
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/cloth.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/cloth.jpg
+
+newmtl スカーフ留め
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/cloth.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/cloth.jpg
+
+newmtl セーラー
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/cloth.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/cloth.jpg
+
+newmtl ベルト
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/belt.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/belt.png
+
+newmtl 体
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/body.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/body.jpg
+
+newmtl 光
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/face.png
+
+newmtl 前髪
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/mhair.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/mhair.png
+
+newmtl 前髪２
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/mhair.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/mhair.png
+
+newmtl 口
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/mouth.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/mouth.png
+
+newmtl 帽子
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/bikini.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/bikini.png
+
+newmtl 後髪
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/mhair.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/mhair.png
+
+newmtl 後髪２
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/mhair.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/mhair.png
+
+newmtl 歯
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/mouth.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/mouth.png
+
+newmtl 水着
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/bikini.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/bikini.png
+
+newmtl 白目
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/face.png
+
+newmtl 目
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/eye.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/eye.png
+
+newmtl 舌
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/mouth.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/mouth.png
+
+newmtl 襟
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/cloth.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/cloth.jpg
+
+newmtl 金具
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/belt2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/belt2.png
+
+newmtl 錨
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/anchor.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/anchor.jpg
+
+newmtl 錨２
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/anchor.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/anchor.jpg
+
+newmtl 靴
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/cloth.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/cloth.jpg
+
+newmtl 靴下
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/sox.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/sox.png
+
+newmtl 頬
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/hoho.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/hoho.png
+
+newmtl 顔
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/face.png
+
+newmtl 顔黒
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/hoho.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/hoho.png
+
+newmtl 髪
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/mhair.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/mhair.png
+
+newmtl 髪横
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/mhair.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/materials/mhair.png

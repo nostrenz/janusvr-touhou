@@ -60,6 +60,10 @@
          src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/model.obj'
          mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/model.mtl'
       />
+      <AssetObject id='minamitsu-murasa'
+         src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/model.obj'
+         mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/model.mtl'
+      />
    </div>
    <div class="shaders">
       <AssetShader id="tree_shader"
@@ -127,7 +131,7 @@
          />
       </div>
       <div class="nazrin">
-         <Text pos="20.5 2.2 8" fwd="1 0 1" scale="1.5 1.5 1.5">Nazrin</Text>
+         <Text pos="20.5 2.2 10" fwd="0 0 1" scale="1.5 1.5 1.5">Nazrin</Text>
          <Object id="nazrin"
             pos="20.5 0.1 10"
             fwd="0 0 1"
@@ -137,9 +141,19 @@
          />
       </div>
       <div class="shou-toramaru">
-         <Text pos="16.5 2.2 12" fwd="1 0 1" scale="1.5 1.5 1.5">Shou Toramaru</Text>
+         <Text pos="16.5 2.2 10" fwd="0 0 1" scale="1.5 1.5 1.5">Shou Toramaru</Text>
          <Object id="shou-toramaru"
             pos="16.5 0.1 10"
+            fwd="0 0 1"
+            lighting="false"
+            cull_face="none"
+            collision_radius="0.5"
+         />
+      </div>
+      <div class="minamitsu-murasa">
+         <Text pos="22.5 2.2 10" fwd="0 0 1" scale="1.5 1.5 1.5">Minamitsu Murasa</Text>
+         <Object id="minamitsu-murasa"
+            pos="22.5 0.1 10"
             fwd="0 0 1"
             lighting="false"
             cull_face="none"
