@@ -1,0 +1,27 @@
+<FireBoxRoom>
+<Assets>
+<AssetObject
+	id="seija_head"
+	src=""
+	mtl=""
+/>
+<AssetObject
+	id="seija_body"
+	src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/model.obj"
+	mtl="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/model.mtl"
+/>
+</Assets>
+<Room>
+<Ghost
+	id="Seija Kijin"
+	head_id="seija_head"
+	body_id="seija_body"
+	js_id="3"
+	scale="1.0 1.0 1.0"
+	pos="-0.0 -0.0 -0.0"
+	head_pos="0.0 1.45 0.0"
+	eye_pos="0.0 1.55 -0.13"
+	lighting="false"
+/>
+</Room>
+</FireBoxRoom>

@@ -1,0 +1,27 @@
+<FireBoxRoom>
+<Assets>
+<AssetObject
+	id="kasen_head"
+	src=""
+	mtl=""
+/>
+<AssetObject
+	id="kasen_body"
+	src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/ibaraki-kasen/model.obj"
+	mtl="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/ibaraki-kasen/model.mtl"
+/>
+</Assets>
+<Room>
+<Ghost
+	id="Ibaraki Kasen"
+	head_id="kasen_head"
+	body_id="kasen_body"
+	js_id="3"
+	scale="1.0 1.0 1.0"
+	pos="-0.0 -0.0 -0.0"
+	head_pos="0.0 1.45 0.0"
+	eye_pos="0.0 1.55 -0.13"
+	lighting="false"
+/>
+</Room>
+</FireBoxRoom>
