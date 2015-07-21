@@ -1,0 +1,273 @@
+# Blender MTL File: 'None'
+# Material Count: 25
+
+newmtl body
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_body.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_body.png
+
+newmtl button
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_huku.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_huku.png
+
+newmtl collar
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_huku.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_huku.png
+
+newmtl dorowa
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_dorowa.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_dorowa.png
+
+newmtl eye
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.150000 0.150000 0.150000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_face.png
+
+newmtl face_0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_face.png
+
+newmtl face_1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_face.png
+
+newmtl hair
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_hair.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_hair.png
+
+newmtl head
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_face.png
+
+newmtl hl
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.475000 0.475000 0.475000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl lace
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_lace.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_lace.tga
+
+newmtl matuge
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_face.png
+
+newmtl mhBLACK
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_morph.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_morph.tga
+
+newmtl mhE
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_morph.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_morph.tga
+
+newmtl mhFACE
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_morph.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_morph.tga
+
+newmtl mhP
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_morph.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_morph.tga
+
+newmtl nail
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/1.spa
+
+newmtl pants
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_pants.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_pants.png
+
+newmtl ribbon
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_huku.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_huku.png
+
+newmtl shirt
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_huku.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_huku.png
+
+newmtl sirome
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_face.png
+
+newmtl skirt
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_huku.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_huku.png
+
+newmtl tear
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.680000 0.740000 0.800000
+Ks 0.210000 0.230000 0.250000
+Ni 1.000000
+d 0.800000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/2.spa
+
+newmtl tooth
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_face.png
+
+newmtl tung
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/materials/seija_face.png
