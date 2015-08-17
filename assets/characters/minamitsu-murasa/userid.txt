@@ -1,0 +1,27 @@
+<FireBoxRoom>
+<Assets>
+<AssetObject
+	id="murasa_head"
+	src=""
+	mtl=""
+/>
+<AssetObject
+	id="murasa_body"
+	src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/model.obj"
+	mtl="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/model.mtl"
+/>
+</Assets>
+<Room>
+<Ghost
+	id="Minamitsu Murasa"
+	head_id="murasa_head"
+	body_id="murasa_body"
+	js_id="murasa"
+	scale="1 1 1"
+	pos="0 0 0"
+	head_pos="0 1.5 0"
+	eye_pos="0 1.55 -0.15"
+	lighting="false"
+/>
+</Room>
+</FireBoxRoom>

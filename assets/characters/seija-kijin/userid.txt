@@ -20,8 +20,9 @@
 	scale="1.0 1.0 1.0"
 	pos="-0.0 -0.0 -0.0"
 	head_pos="0.0 1.2 0.0"
-	eye_pos="0.0 1.43 -0.13"
+	eye_pos="0.0 1.53 -0.158"
 	lighting="false"
+	cull_face="None"
 />
 </Room>
 </FireBoxRoom>

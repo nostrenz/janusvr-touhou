@@ -1,0 +1,44 @@
+<FireBoxRoom>
+<Assets>
+	<AssetObject
+		id="patchy_head"
+		src=""
+		mtl=""
+	/>
+	<AssetObject
+		id="patchy_body"
+		src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/body.obj"
+		mtl="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/body.mtl"
+	/>
+	<AssetObject
+	   id='patchy-hair'
+	   src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/hair.obj'
+	   mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/hair.mtl'
+	/>
+	<AssetShader id="hair-shader"
+		vertex_src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/shaders/vertex_hair.glsl"
+	/>
+</Assets>
+<Room>
+	<Ghost
+		id="Patchouly Knowledge (Nostre)"
+		head_id="patchy_head"
+		body_id="patchy_body"
+		js_id="patchy"
+		scale="1 1 1"
+		pos="0 0 0"
+		head_pos="0.0 1.4 0.0"
+		eye_pos="0.0 1.50 -0.174"
+		lighting="false"
+		cull_face="None"
+	/>
+	<Object
+	   pos="0 0 0"
+	   id="patchy-hair"
+	   cull_face="None"
+	   lighting="false"
+	   shader_id="hair-shader"
+	/>
+</Room>
+</FireBoxRoom>
+

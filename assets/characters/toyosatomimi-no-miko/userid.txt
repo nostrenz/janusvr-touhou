@@ -1,0 +1,29 @@
+<FireBoxRoom>
+<Assets>
+<AssetObject
+	id="miko_head"
+	src=""
+	mtl=""
+/>
+<AssetObject
+	id="miko_body"
+	src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/model.obj"
+	mtl="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/model.mtl"
+/>
+</Assets>
+<Room>
+<Ghost
+	id="Toyosatomimi no Miko"
+	head_id="miko_head"
+	body_id="miko_body"
+	js_id="3"
+	scale="1.0 1.0 1.0"
+	pos="-0.0 -0.0 -0.0"
+	head_pos="0.0 1.4 0.0"
+	eye_pos="0.0 1.65 -0.15"
+	lighting="false"
+	cull_face="None"
+/>
+</Room>
+</FireBoxRoom>
+

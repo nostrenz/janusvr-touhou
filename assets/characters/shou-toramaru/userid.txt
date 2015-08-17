@@ -1,0 +1,27 @@
+<FireBoxRoom>
+<Assets>
+<AssetObject
+	id="shou_head"
+	src=""
+	mtl=""
+/>
+<AssetObject
+	id="shou_body"
+	src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/shou-toramaru/model.obj"
+	mtl="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/shou-toramaru/model.mtl"
+/>
+</Assets>
+<Room>
+<Ghost
+	id="Shou Toramaru"
+	head_id="shou_head"
+	body_id="shou_body"
+	js_id="shou"
+	scale="1.0 1.0 1.0"
+	pos="-0.0 -0.0 -0.0"
+	head_pos="0.0 1.5 0.0"
+	eye_pos="0.0 1.74 -0.15"
+	lighting="false"
+/>
+</Room>
+</FireBoxRoom>
