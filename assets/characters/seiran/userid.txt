@@ -1,0 +1,28 @@
+<FireBoxRoom>
+<Assets>
+<AssetObject
+	id="seiran_head"
+	src=""
+	mtl=""
+/>
+<AssetObject
+	id="seiran_body"
+	src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seiran/model.obj"
+	mtl="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seiran/model.mtl"
+/>
+</Assets>
+<Room>
+<Ghost
+	id="Seiran (Nostre)"
+	head_id="seiran_head"
+	body_id="seiran_body"
+	js_id="3"
+	scale="1.0 1.0 1.0"
+	pos="-0.0 -0.0 -0.0"
+	head_pos="0.0 1.2 0.0"
+	eye_pos="0.0 1.485 -0.2"
+	lighting="false"
+	cull_face="None"
+/>
+</Room>
+</FireBoxRoom>
