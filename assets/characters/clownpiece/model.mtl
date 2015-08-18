@@ -1,0 +1,337 @@
+# Blender MTL File: 'scaled.blend'
+# Material Count: 31
+
+newmtl HAIR_02
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/runa_h2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/runa_h2.png
+
+newmtl HAIR_03
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/runa_h2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/runa_h2.png
+
+newmtl 新規
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/Cred.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/Cred.png
+
+newmtl 新規.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/Cblue.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/Cblue.png
+
+newmtl 新規.002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/Cred.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/Cred.png
+
+newmtl 服
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/Cblue.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/Cblue.png
+
+newmtl 材質1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/ktface.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/ktface.png
+
+newmtl 材質1.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/ktface.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/ktface.png
+
+newmtl 材質1.002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/ws.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/ws.png
+
+newmtl 材質1.003
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/hat.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/hat.png
+
+newmtl 材質1.004
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/hat.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/hat.png
+
+newmtl 材質1.005
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/hat.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/hat.png
+
+newmtl 材質1.006
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/hat.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/hat.png
+
+newmtl 材質1.007
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 2
+
+newmtl 材質15
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.980000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/cheek.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/cheek.png
+
+newmtl 材質2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.980000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/ktface.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/ktface.png
+
+newmtl 材質2.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 材質2.002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/b.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/b.png
+
+newmtl 材質3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 材質3.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.980000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/kteye.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/kteye.png
+
+newmtl 材質4
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.980000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/kteye.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/kteye.png
+
+newmtl 材質5
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.980000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/kteye.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/kteye.png
+
+newmtl 肌
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/ktface.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/ktface.png
+
+newmtl 頭
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/runa_h2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/runa_h2.png
+
+newmtl 頭部装備_bousi
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/t021.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/t021.png
+
+newmtl 髪1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/runa_h2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/runa_h2.png
+
+newmtl 髪2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/runa_h2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/runa_h2.png
+
+newmtl 髪3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/runa_h2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/runa_h2.png
+
+newmtl 髪4
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/runa_h2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/runa_h2.png
+
+newmtl 髪5
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/runa_h2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/runa_h2.png
+
+newmtl 髪6
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/runa_h2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/materials/runa_h2.png
