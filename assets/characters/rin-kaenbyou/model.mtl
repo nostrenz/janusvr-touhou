@@ -54,8 +54,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/rin-kaenbyou/materials/txCloth.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/rin-kaenbyou/materials/txCloth.jpg
+map_Kd materials/txCloth.jpg
+map_d materials/txCloth.jpg
 
 newmtl Material3
 Ns 96.078431
@@ -74,8 +74,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/rin-kaenbyou/materials/txHair.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/rin-kaenbyou/materials/txHair.png
+map_Kd materials/txHair.png
+map_d materials/txHair.png
 
 newmtl Material5
 Ns 96.078431
@@ -85,8 +85,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/rin-kaenbyou/materials/txOsage.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/rin-kaenbyou/materials/txOsage.jpg
+map_Kd materials/txOsage.jpg
+map_d materials/txOsage.jpg
 
 newmtl Material6
 Ns 96.078431
@@ -96,8 +96,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/rin-kaenbyou/materials/txLeg.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/rin-kaenbyou/materials/txLeg.jpg
+map_Kd materials/txLeg.jpg
+map_d materials/txLeg.jpg
 
 newmtl Material7
 Ns 96.078431
@@ -107,8 +107,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/rin-kaenbyou/materials/txEyes.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/rin-kaenbyou/materials/txEyes.png
+map_Kd materials/txEyes.png
+map_d materials/txEyes.png
 
 newmtl Material8
 Ns 96.078431
@@ -118,8 +118,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/rin-kaenbyou/materials/txFace.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/rin-kaenbyou/materials/txFace.png
+map_Kd materials/txFace.png
+map_d materials/txFace.png
 
 newmtl Material9
 Ns 96.078431
@@ -129,5 +129,5 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/rin-kaenbyou/materials/txFace.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/rin-kaenbyou/materials/txFace.png
+map_Kd materials/txFace.png
+map_d materials/txFace.png

@@ -9,8 +9,8 @@ Ks 0.107843 0.076471 0.054902
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/flandre-scarlet/materials/le_hair_c.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/flandre-scarlet/materials/le_hair_c.jpg
+map_Kd materials/le_hair_c.jpg
+map_d materials/le_hair_c.jpg
 
 newmtl Material19
 Ns 86.274510
@@ -20,5 +20,5 @@ Ks 0.117647 0.072549 0.058824
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/flandre-scarlet/materials/Yr_Hair.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/flandre-scarlet/materials/Yr_Hair.jpg
+map_Kd materials/Yr_Hair.jpg
+map_d materials/Yr_Hair.jpg

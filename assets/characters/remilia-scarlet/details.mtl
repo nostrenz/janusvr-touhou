@@ -9,8 +9,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress4.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress4.jpg
+map_Kd materials/dress4.jpg
+map_d materials/dress4.jpg
 
 newmtl 帽子リボン紐白
 Ns 90.196078
@@ -20,8 +20,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress4.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress4.jpg
+map_Kd materials/dress4.jpg
+map_d materials/dress4.jpg
 
 newmtl 帽子リボン紐赤
 Ns 90.196078
@@ -31,8 +31,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress4.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress4.jpg
+map_Kd materials/dress4.jpg
+map_d materials/dress4.jpg
 
 newmtl 胸リボン
 Ns 90.196078
@@ -42,8 +42,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress2.png
+map_Kd materials/dress2.png
+map_d materials/dress2.png
 
 newmtl 腰リボン
 Ns 90.196078
@@ -53,8 +53,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress2.png
+map_Kd materials/dress2.png
+map_d materials/dress2.png
 
 newmtl 腰リボン紐白
 Ns 90.196078
@@ -64,8 +64,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress2.png
+map_Kd materials/dress2.png
+map_d materials/dress2.png
 
 newmtl 腰リボン紐赤
 Ns 90.196078
@@ -75,5 +75,5 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress2.png
+map_Kd materials/dress2.png
+map_d materials/dress2.png

@@ -9,8 +9,8 @@ Ks 0.000000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_eye_sp.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_eye_sp.jpg
+map_Kd materials/tx_eye_sp.jpg
+map_d materials/tx_eye_sp.jpg
 
 newmtl 下着
 Ns 96.078431
@@ -20,8 +20,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_panty.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_panty.jpg
+map_Kd materials/tx_panty.jpg
+map_d materials/tx_panty.jpg
 
 newmtl 下着S
 Ns 96.078431
@@ -31,8 +31,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_panty.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_panty.jpg
+map_Kd materials/tx_panty.jpg
+map_d materials/tx_panty.jpg
 
 newmtl 口内
 Ns 96.078431
@@ -42,8 +42,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_face.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_face.jpg
+map_Kd materials/tx_face.jpg
+map_d materials/tx_face.jpg
 
 newmtl 帽子
 Ns 96.078431
@@ -53,8 +53,8 @@ Ks 0.100000 0.100000 0.100000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_suit.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_suit.jpg
+map_Kd materials/tx_suit.jpg
+map_d materials/tx_suit.jpg
 
 newmtl 服・装飾
 Ns 96.078431
@@ -64,8 +64,8 @@ Ks 0.100000 0.100000 0.100000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_suit.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_suit.jpg
+map_Kd materials/tx_suit.jpg
+map_d materials/tx_suit.jpg
 
 newmtl 白目
 Ns 96.078431
@@ -75,7 +75,7 @@ Ks 0.000000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/spa_eye.png
+map_Kd materials/spa_eye.png
 
 newmtl 眉毛
 Ns 96.078431
@@ -85,8 +85,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_eye_sp.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_eye_sp.jpg
+map_Kd materials/tx_eye_sp.jpg
+map_d materials/tx_eye_sp.jpg
 
 newmtl 瞳
 Ns 96.078431
@@ -96,8 +96,8 @@ Ks 0.000000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_face.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_face.jpg
+map_Kd materials/tx_face.jpg
+map_d materials/tx_face.jpg
 
 newmtl 肌
 Ns 96.078431
@@ -107,8 +107,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_body.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_body.jpg
+map_Kd materials/tx_body.jpg
+map_d materials/tx_body.jpg
 
 newmtl 肌S
 Ns 96.078431
@@ -118,8 +118,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_stockings.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_stockings.jpg
+map_Kd materials/tx_stockings.jpg
+map_d materials/tx_stockings.jpg
 
 newmtl 青ざめ
 Ns 96.078431
@@ -129,8 +129,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_pale.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_pale.png
+map_Kd materials/tx_pale.png
+map_d materials/tx_pale.png
 
 newmtl 靴・靴下
 Ns 96.078431
@@ -140,8 +140,8 @@ Ks 0.100000 0.100000 0.100000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_suit.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_suit.jpg
+map_Kd materials/tx_suit.jpg
+map_d materials/tx_suit.jpg
 
 newmtl 頬紅
 Ns 96.078431
@@ -151,8 +151,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_blusher.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_blusher.png
+map_Kd materials/tx_blusher.png
+map_d materials/tx_blusher.png
 
 newmtl 顔面
 Ns 96.078431
@@ -162,8 +162,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_face.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_face.jpg
+map_Kd materials/tx_face.jpg
+map_d materials/tx_face.jpg
 
 newmtl 髪
 Ns 96.078431
@@ -173,5 +173,5 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_hair.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/keine-kamishirasawa/materials/tx_hair.jpg
+map_Kd materials/tx_hair.jpg
+map_d materials/tx_hair.jpg

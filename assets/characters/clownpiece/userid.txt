@@ -13,13 +13,13 @@
 </Assets>
 <Room>
 <Ghost
-	id="Clownpiece (Nostre)"
+	id="Clownpiece"
 	head_id="2hu_head"
 	body_id="2hu_body"
 	js_id="3"
 	scale="1.0 1.0 1.0"
 	pos="-0.0 -0.0 -0.0"
-	head_pos="0.0 1.2 0.0"
+	head_pos="0.0 1.45 0.0"
 	eye_pos="0.0 1.45 -0.135"
 	lighting="false"
 	cull_face="None"

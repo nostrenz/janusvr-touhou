@@ -9,8 +9,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/books/materials/Book.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/books/materials/Book.jpg
+map_Kd materials/Book.jpg
+map_d materials/Book.jpg
 
 newmtl Material1
 Ns 96.078431
@@ -20,5 +20,5 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/books/materials/Book.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/books/materials/Book.jpg
+map_Kd materials/Book.jpg
+map_d materials/Book.jpg

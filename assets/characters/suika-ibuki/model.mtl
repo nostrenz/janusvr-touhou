@@ -9,8 +9,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Mi_Suit.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Mi_Suit.jpg
+map_Kd materials/Mi_Suit.jpg
+map_d materials/Mi_Suit.jpg
 
 newmtl Material0
 Ns 96.078431
@@ -20,8 +20,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ku_hair.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ku_hair.jpg
+map_Kd materials/Ku_hair.jpg
+map_d materials/Ku_hair.jpg
 
 newmtl Material1
 Ns 96.078431
@@ -31,8 +31,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/cloth.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/cloth.jpg
+map_Kd materials/cloth.jpg
+map_d materials/cloth.jpg
 
 newmtl Material10
 Ns 96.078431
@@ -42,8 +42,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.980000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Mi_face.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Mi_face.jpg
+map_Kd materials/Mi_face.jpg
+map_d materials/Mi_face.jpg
 
 newmtl Material11
 Ns 96.078431
@@ -53,8 +53,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.980000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Mi_hl.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Mi_hl.png
+map_Kd materials/Mi_hl.png
+map_d materials/Mi_hl.png
 
 newmtl Material12
 Ns 96.078431
@@ -64,8 +64,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Mi_face.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Mi_face.jpg
+map_Kd materials/Mi_face.jpg
+map_d materials/Mi_face.jpg
 
 newmtl Material13
 Ns 96.078431
@@ -75,8 +75,8 @@ Ks 0.090196 0.064706 0.090196
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/cloth.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/cloth.jpg
+map_Kd materials/cloth.jpg
+map_d materials/cloth.jpg
 
 newmtl Material14
 Ns 96.078431
@@ -86,8 +86,8 @@ Ks 0.090196 0.064706 0.090196
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/cloth.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/cloth.jpg
+map_Kd materials/cloth.jpg
+map_d materials/cloth.jpg
 
 newmtl Material15
 Ns 96.078431
@@ -97,8 +97,8 @@ Ks 0.090196 0.064706 0.090196
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/cloth.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/cloth.jpg
+map_Kd materials/cloth.jpg
+map_d materials/cloth.jpg
 
 newmtl Material16
 Ns 96.078431
@@ -108,8 +108,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/hair.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/hair.jpg
+map_Kd materials/hair.jpg
+map_d materials/hair.jpg
 
 newmtl Material17
 Ns 96.078431
@@ -119,8 +119,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/hair.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/hair.jpg
+map_Kd materials/hair.jpg
+map_d materials/hair.jpg
 
 newmtl Material18
 Ns 96.078431
@@ -130,8 +130,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/hair.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/hair.jpg
+map_Kd materials/hair.jpg
+map_d materials/hair.jpg
 
 newmtl Material19
 Ns 96.078431
@@ -141,8 +141,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/hair.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/hair.jpg
+map_Kd materials/hair.jpg
+map_d materials/hair.jpg
 
 newmtl Material2
 Ns 96.078431
@@ -152,8 +152,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ku_hair.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ku_hair.jpg
+map_Kd materials/Ku_hair.jpg
+map_d materials/Ku_hair.jpg
 
 newmtl Material20
 Ns 96.078431
@@ -163,8 +163,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/hrn.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/hrn.jpg
+map_Kd materials/hrn.jpg
+map_d materials/hrn.jpg
 
 newmtl Material21
 Ns 96.078431
@@ -174,8 +174,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/hrn.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/hrn.jpg
+map_Kd materials/hrn.jpg
+map_d materials/hrn.jpg
 
 newmtl Material22
 Ns 96.078431
@@ -185,8 +185,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ku_hair.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ku_hair.jpg
+map_Kd materials/Ku_hair.jpg
+map_d materials/Ku_hair.jpg
 
 newmtl Material23
 Ns 96.078431
@@ -196,8 +196,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/suit.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/suit.jpg
+map_Kd materials/suit.jpg
+map_d materials/suit.jpg
 
 newmtl Material24
 Ns 96.078431
@@ -207,8 +207,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/suit.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/suit.jpg
+map_Kd materials/suit.jpg
+map_d materials/suit.jpg
 
 newmtl Material25
 Ns 96.078431
@@ -218,7 +218,7 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/j.png
+map_Kd materials/j.png
 
 newmtl Material26
 Ns 96.078431
@@ -228,8 +228,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/ybody.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/ybody.jpg
+map_Kd materials/ybody.jpg
+map_d materials/ybody.jpg
 
 newmtl Material27
 Ns 96.078431
@@ -239,8 +239,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/ybody.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/ybody.jpg
+map_Kd materials/ybody.jpg
+map_d materials/ybody.jpg
 
 newmtl Material28
 Ns 96.078431
@@ -250,8 +250,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/ybody.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/ybody.jpg
+map_Kd materials/ybody.jpg
+map_d materials/ybody.jpg
 
 newmtl Material29
 Ns 96.078431
@@ -261,8 +261,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/ybody_alpha.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/ybody_alpha.png
+map_Kd materials/ybody_alpha.png
+map_d materials/ybody_alpha.png
 
 newmtl Material3
 Ns 96.078431
@@ -272,8 +272,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.980000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ku_Body.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ku_Body.jpg
+map_Kd materials/Ku_Body.jpg
+map_d materials/Ku_Body.jpg
 
 newmtl Material30
 Ns 96.078431
@@ -283,8 +283,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.700000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ku_suit.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ku_suit.jpg
+map_Kd materials/Ku_suit.jpg
+map_d materials/Ku_suit.jpg
 
 newmtl Material31
 Ns 96.078431
@@ -294,8 +294,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.700000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ku_suit.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ku_suit.jpg
+map_Kd materials/Ku_suit.jpg
+map_d materials/Ku_suit.jpg
 
 newmtl Material32
 Ns 96.078431
@@ -305,8 +305,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.700000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ku_suit.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ku_suit.jpg
+map_Kd materials/Ku_suit.jpg
+map_d materials/Ku_suit.jpg
 
 newmtl Material33
 Ns 96.078431
@@ -316,8 +316,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.700000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ku_suit.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ku_suit.jpg
+map_Kd materials/Ku_suit.jpg
+map_d materials/Ku_suit.jpg
 
 newmtl Material34
 Ns 96.078431
@@ -327,8 +327,8 @@ Ks 0.500000 0.500000 0.500000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ksn_Suit.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ksn_Suit.jpg
+map_Kd materials/Ksn_Suit.jpg
+map_d materials/Ksn_Suit.jpg
 
 newmtl Material35
 Ns 96.078431
@@ -338,8 +338,8 @@ Ks 0.500000 0.500000 0.500000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ksn_Suit.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ksn_Suit.jpg
+map_Kd materials/Ksn_Suit.jpg
+map_d materials/Ksn_Suit.jpg
 
 newmtl Material36
 Ns 96.078431
@@ -349,8 +349,8 @@ Ks 0.500000 0.500000 0.500000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ksn_Suit.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ksn_Suit.jpg
+map_Kd materials/Ksn_Suit.jpg
+map_d materials/Ksn_Suit.jpg
 
 newmtl Material37
 Ns 96.078431
@@ -360,8 +360,8 @@ Ks 0.500000 0.500000 0.500000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ksn_Suit.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ksn_Suit.jpg
+map_Kd materials/Ksn_Suit.jpg
+map_d materials/Ksn_Suit.jpg
 
 newmtl Material38
 Ns 96.078431
@@ -371,8 +371,8 @@ Ks 0.500000 0.500000 0.500000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ksn_Suit.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ksn_Suit.jpg
+map_Kd materials/Ksn_Suit.jpg
+map_d materials/Ksn_Suit.jpg
 
 newmtl Material39
 Ns 96.078431
@@ -382,8 +382,8 @@ Ks 0.500000 0.500000 0.500000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ksn_Suit.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ksn_Suit.jpg
+map_Kd materials/Ksn_Suit.jpg
+map_d materials/Ksn_Suit.jpg
 
 newmtl Material4
 Ns 96.078431
@@ -393,8 +393,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ku_suit.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ku_suit.jpg
+map_Kd materials/Ku_suit.jpg
+map_d materials/Ku_suit.jpg
 
 newmtl Material40
 Ns 96.078431
@@ -404,8 +404,8 @@ Ks 0.500000 0.500000 0.500000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ksn_Suit.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ksn_Suit.jpg
+map_Kd materials/Ksn_Suit.jpg
+map_d materials/Ksn_Suit.jpg
 
 newmtl Material41
 Ns 96.078431
@@ -415,8 +415,8 @@ Ks 0.500000 0.500000 0.500000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ksn_Suit.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ksn_Suit.jpg
+map_Kd materials/Ksn_Suit.jpg
+map_d materials/Ksn_Suit.jpg
 
 newmtl Material42
 Ns 96.078431
@@ -426,8 +426,8 @@ Ks 0.500000 0.500000 0.500000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ksn_Suit.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ksn_Suit.jpg
+map_Kd materials/Ksn_Suit.jpg
+map_d materials/Ksn_Suit.jpg
 
 newmtl Material43
 Ns 96.078431
@@ -437,8 +437,8 @@ Ks 0.500000 0.500000 0.500000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ksn_Suit.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ksn_Suit.jpg
+map_Kd materials/Ksn_Suit.jpg
+map_d materials/Ksn_Suit.jpg
 
 newmtl Material44
 Ns 96.078431
@@ -448,8 +448,8 @@ Ks 0.500000 0.500000 0.500000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ksn_Suit.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ksn_Suit.jpg
+map_Kd materials/Ksn_Suit.jpg
+map_d materials/Ksn_Suit.jpg
 
 newmtl Material45
 Ns 96.078431
@@ -459,8 +459,8 @@ Ks 0.500000 0.500000 0.500000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ksn_Suit.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ksn_Suit.jpg
+map_Kd materials/Ksn_Suit.jpg
+map_d materials/Ksn_Suit.jpg
 
 newmtl Material46
 Ns 96.078431
@@ -470,8 +470,8 @@ Ks 0.500000 0.500000 0.500000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ksn_Suit.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ksn_Suit.jpg
+map_Kd materials/Ksn_Suit.jpg
+map_d materials/Ksn_Suit.jpg
 
 newmtl Material47
 Ns 96.078431
@@ -481,8 +481,8 @@ Ks 0.500000 0.500000 0.500000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ksn_Suit.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ksn_Suit.jpg
+map_Kd materials/Ksn_Suit.jpg
+map_d materials/Ksn_Suit.jpg
 
 newmtl Material5
 Ns 96.078431
@@ -492,8 +492,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Mi_Suit.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Mi_Suit.jpg
+map_Kd materials/Mi_Suit.jpg
+map_d materials/Mi_Suit.jpg
 
 newmtl Material6
 Ns 96.078431
@@ -503,8 +503,8 @@ Ks 0.150000 0.150000 0.100000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Mi_Suit.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Mi_Suit.jpg
+map_Kd materials/Mi_Suit.jpg
+map_d materials/Mi_Suit.jpg
 
 newmtl Material7
 Ns 96.078431
@@ -514,8 +514,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Mi_body.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Mi_body.jpg
+map_Kd materials/Mi_body.jpg
+map_d materials/Mi_body.jpg
 
 newmtl Material8
 Ns 96.078431
@@ -525,8 +525,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Mi_face.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Mi_face.jpg
+map_Kd materials/Mi_face.jpg
+map_d materials/Mi_face.jpg
 
 newmtl Material9
 Ns 96.078431
@@ -536,8 +536,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.980000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Mi_face.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Mi_face.jpg
+map_Kd materials/Mi_face.jpg
+map_d materials/Mi_face.jpg
 
 newmtl 体_ドロワ
 Ns 96.078431
@@ -547,5 +547,5 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ku_Body.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/suika-ibuki/materials/Ku_Body.jpg
+map_Kd materials/Ku_Body.jpg
+map_d materials/Ku_Body.jpg

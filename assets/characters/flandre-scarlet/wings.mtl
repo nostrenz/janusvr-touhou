@@ -9,8 +9,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd E:\Program\App\XAMPP\htdocs\janusvr\assets\characters\flandre-scarlet\materials\accessory.jpg
-map_d E:\\Program\\App\\XAMPP\\htdocs\\janusvr\\assets\\characters\\flandre-scarlet\\materials\\accessory.jpg
+map_Kd materials/accessory.jpg
+map_d materials/accessory.jpg
 
 newmtl Material25
 Ns 84.313725
@@ -20,5 +20,5 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.800000
 illum 2
-map_Kd E:\Program\App\XAMPP\htdocs\janusvr\assets\characters\flandre-scarlet\materials\accessory.jpg
-map_d E:\\Program\\App\\XAMPP\\htdocs\\janusvr\\assets\\characters\\flandre-scarlet\\materials\\accessory.jpg
+map_Kd materials/accessory.jpg
+map_d materials/accessory.jpg

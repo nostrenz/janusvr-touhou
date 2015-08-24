@@ -9,8 +9,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/chire06.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/chire06.jpg
+map_Kd materials/chire06.jpg
+map_d materials/chire06.jpg
 
 newmtl 材質1.001
 Ns 96.078431
@@ -20,8 +20,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/garden01.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/garden01.jpg
+map_Kd materials/garden01.jpg
+map_d materials/garden01.jpg
 
 newmtl 材質10
 Ns 96.078431
@@ -31,8 +31,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/chirein02.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/chirein02.jpg
+map_Kd materials/chirein02.jpg
+map_d materials/chirein02.jpg
 
 newmtl 材質11
 Ns 96.078431
@@ -42,8 +42,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/chirein10.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/chirein10.jpg
+map_Kd materials/chirein10.jpg
+map_d materials/chirein10.jpg
 
 newmtl 材質12
 Ns 96.078431
@@ -53,8 +53,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/garden00.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/garden00.jpg
+map_Kd materials/garden00.jpg
+map_d materials/garden00.jpg
 
 newmtl 材質13
 Ns 96.078431
@@ -64,8 +64,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/garden04.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/garden04.jpg
+map_Kd materials/garden04.jpg
+map_d materials/garden04.jpg
 
 newmtl 材質14
 Ns 96.078431
@@ -75,8 +75,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/kyuto02.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/kyuto02.jpg
+map_Kd materials/kyuto02.jpg
+map_d materials/kyuto02.jpg
 
 newmtl 材質16
 Ns 96.078431
@@ -86,8 +86,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/chire05.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/chire05.jpg
+map_Kd materials/chire05.jpg
+map_d materials/chire05.jpg
 
 newmtl 材質17
 Ns 96.078431
@@ -97,8 +97,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/chire08.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/chire08.jpg
+map_Kd materials/chire08.jpg
+map_d materials/chire08.jpg
 
 newmtl 材質18
 Ns 96.078431
@@ -108,7 +108,7 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/metal4.jpg
+map_Kd materials/metal4.jpg
 
 newmtl 材質19
 Ns 96.078431
@@ -118,8 +118,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/kyuto01.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/kyuto01.jpg
+map_Kd materials/kyuto01.jpg
+map_d materials/kyuto01.jpg
 
 newmtl 材質2
 Ns 96.078431
@@ -129,8 +129,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/garden03.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/garden03.png
+map_Kd materials/garden03.png
+map_d materials/garden03.png
 
 newmtl 材質2.001
 Ns 96.078431
@@ -140,8 +140,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/kyuto02.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/kyuto02.jpg
+map_Kd materials/kyuto02.jpg
+map_d materials/kyuto02.jpg
 
 newmtl 材質20
 Ns 96.078431
@@ -151,8 +151,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/water01.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/water01.jpg
+map_Kd materials/water01.jpg
+map_d materials/water01.jpg
 
 newmtl 材質21
 Ns 96.078431
@@ -162,8 +162,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/garden01.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/garden01.jpg
+map_Kd materials/garden01.jpg
+map_d materials/garden01.jpg
 
 newmtl 材質3
 Ns 96.078431
@@ -173,8 +173,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/chire01.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/chire01.jpg
+map_Kd materials/chire01.jpg
+map_d materials/chire01.jpg
 
 newmtl 材質3.001
 Ns 96.078431
@@ -184,8 +184,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/kyuto06.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/kyuto06.jpg
+map_Kd materials/kyuto06.jpg
+map_d materials/kyuto06.jpg
 
 newmtl 材質4
 Ns 96.078431
@@ -195,8 +195,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/chire02.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/chire02.jpg
+map_Kd materials/chire02.jpg
+map_d materials/chire02.jpg
 
 newmtl 材質4.001
 Ns 96.078431
@@ -206,8 +206,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/kyuto05.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/kyuto05.jpg
+map_Kd materials/kyuto05.jpg
+map_d materials/kyuto05.jpg
 
 newmtl 材質5
 Ns 96.078431
@@ -217,8 +217,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/chire03.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/chire03.jpg
+map_Kd materials/chire03.jpg
+map_d materials/chire03.jpg
 
 newmtl 材質5.001
 Ns 96.078431
@@ -228,8 +228,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/kyuto07.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/kyuto07.jpg
+map_Kd materials/kyuto07.jpg
+map_d materials/kyuto07.jpg
 
 newmtl 材質6
 Ns 96.078431
@@ -239,8 +239,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/chire04.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/chire04.jpg
+map_Kd materials/chire04.jpg
+map_d materials/chire04.jpg
 
 newmtl 材質7
 Ns 96.078431
@@ -250,8 +250,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/chire07.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/chire07.jpg
+map_Kd materials/chire07.jpg
+map_d materials/chire07.jpg
 
 newmtl 材質8
 Ns 96.078431
@@ -261,8 +261,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/chire09.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/chire09.jpg
+map_Kd materials/chire09.jpg
+map_d materials/chire09.jpg
 
 newmtl 材質9
 Ns 96.078431
@@ -272,5 +272,5 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/chire10.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/former-hell/materials/chire10.jpg
+map_Kd materials/chire10.jpg
+map_d materials/chire10.jpg

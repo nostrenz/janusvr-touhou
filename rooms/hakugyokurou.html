@@ -1,105 +1,161 @@
 <FireBoxRoom>
 <Assets>
-   <div class="place">
-      <AssetObject id='place-terrain'
-        src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/terrain.obj'
-        mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/terrain.mtl'
-      />
-      <AssetObject
-          id="place-plants"
-          src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/plants.obj"
-          mtl="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/plants.mtl"
-      />
-      <AssetObject id="place-terrain-collision"
-        src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/terrain-collision.obj"
-      />
-      <AssetObject id="place-plants-collision"
-        src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/plants-collision.obj"
-      />
-   </div>
-   <div class="characters">
-      <AssetObject
-           id='yuyuko-saigyouji'
-           src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/model.obj'
-           mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/yuyuko-saigyouji/model.mtl'
-       />
-   	<AssetObject
-           id='youmu-konpaku'
-           src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/model.obj'
-           mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/youmu-konpaku/model.mtl'
-       />
-   </div>
-   <div class="sounds">
-      <AssetSound id="bgm" src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/audio/hakugyokurou.mp3" />
-   </div>
-   <div class="shaders">
-      <AssetShader id="water_shader"
-   		src="http://www.gathervr.com/Dizzyhomeroom/watershaderT.txt"
-   		vertex_src="http://www.dgp.toronto.edu/~mccrae/projects/firebox/home/water_vertex.txt"
-   	/>
-   	<AssetShader id="tree_shader"
-   		vertex_src="http://www.dgp.toronto.edu/~mccrae/projects/firebox/home/tree_vertex.txt"
-   	/>
-   </div>
-   <div class="websurfaces">
-      <AssetWebSurface id="wiki"
-         src="http://en.touhouwiki.net/wiki/Hakugyokurou"
-      />
-   </div>
-  </Assets>
-<Room visible="false" col="0.5 0.5 0.5" pos="0 0 58" fwd="0 0 -1" >
-   <div class="place">
-      <Object id="place-terrain"
-         collision_id="place-terrain-collision"
-         pos="0 0 0"
-         fwd="0 0 1"
-         locked="true"
-         lighting="false" >
-   	</Object>
-      <Object id="place-plants"
-         collision_id="place-plants-collision"
-         cull_face="none"
-         pos="0 0 0"
-         fwd="0 0 1"
-         locked="true"
-         lighting="false"
-         shader_id="tree_shader"
-         blend_src="one_minus_constant_color"
-         blend_dest="constant_color"
-      />
-   </div>
-   <div class="characters">
-      <Text pos="-1 3.2 -25" fwd="0 0 1" scale="2 1.5 2">Yuyuko Saigyouji</Text>
-      <Object id="yuyuko-saigyouji"
-         cull_face="none"
-         collision_radius="0.5"
-         pos="-1 0.8 -25"
-         fwd="0 0 1"
-         lighting="false"
-      />
+	<!-- Place -->
+	<AssetObject id='place-terrain'
+		src='../assets/places/hakugyokurou/terrain.obj'
+		mtl='../assets/places/hakugyokurou/terrain.mtl'
+	/>
+	<AssetObject id="place-terrain-collision"
+		src="../assets/places/hakugyokurou/terrain-collision.obj"
+	/>
+	
+	<AssetObject
+	id="place-plants"
+		src="../assets/places/hakugyokurou/plants.obj"
+		mtl="../assets/places/hakugyokurou/plants.mtl"
+	/>
+	<AssetObject id="place-plants-collision"
+		src="../assets/places/hakugyokurou/plants-collision.obj"
+	/>
+	
+	<AssetObject id="place-water"
+	src="../assets/places/hakugyokurou/water.obj"
+	/>
 
-      <Text pos="-3 2.8 -25" fwd="0 0 1" scale="2 1.5 2">Youmu Konpaku</Text>
-      <Object id="youmu-konpaku"
-         cull_face="none"
-         collision_radius="0.5"
-         pos="-3 0.8 -25"
-         fwd="0 0 1"
-         lighting="false"
-      />
-   </div>
+	<!-- Characters -->
+	<AssetObject
+	id='yuyuko-saigyouji'
+		src='../assets/characters/yuyuko-saigyouji/model.obj'
+		mtl='../assets/characters/yuyuko-saigyouji/model.mtl'
+	/>
+	<AssetObject
+	id='youmu-konpaku'
+		src='../assets/characters/youmu-konpaku/model.obj'
+		mtl='../assets/characters/youmu-konpaku/model.mtl'
+	/>
 
-   <Object id="plane"
-      websurface_id="wiki"
-      locked="true"
-      pos="2 0.9 -5"
-      xdir="1 0 0"
-      ydir="0 0.707 -0.707"
-      zdir="0 0.707 0.707"
-      scale="2 1 1"
-      cull_face="none"
-      collision_id="plane"
-   />
+	<!-- Sounds -->
+	<AssetSound id="bgm"
+		src="../assets/audio/hakugyokurou.mp3"
+	/>
 
-   <Sound id="bgm" loop="true" rect="-999 999 999 -999" />
+	<!-- Shaders -->
+	<AssetShader id="water_shader"
+		src="../assets/shaders/fragment_water.glsl"
+		vertex_src="../assets/shaders/vertex_water.glsl"
+	/>
+	<AssetShader id="tree_shader"
+		vertex_src="../assets/shaders/vertex_tree.glsl"
+	/>
+
+	<!-- WebSurfaces -->
+	<AssetWebSurface id="wiki"
+	src="http://en.touhouwiki.net/wiki/Hakugyokurou"
+	/>
+
+	
+	<!-- Images -->
+	<AssetImage id="vinebooru-37488"
+		src="http://img.booru.org/vinesauce//images/27/a339726a010be493f96317251dc6ba259a13bce2.png"
+	/>
+	<AssetImage id="vinebooru-37498"
+		src="http://img.booru.org/vinesauce//images/27/17735708a9f78df9d4ec70871ff313636027402b.png"
+	/>
+	<AssetImage id="vinebooru-37508"
+		src="http://img.booru.org/vinesauce//images/27/2ecacc3cf0c9964db0be2a7f3dc7169c2ca7cbe9.png"
+	/>
+
+	<!-- Script -->
+	<AssetScript src="../assets/scripts/hakugyokurou.js" />
+</Assets>
+
+<Room fog="false" fog_mode="exp" fog_density="0.00" fog_color="1 1 1"
+visible="false" col="0.5 0.5 0.5" pos="0 0 58" fwd="0 0 -1" >
+	<!-- Place -->
+	<Object id="place-terrain"
+		collision_id="place-terrain-collision"
+		pos="0 0 0"
+		fwd="0 0 1"
+		locked="true"
+		lighting="false"
+	/>
+	<Object id="place-plants"
+		collision_id="place-plants-collision"
+		cull_face="none"
+		pos="0 0 0"
+		fwd="0 0 1"
+		locked="true"
+		lighting="false"
+		shader_id="tree_shader"
+		blend_src="one_minus_constant_color"
+		blend_dest="constant_color"
+	/>
+	<Object id="place-water"
+		pos="0 1 0"
+		fwd="0 0 1"
+		cull_face="none"
+		locked="true"
+		lighting="false"
+		shader_id="water_shader"
+		blend_src="src_color"
+	/>
+
+	<!-- Characters -->
+	<Text pos="-1 3.2 -25" fwd="0 0 1" scale="2 1.5 2">Yuyuko Saigyouji</Text>
+	<Object id="yuyuko-saigyouji"
+		cull_face="none"
+		collision_radius="0.5"
+		pos="-1 0.8 -25"
+		fwd="0 0 1"
+		lighting="false"
+	/>
+
+	<Text pos="-3 2.8 -25" fwd="0 0 1" scale="2 1.5 2">Youmu Konpaku</Text>
+	<Object id="youmu-konpaku"
+		cull_face="none"
+		collision_radius="0.5"
+		pos="-3 0.8 -25"
+		fwd="0 0 1"
+		lighting="false"
+	/>
+
+	<!-- WebSurfaces -->
+	<Object id="plane"
+		websurface_id="wiki"
+		locked="true"
+		pos="2 0.9 -5"
+		xdir="1 0 0"
+		ydir="0 0.707 -0.707"
+		zdir="0 0.707 0.707"
+		scale="2 1 1"
+		cull_face="none"
+		collision_id="plane"
+	/>
+
+	<!-- Images -->
+	<Image id="vinebooru-37488"
+		pos="42.05 1.76 -32.2"
+		fwd="0 0 1"
+		scale="0.55 0.55 0.55"
+		locked="false"
+	/>
+	<Image id="vinebooru-37498"
+		pos="38.1 2.3 -32.2"
+		fwd="0 0 1"
+		scale="1 1 1"
+		locked="false"
+	/>
+	<Image id="vinebooru-37508"
+		pos="40.4 2.33 -32.39"
+		fwd="0 0 1"
+		scale="0.5 0.5 0.5"
+		locked="false"
+	/>	
+
+	<!-- Sounds -->
+	<Sound id="bgm"
+		loop="true"
+		rect="-999 999 999 -999"
+	/>
 </Room>
 </FireBoxRoom>

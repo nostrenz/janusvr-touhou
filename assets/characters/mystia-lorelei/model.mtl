@@ -9,8 +9,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
+map_Kd materials/ms01.png
+map_d materials/ms01.png
 
 newmtl 材質1
 Ns 96.078431
@@ -20,8 +20,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
+map_Kd materials/ms01.png
+map_d materials/ms01.png
 
 newmtl 材質10
 Ns 96.078431
@@ -31,8 +31,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms02.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms02.png
+map_Kd materials/ms02.png
+map_d materials/ms02.png
 
 newmtl 材質11
 Ns 96.078431
@@ -42,8 +42,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms02.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms02.png
+map_Kd materials/ms02.png
+map_d materials/ms02.png
 
 newmtl 材質12
 Ns 96.078431
@@ -53,8 +53,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms02.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms02.png
+map_Kd materials/ms02.png
+map_d materials/ms02.png
 
 newmtl 材質13
 Ns 96.078431
@@ -64,8 +64,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms02.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms02.png
+map_Kd materials/ms02.png
+map_d materials/ms02.png
 
 newmtl 材質14
 Ns 96.078431
@@ -75,8 +75,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms02.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms02.png
+map_Kd materials/ms02.png
+map_d materials/ms02.png
 
 newmtl 材質15
 Ns 96.078431
@@ -86,8 +86,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms02.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms02.png
+map_Kd materials/ms02.png
+map_d materials/ms02.png
 
 newmtl 材質16
 Ns 96.078431
@@ -97,8 +97,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
+map_Kd materials/ms01.png
+map_d materials/ms01.png
 
 newmtl 材質17
 Ns 96.078431
@@ -108,8 +108,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
+map_Kd materials/ms01.png
+map_d materials/ms01.png
 
 newmtl 材質18
 Ns 96.078431
@@ -137,8 +137,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
+map_Kd materials/ms01.png
+map_d materials/ms01.png
 
 newmtl 材質20
 Ns 96.078431
@@ -148,8 +148,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
+map_Kd materials/ms01.png
+map_d materials/ms01.png
 
 newmtl 材質21
 Ns 96.078431
@@ -159,8 +159,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
+map_Kd materials/ms01.png
+map_d materials/ms01.png
 
 newmtl 材質22
 Ns 96.078431
@@ -170,8 +170,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
+map_Kd materials/ms01.png
+map_d materials/ms01.png
 
 newmtl 材質23
 Ns 96.078431
@@ -181,8 +181,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
+map_Kd materials/ms01.png
+map_d materials/ms01.png
 
 newmtl 材質24
 Ns 96.078431
@@ -192,8 +192,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms02.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms02.png
+map_Kd materials/ms02.png
+map_d materials/ms02.png
 
 newmtl 材質25
 Ns 96.078431
@@ -203,8 +203,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms02.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms02.png
+map_Kd materials/ms02.png
+map_d materials/ms02.png
 
 newmtl 材質26
 Ns 96.078431
@@ -214,8 +214,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms02.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms02.png
+map_Kd materials/ms02.png
+map_d materials/ms02.png
 
 newmtl 材質27
 Ns 96.078431
@@ -225,8 +225,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms03.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms03.jpg
+map_Kd materials/ms03.jpg
+map_d materials/ms03.jpg
 
 newmtl 材質28
 Ns 96.078431
@@ -236,8 +236,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms03.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms03.jpg
+map_Kd materials/ms03.jpg
+map_d materials/ms03.jpg
 
 newmtl 材質29
 Ns 96.078431
@@ -247,8 +247,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms03.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms03.jpg
+map_Kd materials/ms03.jpg
+map_d materials/ms03.jpg
 
 newmtl 材質3
 Ns 96.078431
@@ -258,8 +258,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
+map_Kd materials/ms01.png
+map_d materials/ms01.png
 
 newmtl 材質30
 Ns 96.078431
@@ -269,8 +269,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms03.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms03.jpg
+map_Kd materials/ms03.jpg
+map_d materials/ms03.jpg
 
 newmtl 材質31
 Ns 96.078431
@@ -280,8 +280,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms03.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms03.jpg
+map_Kd materials/ms03.jpg
+map_d materials/ms03.jpg
 
 newmtl 材質32
 Ns 96.078431
@@ -291,8 +291,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms03.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms03.jpg
+map_Kd materials/ms03.jpg
+map_d materials/ms03.jpg
 
 newmtl 材質33
 Ns 96.078431
@@ -302,8 +302,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms03.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms03.jpg
+map_Kd materials/ms03.jpg
+map_d materials/ms03.jpg
 
 newmtl 材質34
 Ns 96.078431
@@ -313,8 +313,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms03.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms03.jpg
+map_Kd materials/ms03.jpg
+map_d materials/ms03.jpg
 
 newmtl 材質35
 Ns 96.078431
@@ -324,8 +324,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms03.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms03.jpg
+map_Kd materials/ms03.jpg
+map_d materials/ms03.jpg
 
 newmtl 材質36
 Ns 96.078431
@@ -335,8 +335,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms03.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms03.jpg
+map_Kd materials/ms03.jpg
+map_d materials/ms03.jpg
 
 newmtl 材質37
 Ns 96.078431
@@ -346,8 +346,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms02.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms02.png
+map_Kd materials/ms02.png
+map_d materials/ms02.png
 
 newmtl 材質38
 Ns 96.078431
@@ -357,8 +357,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms02.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms02.png
+map_Kd materials/ms02.png
+map_d materials/ms02.png
 
 newmtl 材質39
 Ns 96.078431
@@ -368,8 +368,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms03.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms03.jpg
+map_Kd materials/ms03.jpg
+map_d materials/ms03.jpg
 
 newmtl 材質4
 Ns 96.078431
@@ -379,8 +379,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
+map_Kd materials/ms01.png
+map_d materials/ms01.png
 
 newmtl 材質40
 Ns 96.078431
@@ -390,8 +390,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms03.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms03.jpg
+map_Kd materials/ms03.jpg
+map_d materials/ms03.jpg
 
 newmtl 材質41
 Ns 96.078431
@@ -401,8 +401,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms02.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms02.png
+map_Kd materials/ms02.png
+map_d materials/ms02.png
 
 newmtl 材質42
 Ns 96.078431
@@ -412,8 +412,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms03.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms03.jpg
+map_Kd materials/ms03.jpg
+map_d materials/ms03.jpg
 
 newmtl 材質43
 Ns 96.078431
@@ -423,8 +423,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms03.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms03.jpg
+map_Kd materials/ms03.jpg
+map_d materials/ms03.jpg
 
 newmtl 材質44
 Ns 96.078431
@@ -434,8 +434,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/pan.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/pan.jpg
+map_Kd materials/pan.jpg
+map_d materials/pan.jpg
 
 newmtl 材質5
 Ns 96.078431
@@ -445,8 +445,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
+map_Kd materials/ms01.png
+map_d materials/ms01.png
 
 newmtl 材質6
 Ns 96.078431
@@ -456,8 +456,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
+map_Kd materials/ms01.png
+map_d materials/ms01.png
 
 newmtl 材質7
 Ns 96.078431
@@ -467,8 +467,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
+map_Kd materials/ms01.png
+map_d materials/ms01.png
 
 newmtl 材質8
 Ns 96.078431
@@ -478,8 +478,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms02.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms02.png
+map_Kd materials/ms02.png
+map_d materials/ms02.png
 
 newmtl 材質9
 Ns 96.078431
@@ -489,5 +489,5 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mystia-lorelei/materials/ms01.png
+map_Kd materials/ms01.png
+map_d materials/ms01.png

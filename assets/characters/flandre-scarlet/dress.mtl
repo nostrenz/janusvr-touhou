@@ -9,5 +9,5 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd E:\Program\App\XAMPP\htdocs\janusvr\assets\characters\flandre-scarlet\materials\Tj_suit.jpg
-map_d E:\\Program\\App\\XAMPP\\htdocs\\janusvr\\assets\\characters\\flandre-scarlet\\materials\\Tj_suit.jpg
+map_Kd materials/Tj_suit.jpg
+map_d materials/Tj_suit.jpg

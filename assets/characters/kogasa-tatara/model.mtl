@@ -9,8 +9,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/mm2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/mm2.png
+map_Kd materials/mm2.png
+map_d materials/mm2.png
 
 newmtl blush
 Ns 96.078431
@@ -20,8 +20,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/mm2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/mm2.png
+map_Kd materials/mm2.png
+map_d materials/mm2.png
 
 newmtl blush2
 Ns 96.078431
@@ -31,8 +31,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/mm2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/mm2.png
+map_Kd materials/mm2.png
+map_d materials/mm2.png
 
 newmtl body
 Ns 96.078431
@@ -42,8 +42,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/mm2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/mm2.png
+map_Kd materials/mm2.png
+map_d materials/mm2.png
 
 newmtl buckle
 Ns 96.078431
@@ -53,7 +53,7 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/metal.jpg
+map_Kd materials/metal.jpg
 
 newmtl eyeL
 Ns 96.078431
@@ -63,8 +63,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/mm2a.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/mm2a.png
+map_Kd materials/mm2a.png
+map_d materials/mm2a.png
 
 newmtl eyeR
 Ns 96.078431
@@ -74,8 +74,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/mm2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/mm2.png
+map_Kd materials/mm2.png
+map_d materials/mm2.png
 
 newmtl eyebrow
 Ns 96.078431
@@ -85,8 +85,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/tr02.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/tr02.jpg
+map_Kd materials/tr02.jpg
+map_d materials/tr02.jpg
 
 newmtl face
 Ns 96.078431
@@ -96,8 +96,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/mm2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/mm2.png
+map_Kd materials/mm2.png
+map_d materials/mm2.png
 
 newmtl facial
 Ns 96.078431
@@ -107,8 +107,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/mm2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/mm2.png
+map_Kd materials/mm2.png
+map_d materials/mm2.png
 
 newmtl geta
 Ns 96.078431
@@ -118,8 +118,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/mm1.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/mm1.png
+map_Kd materials/mm1.png
+map_d materials/mm1.png
 
 newmtl hair
 Ns 96.078431
@@ -129,8 +129,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/tr02.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/tr02.jpg
+map_Kd materials/tr02.jpg
+map_d materials/tr02.jpg
 
 newmtl highlight
 Ns 96.078431
@@ -140,8 +140,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/mm2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/mm2.png
+map_Kd materials/mm2.png
+map_d materials/mm2.png
 
 newmtl mouth
 Ns 96.078431
@@ -151,8 +151,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/mm2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/mm2.png
+map_Kd materials/mm2.png
+map_d materials/mm2.png
 
 newmtl pantsu
 Ns 96.078431
@@ -162,8 +162,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/mikp.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/mikp.jpg
+map_Kd materials/mikp.jpg
+map_d materials/mikp.jpg
 
 newmtl skirt
 Ns 96.078431
@@ -173,8 +173,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/dy03.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/dy03.png
+map_Kd materials/dy03.png
+map_d materials/dy03.png
 
 newmtl skirt_in
 Ns 96.078431
@@ -184,8 +184,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/dy04.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/dy04.png
+map_Kd materials/dy04.png
+map_d materials/dy04.png
 
 newmtl sleeve
 Ns 96.078431
@@ -195,8 +195,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/dy04.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/dy04.png
+map_Kd materials/dy04.png
+map_d materials/dy04.png
 
 newmtl strap
 Ns 96.078431
@@ -206,7 +206,7 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/hk.jpg
+map_Kd materials/hk.jpg
 
 newmtl tear
 Ns 96.078431
@@ -225,8 +225,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/dy03.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/dy03.png
+map_Kd materials/dy03.png
+map_d materials/dy03.png
 
 newmtl top_w
 Ns 96.078431
@@ -236,8 +236,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/dy04.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kogasa-tatara/materials/dy04.png
+map_Kd materials/dy04.png
+map_d materials/dy04.png
 
 newmtl white
 Ns 96.078431

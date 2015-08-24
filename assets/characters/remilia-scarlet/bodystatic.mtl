@@ -9,8 +9,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress1.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress1.jpg
+map_Kd materials/dress1.jpg
+map_d materials/dress1.jpg
 
 newmtl ぱんちゅリボン
 Ns 90.196078
@@ -20,8 +20,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress1.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress1.jpg
+map_Kd materials/dress1.jpg
+map_d materials/dress1.jpg
 
 newmtl アームバンド
 Ns 90.196078
@@ -31,8 +31,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress1.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress1.jpg
+map_Kd materials/dress1.jpg
+map_d materials/dress1.jpg
 
 newmtl ドロワーズ
 Ns 90.196078
@@ -42,8 +42,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress1.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress1.jpg
+map_Kd materials/dress1.jpg
+map_d materials/dress1.jpg
 
 newmtl ハイライト
 Ns 90.196078
@@ -53,8 +53,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/eyes.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/eyes.jpg
+map_Kd materials/eyes.jpg
+map_d materials/eyes.jpg
 
 newmtl リストバンド
 Ns 90.196078
@@ -64,8 +64,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress2.png
+map_Kd materials/dress2.png
+map_d materials/dress2.png
 
 newmtl リストバンドフリル
 Ns 90.196078
@@ -75,8 +75,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress2.png
+map_Kd materials/dress2.png
+map_d materials/dress2.png
 
 newmtl 口内
 Ns 90.196078
@@ -86,8 +86,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/head.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/head.jpg
+map_Kd materials/head.jpg
+map_d materials/head.jpg
 
 newmtl 宝石
 Ns 90.196078
@@ -97,8 +97,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress1.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress1.jpg
+map_Kd materials/dress1.jpg
+map_d materials/dress1.jpg
 
 newmtl 宝石枠
 Ns 90.196078
@@ -108,8 +108,8 @@ Ks 0.200000 0.200000 0.200000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress1.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress1.jpg
+map_Kd materials/dress1.jpg
+map_d materials/dress1.jpg
 
 newmtl 帽子
 Ns 90.196078
@@ -119,8 +119,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress4.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress4.jpg
+map_Kd materials/dress4.jpg
+map_d materials/dress4.jpg
 
 newmtl 手の爪
 Ns 90.196078
@@ -130,8 +130,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/body.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/body.jpg
+map_Kd materials/body.jpg
+map_d materials/body.jpg
 
 newmtl 服
 Ns 90.196078
@@ -141,8 +141,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress1.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress1.jpg
+map_Kd materials/dress1.jpg
+map_d materials/dress1.jpg
 
 newmtl 涙
 Ns 90.196078
@@ -161,8 +161,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/head.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/head.jpg
+map_Kd materials/head.jpg
+map_d materials/head.jpg
 
 newmtl 眼鏡ガラス
 Ns 90.196078
@@ -208,8 +208,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/head.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/head.jpg
+map_Kd materials/head.jpg
+map_d materials/head.jpg
 
 newmtl 瞳
 Ns 90.196078
@@ -219,8 +219,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/eyes.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/eyes.jpg
+map_Kd materials/eyes.jpg
+map_d materials/eyes.jpg
 
 newmtl 襟
 Ns 90.196078
@@ -230,8 +230,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress2.png
+map_Kd materials/dress2.png
+map_d materials/dress2.png
 
 newmtl 襟フリル
 Ns 90.196078
@@ -241,8 +241,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress2.png
+map_Kd materials/dress2.png
+map_d materials/dress2.png
 
 newmtl 襟マーク
 Ns 90.196078
@@ -252,8 +252,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress2.png
+map_Kd materials/dress2.png
+map_d materials/dress2.png
 
 newmtl 襟ライン
 Ns 90.196078
@@ -263,8 +263,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress2.png
+map_Kd materials/dress2.png
+map_d materials/dress2.png
 
 newmtl 足の爪
 Ns 90.196078
@@ -274,8 +274,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/body.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/body.jpg
+map_Kd materials/body.jpg
+map_d materials/body.jpg
 
 newmtl 身体
 Ns 90.196078
@@ -285,8 +285,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/body.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/body.jpg
+map_Kd materials/body.jpg
+map_d materials/body.jpg
 
 newmtl 身体不要材質
 Ns 90.196078
@@ -296,8 +296,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/body.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/body.jpg
+map_Kd materials/body.jpg
+map_d materials/body.jpg
 
 newmtl 靴
 Ns 90.196078
@@ -307,8 +307,8 @@ Ks 0.150000 0.150000 0.150000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress4.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress4.jpg
+map_Kd materials/dress4.jpg
+map_d materials/dress4.jpg
 
 newmtl 靴下
 Ns 90.196078
@@ -318,8 +318,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress3.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress3.jpg
+map_Kd materials/dress3.jpg
+map_d materials/dress3.jpg
 
 newmtl 靴金具
 Ns 90.196078
@@ -329,8 +329,8 @@ Ks 0.150000 0.150000 0.150000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress4.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress4.jpg
+map_Kd materials/dress4.jpg
+map_d materials/dress4.jpg
 
 newmtl 靴黒
 Ns 90.196078
@@ -340,8 +340,8 @@ Ks 0.150000 0.150000 0.150000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress4.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/dress4.jpg
+map_Kd materials/dress4.jpg
+map_d materials/dress4.jpg
 
 newmtl 頬
 Ns 90.196078
@@ -351,8 +351,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/hoho.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/hoho.png
+map_Kd materials/hoho.png
+map_d materials/hoho.png
 
 newmtl 頬照れ用
 Ns 90.196078
@@ -362,8 +362,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/hoho.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/hoho.png
+map_Kd materials/hoho.png
+map_d materials/hoho.png
 
 newmtl 頭
 Ns 90.196078
@@ -373,8 +373,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/head.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/head.jpg
+map_Kd materials/head.jpg
+map_d materials/head.jpg
 
 newmtl 髪ベース
 Ns 90.196078
@@ -384,8 +384,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/hair.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/hair.png
+map_Kd materials/hair.png
+map_d materials/hair.png
 
 newmtl 鼻筋
 Ns 90.196078
@@ -395,5 +395,5 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/head.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/head.jpg
+map_Kd materials/head.jpg
+map_d materials/head.jpg

@@ -9,8 +9,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/trunc.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/trunc.png
+map_Kd materials/trunc.png
+map_d materials/trunc.png
 
 newmtl 材質19
 Ns 96.078431
@@ -20,8 +20,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txLeaf.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txLeaf.png
+map_Kd materials/txLeaf.png
+map_d materials/txLeaf.png
 
 newmtl 材質20
 Ns 96.078431
@@ -31,8 +31,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txLeaf.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txLeaf.png
+map_Kd materials/txLeaf.png
+map_d materials/txLeaf.png
 
 newmtl 材質21
 Ns 96.078431
@@ -42,8 +42,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txLeaf.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txLeaf.png
+map_Kd materials/txLeaf.png
+map_d materials/txLeaf.png
 
 newmtl 材質22
 Ns 96.078431
@@ -53,8 +53,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/flower.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/flower.png
+map_Kd materials/flower.png
+map_d materials/flower.png
 
 newmtl 材質23
 Ns 96.078431
@@ -64,8 +64,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txTree.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txTree.png
+map_Kd materials/txTree.png
+map_d materials/txTree.png
 
 newmtl 材質24
 Ns 96.078431
@@ -75,5 +75,5 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txSTree.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/myouren-temple/materials/txSTree.png
+map_Kd materials/txSTree.png
+map_d materials/txSTree.png

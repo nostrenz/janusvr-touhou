@@ -9,8 +9,8 @@ Ks 0.075000 0.075000 0.075000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage1.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage1.png
+map_Kd materials/Stage1.png
+map_d materials/Stage1.png
 
 newmtl 材質1
 Ns 90.196078
@@ -20,8 +20,8 @@ Ks 0.075000 0.075000 0.075000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage2.png
+map_Kd materials/Stage2.png
+map_d materials/Stage2.png
 
 newmtl 材質1.001
 Ns 90.196078
@@ -31,8 +31,8 @@ Ks 0.075000 0.075000 0.075000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/bookwall.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/bookwall.jpg
+map_Kd materials/bookwall.jpg
+map_d materials/bookwall.jpg
 
 newmtl 材質10
 Ns 90.196078
@@ -42,8 +42,8 @@ Ks 0.075000 0.075000 0.075000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage11.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage11.png
+map_Kd materials/Stage11.png
+map_d materials/Stage11.png
 
 newmtl 材質11
 Ns 90.196078
@@ -53,8 +53,8 @@ Ks 0.075000 0.075000 0.075000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage12.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage12.png
+map_Kd materials/Stage12.png
+map_d materials/Stage12.png
 
 newmtl 材質12
 Ns 90.196078
@@ -64,8 +64,8 @@ Ks 0.075000 0.075000 0.075000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage13.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage13.png
+map_Kd materials/Stage13.png
+map_d materials/Stage13.png
 
 newmtl 材質13
 Ns 90.196078
@@ -75,8 +75,8 @@ Ks 0.075000 0.075000 0.075000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage14.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage14.png
+map_Kd materials/Stage14.png
+map_d materials/Stage14.png
 
 newmtl 材質14
 Ns 90.196078
@@ -86,8 +86,8 @@ Ks 0.075000 0.075000 0.075000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/floor.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/floor.png
+map_Kd materials/floor.png
+map_d materials/floor.png
 
 newmtl 材質15
 Ns 90.196078
@@ -97,8 +97,8 @@ Ks 0.075000 0.075000 0.075000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage16.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage16.png
+map_Kd materials/Stage16.png
+map_d materials/Stage16.png
 
 newmtl 材質2
 Ns 90.196078
@@ -108,8 +108,8 @@ Ks 0.075000 0.075000 0.075000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage3.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage3.png
+map_Kd materials/Stage3.png
+map_d materials/Stage3.png
 
 newmtl 材質2.001
 Ns 90.196078
@@ -119,8 +119,8 @@ Ks 0.075000 0.075000 0.075000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage20.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage20.png
+map_Kd materials/Stage20.png
+map_d materials/Stage20.png
 
 newmtl 材質3
 Ns 90.196078
@@ -130,8 +130,8 @@ Ks 0.075000 0.075000 0.075000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage4.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage4.png
+map_Kd materials/Stage4.png
+map_d materials/Stage4.png
 
 newmtl 材質4
 Ns 90.196078
@@ -141,8 +141,8 @@ Ks 0.075000 0.075000 0.075000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage5.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage5.png
+map_Kd materials/Stage5.png
+map_d materials/Stage5.png
 
 newmtl 材質5
 Ns 90.196078
@@ -152,8 +152,8 @@ Ks 0.075000 0.075000 0.075000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage6.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage6.png
+map_Kd materials/Stage6.png
+map_d materials/Stage6.png
 
 newmtl 材質6
 Ns 90.196078
@@ -163,8 +163,8 @@ Ks 0.075000 0.075000 0.075000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage7.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage7.png
+map_Kd materials/Stage7.png
+map_d materials/Stage7.png
 
 newmtl 材質7
 Ns 90.196078
@@ -174,8 +174,8 @@ Ks 0.075000 0.075000 0.075000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage8.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage8.png
+map_Kd materials/Stage8.png
+map_d materials/Stage8.png
 
 newmtl 材質8
 Ns 90.196078
@@ -185,8 +185,8 @@ Ks 0.075000 0.075000 0.075000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage9.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage9.png
+map_Kd materials/Stage9.png
+map_d materials/Stage9.png
 
 newmtl 材質9
 Ns 90.196078
@@ -196,5 +196,5 @@ Ks 0.075000 0.075000 0.075000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage10.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage10.png
+map_Kd materials/Stage10.png
+map_d materials/Stage10.png

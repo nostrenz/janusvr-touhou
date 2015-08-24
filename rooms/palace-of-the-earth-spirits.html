@@ -1,88 +1,94 @@
 <FireBoxRoom>
 <Assets>
-   <div class="place">
-      <AssetObject id='place-hall'
-         src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/hall.obj'
-         mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/hall.mtl'
-      />
-      <AssetObject id='hall-collision'
-         src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/hall-collision.obj'
-      />
-   </div>
-   <div class="characters">
-      <AssetObject id='satori-komeiji'
-         src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/model.obj'
-         mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/satori-komeiji/model.mtl'
-      />
-      <AssetObject id='koishi-komeiji'
-         src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/model.obj'
-         mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/model.mtl'
-      />
-   </div>
-   <div class="objects">
-      <AssetObject id='neko-orin'
-         src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/neko-orin/model.obj'
-         mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/neko-orin/model.mtl'
-      />
-   </div>
-   <div class="sounds">
-      <AssetSound id="bgm"
-         src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/audio/palace-of-the-earth-spirits.mp3"
-      />
-   </div>
-   <div class="websurfaces">
-      <AssetWebSurface id="wiki" src="http://en.touhouwiki.net/wiki/Palace_of_the_Earth_Spirits" />
-   </div>
+	<!-- Place -->
+	<AssetObject id='place-hall'
+		src='../assets/places/palace-of-the-earth-spirits/hall.obj'
+		mtl='../assets/places/palace-of-the-earth-spirits/hall.mtl'
+	/>
+	<AssetObject id='hall-collision'
+		src='../assets/places/palace-of-the-earth-spirits/hall-collision.obj'
+	/>
+	
+	<!-- Characters -->
+	<AssetObject id='satori-komeiji'
+		src='../assets/characters/satori-komeiji/model.obj'
+		mtl='../assets/characters/satori-komeiji/model.mtl'
+	/>
+	<AssetObject id='koishi-komeiji'
+		src='../assets/characters/koishi-komeiji/model.obj'
+		mtl='../assets/characters/koishi-komeiji/model.mtl'
+	/>
+	</div>
+	<div class="objects">
+	<AssetObject id='neko-orin'
+		src='../assets/objects/neko-orin/model.obj'
+		mtl='../assets/objects/neko-orin/model.mtl'
+	/>
+	
+	<!-- Sounds -->
+	<AssetSound id="bgm"
+		src="../assets/audio/palace-of-the-earth-spirits.mp3"
+	/>
+	
+	<!-- Websurfaces -->
+	<AssetWebSurface id="wiki"
+		src="http://en.touhouwiki.net/wiki/Palace_of_the_Earth_Spirits"
+	/>
 </Assets>
+
 <Room visible="false" col="1 0 0" pos="0 0 12.7" fwd="0 0 -1" >
-   <div class="place">
-      <Object
-         id="place-hall"
-         collision_id="hall-collision"
-         fwd="0 0 1"
-         locked="true"
-         lighting="true" >
-   	</Object>
-   </div>
-   <div class="characters">
-      <Text pos="0 5 -10.2" fwd="0 0 1" scale="1 1.5 1">Satori Komeiji</Text>
-      <Object
-         id="satori-komeiji"
-         collision_radius="0.5"
-         pos="0 3.05 -10"
-         fwd="0 0 1"
-         cull_face="none"
-         lighting="false"
-      />
-      <Text pos="-2 7.5 -16" fwd="1 0 1" scale="1 1.5 1">Koishi Komeiji</Text>
-      <Object
-         id="koishi-komeiji"
-         collision_radius="0.5"
-         pos="-2 5.5 -16"
-         fwd="1 0 1"
-         cull_face="none"
-         lighting="false"
-      />
-   </div>
-   <div class="objects">
-      <Object id="neko-orin"
-         pos="-1.5 7.66 9.05"
-         fwd="10 0 1"
-         lighting="false"
-         scale="0.3 0.3 0.3"
-      />
-   </div>
-   <Object websurface_id="wiki"
-      id="plane"
-      collision_id="plane"
-      locked="true"
-      pos="-2.5 0.9 8.5"
-      xdir="1 0 0"
-      ydir="0 0.707 -0.707"
-      zdir="0 0.707 0.707"
-      scale="2 1 1"
-      cull_face="none"
-   />
-   <Sound id="bgm" loop="true" rect="-999 999 999 -999" />
+	<!-- Place -->
+	<Object id="place-hall"
+		collision_id="hall-collision"
+		fwd="0 0 1"
+		locked="true"
+		lighting="true"
+	/>
+	
+	<!-- Characters -->
+	<Text pos="0 5 -10.2" fwd="0 0 1" scale="1 1.5 1">Satori Komeiji</Text>
+	<Object id="satori-komeiji"
+		collision_radius="0.5"
+		pos="0 3.05 -10"
+		fwd="0 0 1"
+		cull_face="none"
+		lighting="false"
+	/>
+	
+	<Text pos="-2 7.5 -16" fwd="1 0 1" scale="1 1.5 1">Koishi Komeiji</Text>
+	<Object id="koishi-komeiji"
+		collision_radius="0.5"
+		pos="-2 5.5 -16"
+		fwd="1 0 1"
+		cull_face="none"
+		lighting="false"
+	/>
+	
+	<!-- Objects -->
+	<Object id="neko-orin"
+		pos="-1.5 7.66 9.05"
+		fwd="10 0 1"
+		lighting="false"
+		scale="0.3 0.3 0.3"
+	/>
+	
+	<!-- WebSurfaces -->
+	<Object websurface_id="wiki"
+		id="plane"
+		collision_id="plane"
+		locked="true"
+		pos="-2.5 0.9 8.5"
+		xdir="1 0 0"
+		ydir="0 0.707 -0.707"
+		zdir="0 0.707 0.707"
+		scale="2 1 1"
+		cull_face="none"
+	/>
+	
+	<!-- Sounds -->
+	<Sound id="bgm"
+		loop="true"
+		rect="-999 999 999 -999"
+	/>
 </Room>
 </FireBoxRoom>

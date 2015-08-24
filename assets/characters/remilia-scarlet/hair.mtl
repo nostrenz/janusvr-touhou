@@ -9,8 +9,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/hair.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/hair.png
+map_Kd materials/hair.png
+map_d materials/hair.png
 
 newmtl 前髪補助
 Ns 90.196078
@@ -20,8 +20,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/hair.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/hair.png
+map_Kd materials/hair.png
+map_d materials/hair.png
 
 newmtl 後髪中１
 Ns 90.196078
@@ -31,8 +31,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/hair.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/hair.png
+map_Kd materials/hair.png
+map_d materials/hair.png
 
 newmtl 後髪中２
 Ns 90.196078
@@ -42,8 +42,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/hair.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/hair.png
+map_Kd materials/hair.png
+map_d materials/hair.png
 
 newmtl 後髪最奥
 Ns 90.196078
@@ -53,8 +53,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/hair.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/hair.png
+map_Kd materials/hair.png
+map_d materials/hair.png
 
 newmtl 横／後髪
 Ns 90.196078
@@ -64,5 +64,5 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/hair.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/remilia-scarlet/materials/hair.png
+map_Kd materials/hair.png
+map_d materials/hair.png

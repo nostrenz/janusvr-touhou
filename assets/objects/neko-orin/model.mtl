@@ -9,5 +9,5 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/neko-orin/materials/txONeko.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/neko-orin/materials/txONeko.jpg
+map_Kd materials/txONeko.jpg
+map_d materials/txONeko.jpg

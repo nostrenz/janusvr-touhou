@@ -9,8 +9,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd E:\Program\App\XAMPP\htdocs\janusvr\assets\characters\flandre-scarlet\materials\Ku_Body.jpg
-map_d E:\\Program\\App\\XAMPP\\htdocs\\janusvr\\assets\\characters\\flandre-scarlet\\materials\\Ku_Body.jpg
+map_Kd materials/Ku_Body.jpg
+map_d materials/Ku_Body.jpg
 
 newmtl Material10
 Ns 84.313725
@@ -20,8 +20,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd E:\Program\App\XAMPP\htdocs\janusvr\assets\characters\flandre-scarlet\materials\Fl_face.png
-map_d E:\\Program\\App\\XAMPP\\htdocs\\janusvr\\assets\\characters\\flandre-scarlet\\materials\\Fl_face.png
+map_Kd materials/Fl_face.png
+map_d materials/Fl_face.png
 
 newmtl Material11
 Ns 84.313725
@@ -49,8 +49,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd E:\Program\App\XAMPP\htdocs\janusvr\assets\characters\flandre-scarlet\materials\Fl_face.png
-map_d E:\\Program\\App\\XAMPP\\htdocs\\janusvr\\assets\\characters\\flandre-scarlet\\materials\\Fl_face.png
+map_Kd materials/Fl_face.png
+map_d materials/Fl_face.png
 
 newmtl Material15
 Ns 84.313725
@@ -60,8 +60,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.900000
 illum 2
-map_Kd E:\Program\App\XAMPP\htdocs\janusvr\assets\characters\flandre-scarlet\materials\Fl_face.png
-map_d E:\\Program\\App\\XAMPP\\htdocs\\janusvr\\assets\\characters\\flandre-scarlet\\materials\\Fl_face.png
+map_Kd materials/Fl_face.png
+map_d materials/Fl_face.png
 
 newmtl Material16
 Ns 84.313725
@@ -71,8 +71,8 @@ Ks 0.050000 0.025000 0.025000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd E:\Program\App\XAMPP\htdocs\janusvr\assets\characters\flandre-scarlet\materials\Yr_Suit.jpg
-map_d E:\\Program\\App\\XAMPP\\htdocs\\janusvr\\assets\\characters\\flandre-scarlet\\materials\\Yr_Suit.jpg
+map_Kd materials/Yr_Suit.jpg
+map_d materials/Yr_Suit.jpg
 
 newmtl Material17
 Ns 84.313725
@@ -82,8 +82,8 @@ Ks 0.050000 0.025000 0.025000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd E:\Program\App\XAMPP\htdocs\janusvr\assets\characters\flandre-scarlet\materials\Yr_Suit.jpg
-map_d E:\\Program\\App\\XAMPP\\htdocs\\janusvr\\assets\\characters\\flandre-scarlet\\materials\\Yr_Suit.jpg
+map_Kd materials/Yr_Suit.jpg
+map_d materials/Yr_Suit.jpg
 
 newmtl Material18
 Ns 84.313725
@@ -93,8 +93,8 @@ Ks 0.000000 0.050000 0.050000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd E:\Program\App\XAMPP\htdocs\janusvr\assets\characters\flandre-scarlet\materials\b_nkd.jpg
-map_d E:\\Program\\App\\XAMPP\\htdocs\\janusvr\\assets\\characters\\flandre-scarlet\\materials\\b_nkd.jpg
+map_Kd materials/b_nkd.jpg
+map_d materials/b_nkd.jpg
 
 newmtl Material2
 Ns 84.313725
@@ -104,8 +104,8 @@ Ks 0.500000 0.500000 0.500000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd E:\Program\App\XAMPP\htdocs\janusvr\assets\characters\flandre-scarlet\materials\Ru_suit.jpg
-map_d E:\\Program\\App\\XAMPP\\htdocs\\janusvr\\assets\\characters\\flandre-scarlet\\materials\\Ru_suit.jpg
+map_Kd materials/Ru_suit.jpg
+map_d materials/Ru_suit.jpg
 
 newmtl Material20
 Ns 84.313725
@@ -115,8 +115,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd E:\Program\App\XAMPP\htdocs\janusvr\assets\characters\flandre-scarlet\materials\yhair.jpg
-map_d E:\\Program\\App\\XAMPP\\htdocs\\janusvr\\assets\\characters\\flandre-scarlet\\materials\\yhair.jpg
+map_Kd materials/yhair.jpg
+map_d materials/yhair.jpg
 
 newmtl Material26
 Ns 84.313725
@@ -126,8 +126,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd E:\Program\App\XAMPP\htdocs\janusvr\assets\characters\flandre-scarlet\materials\rm_spri.jpg
-map_d E:\\Program\\App\\XAMPP\\htdocs\\janusvr\\assets\\characters\\flandre-scarlet\\materials\\rm_spri.jpg
+map_Kd materials/rm_spri.jpg
+map_d materials/rm_spri.jpg
 
 newmtl Material3
 Ns 84.313725
@@ -137,8 +137,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd E:\Program\App\XAMPP\htdocs\janusvr\assets\characters\flandre-scarlet\materials\Ru_suit2.jpg
-map_d E:\\Program\\App\\XAMPP\\htdocs\\janusvr\\assets\\characters\\flandre-scarlet\\materials\\Ru_suit2.jpg
+map_Kd materials/Ru_suit2.jpg
+map_d materials/Ru_suit2.jpg
 
 newmtl Material4
 Ns 84.313725
@@ -148,8 +148,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd E:\Program\App\XAMPP\htdocs\janusvr\assets\characters\flandre-scarlet\materials\Fl_face.png
-map_d E:\\Program\\App\\XAMPP\\htdocs\\janusvr\\assets\\characters\\flandre-scarlet\\materials\\Fl_face.png
+map_Kd materials/Fl_face.png
+map_d materials/Fl_face.png
 
 newmtl Material5
 Ns 84.313725
@@ -159,8 +159,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd E:\Program\App\XAMPP\htdocs\janusvr\assets\characters\flandre-scarlet\materials\Ru_suit.jpg
-map_d E:\\Program\\App\\XAMPP\\htdocs\\janusvr\\assets\\characters\\flandre-scarlet\\materials\\Ru_suit.jpg
+map_Kd materials/Ru_suit.jpg
+map_d materials/Ru_suit.jpg
 
 newmtl Material6
 Ns 84.313725
@@ -170,8 +170,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd E:\Program\App\XAMPP\htdocs\janusvr\assets\characters\flandre-scarlet\materials\Fl_face.png
-map_d E:\\Program\\App\\XAMPP\\htdocs\\janusvr\\assets\\characters\\flandre-scarlet\\materials\\Fl_face.png
+map_Kd materials/Fl_face.png
+map_d materials/Fl_face.png
 
 newmtl Material7
 Ns 84.313725
@@ -181,8 +181,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd E:\Program\App\XAMPP\htdocs\janusvr\assets\characters\flandre-scarlet\materials\Fl_face.png
-map_d E:\\Program\\App\\XAMPP\\htdocs\\janusvr\\assets\\characters\\flandre-scarlet\\materials\\Fl_face.png
+map_Kd materials/Fl_face.png
+map_d materials/Fl_face.png
 
 newmtl Material8
 Ns 84.313725
@@ -192,8 +192,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd E:\Program\App\XAMPP\htdocs\janusvr\assets\characters\flandre-scarlet\materials\Fl_face.png
-map_d E:\\Program\\App\\XAMPP\\htdocs\\janusvr\\assets\\characters\\flandre-scarlet\\materials\\Fl_face.png
+map_Kd materials/Fl_face.png
+map_d materials/Fl_face.png
 
 newmtl Material9
 Ns 84.313725
@@ -203,5 +203,5 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd E:\Program\App\XAMPP\htdocs\janusvr\assets\characters\flandre-scarlet\materials\Fl_face.png
-map_d E:\\Program\\App\\XAMPP\\htdocs\\janusvr\\assets\\characters\\flandre-scarlet\\materials\\Fl_face.png
+map_Kd materials/Fl_face.png
+map_d materials/Fl_face.png

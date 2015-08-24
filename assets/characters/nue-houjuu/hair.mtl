@@ -9,8 +9,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/hair.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/hair.png
+map_Kd materials/hair.png
+map_d materials/hair.png
 
 newmtl 髪2
 Ns 92.156863
@@ -20,5 +20,5 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.850000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/hair.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nue-houjuu/materials/hair.png
+map_Kd materials/hair.png
+map_d materials/hair.png
