@@ -22,6 +22,7 @@
 	head_pos="0.0 1.5 0.0"
 	eye_pos="0.0 1.74 -0.15"
 	lighting="false"
+	cull_face="none"
 />
 </Room>
 </FireBoxRoom>
