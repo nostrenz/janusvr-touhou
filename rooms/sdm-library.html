@@ -1,68 +1,69 @@
 <FireBoxRoom>
 <Assets>
-	<div class="place">
-	<AssetObject
-	id='place-room'
-	src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/room.obj'
-	mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/room.mtl'
+	<!-- Place -->
+	<AssetObject id='place-room'
+		src='../assets/places/sdm-library/room.obj'
+		mtl='../assets/places/sdm-library/room.mtl'
 	/>
-	<AssetObject
-	id='place-lights'
-	src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/lights.obj'
-	mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/lights.mtl'
+	<AssetObject id='place-lights'
+		src='../assets/places/sdm-library/lights.obj'
+		mtl='../assets/places/sdm-library/lights.mtl'
 	/>
 
-	<AssetObject
-	id='place-room-collision'
-	src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/collision.obj'
+	<AssetObject id='place-room-collision'
+		src='../assets/places/sdm-library/collision.obj'
 	/>
-	</div>
-	<div class="characters">
-	<AssetObject
-	id='patchouli-knowledge-body'
-	src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/body.obj'
-	mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/body.mtl'
+	
+	<!-- Characters -->
+	<AssetObject id='patchouli-knowledge-body'
+		src='../assets/characters/patchouli-knowledge/body.obj'
+		mtl='../assets/characters/patchouli-knowledge/body.mtl'
 	/>
-	<AssetObject
-	id='patchouli-knowledge-hair'
-	src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/hair.obj'
-	mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/hair.mtl'
+	<AssetObject id='patchouli-knowledge-hair'
+		src='../assets/characters/patchouli-knowledge/hair.obj'
+		mtl='../assets/characters/patchouli-knowledge/hair.mtl'
 	/>
 
-	<AssetObject
-	id='koakuma'
-	src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koakuma/model.obj'
-	mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koakuma/model.mtl'
+	<AssetObject id='koakuma'
+		src='../assets/characters/koakuma/model.obj'
+		mtl='../assets/characters/koakuma/model.mtl'
 	/>
-	</div>
-	<div class="objects">
-	<AssetObject
-	id='book-opened'
-	src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/books/book-opened.obj'
-	mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/books/book-opened.mtl'
+	
+	<!-- Objects -->
+	<AssetObject id='book-opened'
+		src='../assets/objects/books/book-opened.obj'
+		mtl='../assets/objects/books/book-opened.mtl'
 	/>
-	<AssetObject
-	id='book-closed'
-	src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/books/book-closed.obj'
-	mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/objects/books/book-closed.mtl'
+	<AssetObject id='book-closed'
+		src='../assets/objects/books/book-closed.obj'
+		mtl='../assets/objects/books/book-closed.mtl'
 	/>
-	</div>
-	<div class="images">
-	<AssetImage id="sky" src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/Stage1.png" />
-	<AssetImage id="ingame-library" src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/images/sdm-library.jpg" />
-	</div>
-	<div class="sounds">
-	<AssetSound id="bgm" src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/audio/sdm-library.mp3" />
-	</div>
-	<div class="shaders">
+	
+	<!-- Images -->
+	<AssetImage id="sky"
+		src="../assets/places/sdm-library/materials/Stage1.png"
+	/>
+	<AssetImage id="ingame-library"
+		src="../assets/images/sdm-library.jpg"
+	/>
+	
+	<!-- Sounds -->
+	<AssetSound id="bgm"
+		src="../assets/audio/sdm-library.mp3"
+	/>
+	
+	<!-- Shaders -->
 	<AssetShader id="hair-shader"
-	vertex_src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/shaders/vertex_hair.glsl"
+		vertex_src="../assets/shaders/vertex_hair.glsl"
 	/>
 	<AssetShader id="dress-shader"
-	vertex_src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/shaders/vertex_dress.glsl"
+		vertex_src="../assets/shaders/vertex_dress.glsl"
 	/>
-	</div>
-	<AssetWebSurface id="wiki" src="http://en.touhouwiki.net/wiki/Patchouli_Knowledge" />
+	
+	<!-- WebSurfaces -->
+	<AssetWebSurface id="wiki"
+		src="http://en.touhouwiki.net/wiki/Patchouli_Knowledge"
+	/>
 </Assets>
 
 <Room
@@ -73,14 +74,15 @@ fwd="0 0 1"
 skybox_left_id="sky" skybox_right_id="sky" skybox_front_id="sky" skybox_back_id="sky" skybox_up_id="sky" skybox_down_id="sky" >
 	<!-- Place -->
 	<Object id="place-room"
-	collision_id="place-room-collision"
-	fwd="0 0 1"
-	locked="true"
-	lighting="true" >
-	<Object id="book-opened" fwd="0 0 1" pos="0 1 -3.8" scale="0.7 0.7 0.7" />
-	<Object id="book-closed" fwd="0 0 1" pos="-1 1 -4.7" scale="0.6 0.6 0.6" />
-	<Object id="book-opened" fwd="0 1 1" pos="-4.5 1 -5" scale="0.7 0.7 0.7" />
+		collision_id="place-room-collision"
+		fwd="0 0 1"
+		locked="true"
+		lighting="true" >
+		<Object id="book-opened" fwd="0 0 1" pos="0 1 -3.8" scale="0.7 0.7 0.7" />
+		<Object id="book-closed" fwd="0 0 1" pos="-1 1 -4.7" scale="0.6 0.6 0.6" />
+		<Object id="book-opened" fwd="0 1 1" pos="-4.5 1 -5" scale="0.7 0.7 0.7" />
 	</Object>
+	
 	<Object id="place-lights"
 		locked="true"
 		scale="0.7 0.7 0.7"
