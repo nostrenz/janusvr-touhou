@@ -9,8 +9,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Face.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Face.jpg
+map_Kd materials/Face.jpg
+map_d materials/Face.jpg
 
 newmtl Material1
 Ns 96.078431
@@ -20,8 +20,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Face.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Face.jpg
+map_Kd materials/Face.jpg
+map_d materials/Face.jpg
 
 newmtl Material10
 Ns 96.078431
@@ -31,8 +31,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Fuku1.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Fuku1.jpg
+map_Kd materials/Fuku1.jpg
+map_d materials/Fuku1.jpg
 
 newmtl Material11
 Ns 96.078431
@@ -42,8 +42,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Fuku3.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Fuku3.jpg
+map_Kd materials/Fuku3.jpg
+map_d materials/Fuku3.jpg
 
 newmtl Material12
 Ns 96.078431
@@ -53,8 +53,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Ribbon.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Ribbon.jpg
+map_Kd materials/Ribbon.jpg
+map_d materials/Ribbon.jpg
 
 newmtl Material13
 Ns 96.078431
@@ -64,8 +64,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Fuku3.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Fuku3.jpg
+map_Kd materials/Fuku3.jpg
+map_d materials/Fuku3.jpg
 
 newmtl Material14
 Ns 96.078431
@@ -75,8 +75,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Fuku3.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Fuku3.jpg
+map_Kd materials/Fuku3.jpg
+map_d materials/Fuku3.jpg
 
 newmtl Material15
 Ns 96.078431
@@ -86,8 +86,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Fuku3.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Fuku3.jpg
+map_Kd materials/Fuku3.jpg
+map_d materials/Fuku3.jpg
 
 newmtl Material16
 Ns 96.078431
@@ -97,8 +97,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Fuku3.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Fuku3.jpg
+map_Kd materials/Fuku3.jpg
+map_d materials/Fuku3.jpg
 
 newmtl Material17
 Ns 96.078431
@@ -108,8 +108,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Eff.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Eff.png
+map_Kd materials/Eff.png
+map_d materials/Eff.png
 
 newmtl Material18
 Ns 96.078431
@@ -119,8 +119,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.980000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Eff.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Eff.png
+map_Kd materials/Eff.png
+map_d materials/Eff.png
 
 newmtl Material19
 Ns 96.078431
@@ -130,8 +130,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.980000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Eff.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Eff.png
+map_Kd materials/Eff.png
+map_d materials/Eff.png
 
 newmtl Material2
 Ns 96.078431
@@ -141,8 +141,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Eye.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Eye.png
+map_Kd materials/Eye.png
+map_d materials/Eye.png
 
 newmtl Material20
 Ns 96.078431
@@ -152,8 +152,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.980000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Eff.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Eff.png
+map_Kd materials/Eff.png
+map_d materials/Eff.png
 
 newmtl Material21
 Ns 96.078431
@@ -163,8 +163,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Hair.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Hair.png
+map_Kd materials/Hair.png
+map_d materials/Hair.png
 
 newmtl Material22
 Ns 96.078431
@@ -174,8 +174,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.980000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Eff.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Eff.png
+map_Kd materials/Eff.png
+map_d materials/Eff.png
 
 newmtl Material23
 Ns 96.078431
@@ -185,8 +185,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.980000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Eff.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Eff.png
+map_Kd materials/Eff.png
+map_d materials/Eff.png
 
 newmtl Material24
 Ns 96.078431
@@ -196,8 +196,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.980000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Eff.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Eff.png
+map_Kd materials/Eff.png
+map_d materials/Eff.png
 
 newmtl Material25
 Ns 96.078431
@@ -207,8 +207,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Frill.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Frill.png
+map_Kd materials/Frill.png
+map_d materials/Frill.png
 
 newmtl Material3
 Ns 96.078431
@@ -218,8 +218,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Eye.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Eye.png
+map_Kd materials/Eye.png
+map_d materials/Eye.png
 
 newmtl Material4
 Ns 96.078431
@@ -229,8 +229,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Hair.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Hair.png
+map_Kd materials/Hair.png
+map_d materials/Hair.png
 
 newmtl Material5
 Ns 96.078431
@@ -240,8 +240,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Hair.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Hair.png
+map_Kd materials/Hair.png
+map_d materials/Hair.png
 
 newmtl Material6
 Ns 96.078431
@@ -251,8 +251,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Body3.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Body3.jpg
+map_Kd materials/Body3.jpg
+map_d materials/Body3.jpg
 
 newmtl Material7
 Ns 96.078431
@@ -262,8 +262,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Pants1.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Pants1.jpg
+map_Kd materials/Pants1.jpg
+map_d materials/Pants1.jpg
 
 newmtl Material8
 Ns 96.078431
@@ -273,8 +273,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Fuku2.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Fuku2.jpg
+map_Kd materials/Fuku2.jpg
+map_d materials/Fuku2.jpg
 
 newmtl Material9
 Ns 96.078431
@@ -284,5 +284,5 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Fuku1.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/materials/Fuku1.jpg
+map_Kd materials/Fuku1.jpg
+map_d materials/Fuku1.jpg

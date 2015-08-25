@@ -9,8 +9,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_face.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_face.jpg
+map_Kd materials/Ksn_face.jpg
+map_d materials/Ksn_face.jpg
 
 newmtl Material1
 Ns 96.078431
@@ -20,8 +20,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_face.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_face.jpg
+map_Kd materials/Ksn_face.jpg
+map_d materials/Ksn_face.jpg
 
 newmtl Material10
 Ns 96.078431
@@ -31,8 +31,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.600000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/kuro.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/kuro.png
+map_Kd materials/kuro.png
+map_d materials/kuro.png
 
 newmtl Material14
 Ns 96.078431
@@ -42,8 +42,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_cheak.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_cheak.png
+map_Kd materials/Ksn_cheak.png
+map_d materials/Ksn_cheak.png
 
 newmtl Material2
 Ns 96.078431
@@ -53,8 +53,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_face.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_face.jpg
+map_Kd materials/Ksn_face.jpg
+map_d materials/Ksn_face.jpg
 
 newmtl Material3
 Ns 96.078431
@@ -64,8 +64,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_face.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_face.jpg
+map_Kd materials/Ksn_face.jpg
+map_d materials/Ksn_face.jpg
 
 newmtl Material4
 Ns 96.078431
@@ -75,8 +75,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_face.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_face.jpg
+map_Kd materials/Ksn_face.jpg
+map_d materials/Ksn_face.jpg
 
 newmtl Material5
 Ns 96.078431
@@ -86,8 +86,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_face.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_face.jpg
+map_Kd materials/Ksn_face.jpg
+map_d materials/Ksn_face.jpg
 
 newmtl Material6
 Ns 96.078431
@@ -97,8 +97,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_face.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_face.jpg
+map_Kd materials/Ksn_face.jpg
+map_d materials/Ksn_face.jpg
 
 newmtl Material7
 Ns 96.078431
@@ -108,8 +108,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_face.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_face.jpg
+map_Kd materials/Ksn_face.jpg
+map_d materials/Ksn_face.jpg
 
 newmtl Material8
 Ns 96.078431
@@ -119,8 +119,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_face.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_face.jpg
+map_Kd materials/Ksn_face.jpg
+map_d materials/Ksn_face.jpg
 
 newmtl Material9
 Ns 96.078431
@@ -130,5 +130,5 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_face.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/Ksn_face.jpg
+map_Kd materials/Ksn_face.jpg
+map_d materials/Ksn_face.jpg

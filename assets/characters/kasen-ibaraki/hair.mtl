@@ -9,5 +9,5 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/ksn_hair.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/kasen-ibaraki/materials/ksn_hair.jpg
+map_Kd materials/ksn_hair.jpg
+map_d materials/ksn_hair.jpg

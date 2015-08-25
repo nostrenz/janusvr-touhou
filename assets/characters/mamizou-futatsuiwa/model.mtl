@@ -9,8 +9,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mamizou-futatsuiwa/materials/skin.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mamizou-futatsuiwa/materials/skin.png
+map_Kd materials/skin.png
+map_d materials/skin.png
 
 newmtl Material1
 Ns 96.078431
@@ -20,8 +20,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mamizou-futatsuiwa/materials/skin.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mamizou-futatsuiwa/materials/skin.png
+map_Kd materials/skin.png
+map_d materials/skin.png
 
 newmtl Material10
 Ns 96.078431
@@ -31,8 +31,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.700000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mamizou-futatsuiwa/materials/cloth.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mamizou-futatsuiwa/materials/cloth.png
+map_Kd materials/cloth.png
+map_d materials/cloth.png
 
 newmtl Material11
 Ns 96.078431
@@ -51,8 +51,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mamizou-futatsuiwa/materials/cloth.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mamizou-futatsuiwa/materials/cloth.png
+map_Kd materials/cloth.png
+map_d materials/cloth.png
 
 newmtl Material2
 Ns 96.078431
@@ -62,8 +62,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mamizou-futatsuiwa/materials/skin.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mamizou-futatsuiwa/materials/skin.png
+map_Kd materials/skin.png
+map_d materials/skin.png
 
 newmtl Material3
 Ns 96.078431
@@ -73,8 +73,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mamizou-futatsuiwa/materials/skin.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mamizou-futatsuiwa/materials/skin.png
+map_Kd materials/skin.png
+map_d materials/skin.png
 
 newmtl Material4
 Ns 96.078431
@@ -84,8 +84,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.970000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mamizou-futatsuiwa/materials/skin.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mamizou-futatsuiwa/materials/skin.png
+map_Kd materials/skin.png
+map_d materials/skin.png
 
 newmtl Material5
 Ns 96.078431
@@ -95,8 +95,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mamizou-futatsuiwa/materials/cloth.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mamizou-futatsuiwa/materials/cloth.png
+map_Kd materials/cloth.png
+map_d materials/cloth.png
 
 newmtl Material6
 Ns 96.078431
@@ -106,8 +106,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mamizou-futatsuiwa/materials/skin.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mamizou-futatsuiwa/materials/skin.png
+map_Kd materials/skin.png
+map_d materials/skin.png
 
 newmtl Material7
 Ns 96.078431
@@ -117,8 +117,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mamizou-futatsuiwa/materials/cloth.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mamizou-futatsuiwa/materials/cloth.png
+map_Kd materials/cloth.png
+map_d materials/cloth.png
 
 newmtl Material8
 Ns 96.078431
@@ -128,8 +128,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mamizou-futatsuiwa/materials/cloth.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mamizou-futatsuiwa/materials/cloth.png
+map_Kd materials/cloth.png
+map_d materials/cloth.png
 
 newmtl Material9
 Ns 96.078431
@@ -139,5 +139,5 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mamizou-futatsuiwa/materials/cloth.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/mamizou-futatsuiwa/materials/cloth.png
+map_Kd materials/cloth.png
+map_d materials/cloth.png

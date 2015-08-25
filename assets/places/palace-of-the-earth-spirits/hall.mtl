@@ -9,8 +9,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein_a.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein_a.png
+map_Kd materials/chirein_a.png
+map_d materials/chirein_a.png
 
 newmtl シャンデリア光
 Ns 96.078431
@@ -20,8 +20,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein_a.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein_a.png
+map_Kd materials/chirein_a.png
+map_d materials/chirein_a.png
 
 newmtl ステンドグラス
 Ns 96.078431
@@ -31,8 +31,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein02.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein02.png
+map_Kd materials/chirein02.png
+map_d materials/chirein02.png
 
 newmtl ソファ
 Ns 96.078431
@@ -42,8 +42,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chire_nsofa01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chire_nsofa01.png
+map_Kd materials/chire_nsofa01.png
+map_d materials/chire_nsofa01.png
 
 newmtl 入口
 Ns 96.078431
@@ -53,8 +53,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chire07.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chire07.png
+map_Kd materials/chire07.png
+map_d materials/chire07.png
 
 newmtl 壁
 Ns 96.078431
@@ -64,8 +64,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein05.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein05.png
+map_Kd materials/chirein05.png
+map_d materials/chirein05.png
 
 newmtl 壁アーチ
 Ns 96.078431
@@ -75,8 +75,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein07.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein07.png
+map_Kd materials/chirein07.png
+map_d materials/chirein07.png
 
 newmtl 天井
 Ns 96.078431
@@ -86,8 +86,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein08.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein08.png
+map_Kd materials/chirein08.png
+map_d materials/chirein08.png
 
 newmtl 床
 Ns 96.078431
@@ -97,8 +97,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein00.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein00.png
+map_Kd materials/chirein00.png
+map_d materials/chirein00.png
 
 newmtl 床発光
 Ns 96.078431
@@ -108,8 +108,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein00.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein00.png
+map_Kd materials/chirein00.png
+map_d materials/chirein00.png
 
 newmtl 扉
 Ns 96.078431
@@ -119,8 +119,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein10.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein10.png
+map_Kd materials/chirein10.png
+map_d materials/chirein10.png
 
 newmtl 木
 Ns 96.078431
@@ -130,8 +130,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein03.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein03.png
+map_Kd materials/chirein03.png
+map_d materials/chirein03.png
 
 newmtl 柱
 Ns 96.078431
@@ -141,8 +141,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein06.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein06.png
+map_Kd materials/chirein06.png
+map_d materials/chirein06.png
 
 newmtl 灯篭
 Ns 96.078431
@@ -152,8 +152,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein_a.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein_a.png
+map_Kd materials/chirein_a.png
+map_d materials/chirein_a.png
 
 newmtl 灯篭金具
 Ns 96.078431
@@ -163,8 +163,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein_a.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein_a.png
+map_Kd materials/chirein_a.png
+map_d materials/chirein_a.png
 
 newmtl 絨毯
 Ns 96.078431
@@ -174,8 +174,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein04.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein04.png
+map_Kd materials/chirein04.png
+map_d materials/chirein04.png
 
 newmtl 絨毯階段
 Ns 96.078431
@@ -185,5 +185,5 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/palace-of-the-earth-spirits/materials/chirein01.png
+map_Kd materials/chirein01.png
+map_d materials/chirein01.png

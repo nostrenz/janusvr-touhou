@@ -9,8 +9,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo35.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo35.png
+map_Kd materials/hagyo35.png
+map_d materials/hagyo35.png
 
 newmtl 幹
 Ns 96.078431
@@ -20,8 +20,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/tree02.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/tree02.jpg
+map_Kd materials/tree02.jpg
+map_d materials/tree02.jpg
 
 newmtl 松幹
 Ns 96.078431
@@ -31,8 +31,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/pine02.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/pine02.jpg
+map_Kd materials/pine02.jpg
+map_d materials/pine02.jpg
 
 newmtl 松葉
 Ns 96.078431
@@ -42,8 +42,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/pine01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/pine01.png
+map_Kd materials/pine01.png
+map_d materials/pine01.png
 
 newmtl 桜
 Ns 96.078431
@@ -53,8 +53,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/chery01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/chery01.png
+map_Kd materials/chery01.png
+map_d materials/chery01.png
 
 newmtl 桜周囲1
 Ns 96.078431
@@ -64,8 +64,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/chery03.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/chery03.png
+map_Kd materials/chery03.png
+map_d materials/chery03.png
 
 newmtl 桜周囲2
 Ns 96.078431
@@ -75,8 +75,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/chery03.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/chery03.png
+map_Kd materials/chery03.png
+map_d materials/chery03.png
 
 newmtl 桜幹
 Ns 96.078431
@@ -86,8 +86,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/chery02.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/chery02.jpg
+map_Kd materials/chery02.jpg
+map_d materials/chery02.jpg
 
 newmtl 草
 Ns 96.078431
@@ -97,8 +97,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo39.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/hagyo39.png
+map_Kd materials/hagyo39.png
+map_d materials/hagyo39.png
 
 newmtl 葉
 Ns 96.078431
@@ -108,5 +108,5 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/tree01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/hakugyokurou/materials/tree01.png
+map_Kd materials/tree01.png
+map_d materials/tree01.png

@@ -9,8 +9,8 @@ Ks 0.075000 0.075000 0.075000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/light2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/light2.png
+map_Kd materials/light2.png
+map_d materials/light2.png
 
 newmtl Material10
 Ns 96.078431
@@ -20,8 +20,8 @@ Ks 0.075000 0.075000 0.075000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/light9.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/light9.png
+map_Kd materials/light9.png
+map_d materials/light9.png
 
 newmtl Material9
 Ns 96.078431
@@ -31,5 +31,5 @@ Ks 0.075000 0.075000 0.075000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/light6.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/places/sdm-library/materials/light6.png
+map_Kd materials/light6.png
+map_d materials/light6.png

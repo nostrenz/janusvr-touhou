@@ -9,8 +9,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/pantsu.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/pantsu.jpg
+map_Kd materials/pantsu.jpg
+map_d materials/pantsu.jpg
 
 newmtl BodySkin
 Ns 96.078431
@@ -20,8 +20,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/body.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/body.jpg
+map_Kd materials/body.jpg
+map_d materials/body.jpg
 
 newmtl Eyes
 Ns 96.078431
@@ -40,8 +40,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/eye.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/eye.png
+map_Kd materials/eye.png
+map_d materials/eye.png
 
 newmtl FaceSkin
 Ns 96.078431
@@ -51,8 +51,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/face.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/face.jpg
+map_Kd materials/face.jpg
+map_d materials/face.jpg
 
 newmtl Hair1
 Ns 96.078431
@@ -62,7 +62,7 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.980000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/hair.png
+map_Kd materials/hair.png
 
 newmtl Hair2
 Ns 96.078431
@@ -72,7 +72,7 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/hair.png
+map_Kd materials/hair.png
 
 newmtl Hat
 Ns 96.078431
@@ -82,8 +82,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.980000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/cloth.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/cloth.jpg
+map_Kd materials/cloth.jpg
+map_d materials/cloth.jpg
 
 newmtl HatRibon
 Ns 96.078431
@@ -93,8 +93,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/cloth.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/cloth.jpg
+map_Kd materials/cloth.jpg
+map_d materials/cloth.jpg
 
 newmtl Material0
 Ns 96.078431
@@ -158,8 +158,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/thirdeye.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/thirdeye.jpg
+map_Kd materials/thirdeye.jpg
+map_d materials/thirdeye.jpg
 
 newmtl Material21
 Ns 96.078431
@@ -223,8 +223,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/cloth.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/cloth.jpg
+map_Kd materials/cloth.jpg
+map_d materials/cloth.jpg
 
 newmtl Skirt
 Ns 96.078431
@@ -234,8 +234,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/cloth.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/cloth.jpg
+map_Kd materials/cloth.jpg
+map_d materials/cloth.jpg
 
 newmtl ThirdEye
 Ns 96.078431
@@ -245,8 +245,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/thirdeye.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/thirdeye.jpg
+map_Kd materials/thirdeye.jpg
+map_d materials/thirdeye.jpg
 
 newmtl ThirdEyeInside
 Ns 96.078431
@@ -256,8 +256,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/thirdeye.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/thirdeye.jpg
+map_Kd materials/thirdeye.jpg
+map_d materials/thirdeye.jpg
 
 newmtl ThirdEyeStrings
 Ns 96.078431
@@ -267,8 +267,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/thirdeye.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/thirdeye.jpg
+map_Kd materials/thirdeye.jpg
+map_d materials/thirdeye.jpg
 
 newmtl Top
 Ns 96.078431
@@ -278,8 +278,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/cloth.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/cloth.jpg
+map_Kd materials/cloth.jpg
+map_d materials/cloth.jpg
 
 newmtl UnderSkirt
 Ns 96.078431
@@ -289,5 +289,5 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/cloth.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/koishi-komeiji/materials/cloth.jpg
+map_Kd materials/cloth.jpg
+map_d materials/cloth.jpg

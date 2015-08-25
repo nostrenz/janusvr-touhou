@@ -99,8 +99,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
+map_Kd materials/tx_naz.jpg
+map_d materials/tx_naz.jpg
 
 newmtl ケープ2
 Ns 96.078431
@@ -110,8 +110,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
+map_Kd materials/tx_naz.jpg
+map_d materials/tx_naz.jpg
 
 newmtl スカート
 Ns 96.078431
@@ -121,8 +121,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
+map_Kd materials/tx_naz.jpg
+map_d materials/tx_naz.jpg
 
 newmtl ダウジングロッド
 Ns 96.078431
@@ -132,7 +132,7 @@ Ks 0.417647 0.333333 0.500000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/sph_metal.png
+map_Kd materials/sph_metal.png
 
 newmtl ドロワ
 Ns 96.078431
@@ -142,8 +142,8 @@ Ks 0.010000 0.010000 0.010000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_cloth.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_cloth.jpg
+map_Kd materials/tx_cloth.jpg
+map_d materials/tx_cloth.jpg
 
 newmtl ドロワリボン
 Ns 96.078431
@@ -153,8 +153,8 @@ Ks 0.010000 0.010000 0.010000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_cloth.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_cloth.jpg
+map_Kd materials/tx_cloth.jpg
+map_d materials/tx_cloth.jpg
 
 newmtl ペンダント紐
 Ns 96.078431
@@ -164,8 +164,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
+map_Kd materials/tx_naz.jpg
+map_d materials/tx_naz.jpg
 
 newmtl ペンデュラム
 Ns 96.078431
@@ -175,8 +175,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
+map_Kd materials/tx_naz.jpg
+map_d materials/tx_naz.jpg
 
 newmtl ペンデュラム2
 Ns 96.078431
@@ -186,7 +186,7 @@ Ks 0.229412 0.288235 0.492157
 Ni 1.000000
 d 0.300000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/sph_green.png
+map_Kd materials/sph_green.png
 
 newmtl 下着
 Ns 96.078431
@@ -196,8 +196,8 @@ Ks 0.010000 0.010000 0.010000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_shorts.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_shorts.png
+map_Kd materials/tx_shorts.png
+map_d materials/tx_shorts.png
 
 newmtl 下着リボン
 Ns 96.078431
@@ -207,8 +207,8 @@ Ks 0.010000 0.010000 0.010000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_cloth.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_cloth.jpg
+map_Kd materials/tx_cloth.jpg
+map_d materials/tx_cloth.jpg
 
 newmtl 体
 Ns 96.078431
@@ -218,8 +218,8 @@ Ks 0.010000 0.010000 0.010000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_body.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_body.jpg
+map_Kd materials/tx_body.jpg
+map_d materials/tx_body.jpg
 
 newmtl 前髪
 Ns 96.078431
@@ -229,8 +229,8 @@ Ks 0.035000 0.035000 0.035000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_hair.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_hair.jpg
+map_Kd materials/tx_hair.jpg
+map_d materials/tx_hair.jpg
 
 newmtl 前髪裏
 Ns 96.078431
@@ -240,8 +240,8 @@ Ks 0.035000 0.035000 0.035000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_hair.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_hair.jpg
+map_Kd materials/tx_hair.jpg
+map_d materials/tx_hair.jpg
 
 newmtl 口内
 Ns 96.078431
@@ -260,8 +260,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
+map_Kd materials/tx_naz.jpg
+map_d materials/tx_naz.jpg
 
 newmtl 同胞本体
 Ns 96.078431
@@ -271,8 +271,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
+map_Kd materials/tx_naz.jpg
+map_d materials/tx_naz.jpg
 
 newmtl 同胞耳
 Ns 96.078431
@@ -282,8 +282,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
+map_Kd materials/tx_naz.jpg
+map_d materials/tx_naz.jpg
 
 newmtl 同胞髭
 Ns 96.078431
@@ -293,8 +293,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
+map_Kd materials/tx_naz.jpg
+map_d materials/tx_naz.jpg
 
 newmtl 宝塔
 Ns 96.078431
@@ -304,8 +304,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
+map_Kd materials/tx_naz.jpg
+map_d materials/tx_naz.jpg
 
 newmtl 宝塔2
 Ns 96.078431
@@ -315,8 +315,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
+map_Kd materials/tx_naz.jpg
+map_d materials/tx_naz.jpg
 
 newmtl 宝塔3
 Ns 96.078431
@@ -326,7 +326,7 @@ Ks 0.500000 0.500000 0.500000
 Ni 1.000000
 d 0.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/sph_houtou.png
+map_Kd materials/sph_houtou.png
 
 newmtl 宝塔4
 Ns 96.078431
@@ -336,7 +336,7 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/sph_metal.png
+map_Kd materials/sph_metal.png
 
 newmtl 宝塔5
 Ns 96.078431
@@ -346,7 +346,7 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 0.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/sph_ring.png
+map_Kd materials/sph_ring.png
 
 newmtl 宝塔6
 Ns 96.078431
@@ -356,8 +356,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
+map_Kd materials/tx_naz.jpg
+map_d materials/tx_naz.jpg
 
 newmtl 尻尾
 Ns 96.078431
@@ -367,8 +367,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
+map_Kd materials/tx_naz.jpg
+map_d materials/tx_naz.jpg
 
 newmtl 後髪
 Ns 96.078431
@@ -378,8 +378,8 @@ Ks 0.035000 0.035000 0.035000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_hair.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_hair.jpg
+map_Kd materials/tx_hair.jpg
+map_d materials/tx_hair.jpg
 
 newmtl 後髪裏
 Ns 96.078431
@@ -398,8 +398,8 @@ Ks 0.010000 0.010000 0.010000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_face.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_face.png
+map_Kd materials/tx_face.png
+map_d materials/tx_face.png
 
 newmtl 服
 Ns 96.078431
@@ -409,8 +409,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
+map_Kd materials/tx_naz.jpg
+map_d materials/tx_naz.jpg
 
 newmtl 歯
 Ns 96.078431
@@ -429,8 +429,8 @@ Ks 0.010000 0.010000 0.010000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_body.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_body.jpg
+map_Kd materials/tx_body.jpg
+map_d materials/tx_body.jpg
 
 newmtl 目光
 Ns 96.078431
@@ -440,8 +440,8 @@ Ks 0.010000 0.010000 0.010000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_highlight.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_highlight.png
+map_Kd materials/tx_highlight.png
+map_d materials/tx_highlight.png
 
 newmtl 目玉
 Ns 96.078431
@@ -451,8 +451,8 @@ Ks 0.010000 0.010000 0.010000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_face.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_face.png
+map_Kd materials/tx_face.png
+map_d materials/tx_face.png
 
 newmtl 眉・睫
 Ns 96.078431
@@ -471,8 +471,8 @@ Ks 0.010000 0.010000 0.010000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_eye.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_eye.png
+map_Kd materials/tx_eye.png
+map_d materials/tx_eye.png
 
 newmtl 籠
 Ns 96.078431
@@ -482,8 +482,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
+map_Kd materials/tx_naz.jpg
+map_d materials/tx_naz.jpg
 
 newmtl 籠持ち手
 Ns 96.078431
@@ -493,8 +493,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
+map_Kd materials/tx_naz.jpg
+map_d materials/tx_naz.jpg
 
 newmtl 耳
 Ns 96.078431
@@ -504,8 +504,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
+map_Kd materials/tx_naz.jpg
+map_d materials/tx_naz.jpg
 
 newmtl 舌
 Ns 96.078431
@@ -515,8 +515,8 @@ Ks 0.010000 0.010000 0.010000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_face.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_face.png
+map_Kd materials/tx_face.png
+map_d materials/tx_face.png
 
 newmtl 表情
 Ns 96.078431
@@ -535,8 +535,8 @@ Ks 0.010000 0.010000 0.010000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_face.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_face.png
+map_Kd materials/tx_face.png
+map_d materials/tx_face.png
 
 newmtl 靴
 Ns 96.078431
@@ -546,8 +546,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
+map_Kd materials/tx_naz.jpg
+map_d materials/tx_naz.jpg
 
 newmtl 靴下
 Ns 96.078431
@@ -557,8 +557,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_naz.jpg
+map_Kd materials/tx_naz.jpg
+map_d materials/tx_naz.jpg
 
 newmtl 頬紅
 Ns 96.078431
@@ -568,8 +568,8 @@ Ks 0.010000 0.010000 0.010000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_face.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_face.png
+map_Kd materials/tx_face.png
+map_d materials/tx_face.png
 
 newmtl 頭皮
 Ns 96.078431
@@ -579,8 +579,8 @@ Ks 0.035000 0.035000 0.035000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_face.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_face.png
+map_Kd materials/tx_face.png
+map_d materials/tx_face.png
 
 newmtl 顔
 Ns 96.078431
@@ -590,5 +590,5 @@ Ks 0.010000 0.010000 0.010000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_face.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/nazrin/materials/tx_face.png
+map_Kd materials/tx_face.png
+map_d materials/tx_face.png
