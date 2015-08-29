@@ -17,8 +17,19 @@
 		src="../assets/places/hakugyokurou/plants-collision.obj"
 	/>
 	
+	<AssetObject id="place-front-portal"
+		src="../assets/places/hakugyokurou/front-portal.obj"
+		mtl="../assets/places/hakugyokurou/front-portal.mtl"
+	/>
+	
 	<AssetObject id="place-water"
 		src="../assets/places/hakugyokurou/water.obj"
+	/>
+	
+	<!-- Objects -->
+	<AssetObject id="nice-boat"
+		src="../assets/places/hakugyokurou/boat.obj"
+		mtl="../assets/places/hakugyokurou/boat.mtl"
 	/>
 
 	<!-- Characters -->
@@ -60,6 +71,9 @@
 	<AssetImage id="vinebooru-37508"
 		src="http://img.booru.org/vinesauce//images/27/2ecacc3cf0c9964db0be2a7f3dc7169c2ca7cbe9.png"
 	/>
+	
+	<!-- Script -->
+	<AssetScript src="../assets/scripts/hakugyokurou.js" />
 </Assets>
 
 <Room fog="false" fog_mode="exp" fog_density="0.00" fog_color="1 1 1"
@@ -91,6 +105,38 @@ visible="false" col="0.5 0.5 0.5" pos="0 0 58" fwd="0 0 -1" >
 		lighting="false"
 		shader_id="water_shader"
 		blend_src="src_color"
+	/>
+	
+	<Object id="place-front-portal"
+		collision_id="place-front-portal"
+		js_id="front-portal-left"
+		onclick="portalClicked('left')"
+		pos="-2 0 45"
+		fwd="0 0 1"
+		cull_face="none"
+		locked="true"
+		lighting="false"
+	/>
+	<Object id="place-front-portal"
+		collision_id="place-front-portal"
+		js_id="front-portal-right"
+		onclick="portalClicked('right')"
+		pos="2 0 45"
+		fwd="0 0 -1"
+		cull_face="none"
+		locked="true"
+		lighting="false"
+	/>
+	
+	<!-- Objects -->
+	<Object id="nice-boat"
+		collision_id="nice-boat"
+		js_id="boat"
+		pos="-42 -0.4 25"
+		fwd="0 0 1"
+		cull_face="none"
+		locked="true"
+		lighting="false"
 	/>
 
 	<!-- Characters -->
@@ -150,5 +196,10 @@ visible="false" col="0.5 0.5 0.5" pos="0 0 58" fwd="0 0 -1" >
 		loop="true"
 		rect="-999 999 999 -999"
 	/>
+	
+	<!-- Texts -->
+	<Text pos="0 2.8 45.05"
+		fwd="0 0 1"
+		scale="2.5 2.5 2.5">Get close then click doors to open, click again to close</Text>
 </Room>
 </FireBoxRoom>
