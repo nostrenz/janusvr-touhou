@@ -2,7 +2,15 @@ var toggle = true;
 var globalTime = 0.0;
 var frontPortalOpen = false;
 var frontPortalOpeningRequested = false;
-var counter = 0;
+var openDoorsCounter = 0;
+
+var onBoat = false;
+var boatGoForward = false;
+var boatRotateLeft = false;
+var boatRotateRight = false;
+var rotateBoatCounter = 0;
+var boatSpeed = 0.0025;
+var boatTurnRate = 0.0005;
 
 room.update = function(delta_time) {
 	globalTime += delta_time;
@@ -12,9 +20,46 @@ room.update = function(delta_time) {
 			openFrontPortal(delta_time);
 		}
 		
-		float("boat", -1.7, 0.3);
+		boatEffects();
+		
+		if (onBoat) {
+			boatControls(delta_time);
+		}
 	}
 }
+
+var boatEffects = function() {
+	float("boat", -1.7, 0.3);
+}
+
+var boatControls = function(delta_time) {
+	jsId = "boat";
+			
+	// Stay fixed on the boat
+	player.pos.x = room.objects[jsId].pos.x;
+	player.pos.y = room.objects[jsId].pos.y;
+	player.pos.z = room.objects[jsId].pos.z;
+	
+	// Make the boat going forwad when holding W
+	if (boatGoForward) {
+		var vel = (delta_time*boatSpeed);
+		
+		room.objects[jsId].pos.z += vel * room.objects[jsId].fwd.x;
+		room.objects[jsId].pos.x -= vel * room.objects[jsId].fwd.z;
+	}
+
+	// Rotate the boat when holding A or D
+	if (boatRotateLeft) {
+		rotateBoatCounter += delta_time;
+		rotateObject(jsId, rotateBoatCounter*boatTurnRate);
+	} else if (boatRotateRight) {
+		rotateBoatCounter -= delta_time;
+		rotateObject(jsId, rotateBoatCounter*boatTurnRate);
+	}
+}
+
+
+///// Utils /////
 
 /**
  * When called, open or close the front portal.
@@ -22,27 +67,27 @@ room.update = function(delta_time) {
 var openFrontPortal = function(delta_time) {
 	// Open portal
 	if (!frontPortalOpen) {
-		counter += delta_time;
+		openDoorsCounter += delta_time;
 		
 		// End movement
-		if (counter > 3000) {
+		if (openDoorsCounter > 3000) {
 			frontPortalOpen = true;
 			frontPortalOpeningRequested = false;
 		}
 	// Close portal
 	} else if (frontPortalOpen) {
-		counter -= delta_time;
+		openDoorsCounter -= delta_time;
 
 		// End movement
-		if (counter < 1600) {
+		if (openDoorsCounter < 1600) {
 			frontPortalOpen = false;
 			frontPortalOpeningRequested = false;
 		}
 	}
 	
 	// Rotate doors
-	rotateObject("front-portal-left", counter/1000);
-	rotateObject("front-portal-right", -counter/1000);
+	rotateObject("front-portal-left", openDoorsCounter/1000);
+	rotateObject("front-portal-right", -openDoorsCounter/1000);
 }
 
 /**
@@ -78,6 +123,70 @@ room.onKeyDown = function(event)
 		toggle = !toggle;
 		print("Toggle JS: now " + toggle);
 	}
+	
+	// Use or leave the boat
+	if (event.keyCode == 'B') {
+		var dist = distance(player.pos, room.objects["boat"].pos);
+
+		if (dist < 2) {
+			onBoat = !onBoat;
+			
+			if (onBoat) {
+				print("You're on the boat now (W: move forward; A/D: turn left/right)");
+			} else {
+				print("You're no longer on the boat");
+			}
+		}
+	}
+	
+	if (onBoat) {
+		// Forward
+		if (event.keyCode == 'W') {
+			event.preventDefault();
+			
+			boatGoForward = true;
+		}
+		
+		// Rotate left
+		if (event.keyCode == 'A') {
+			event.preventDefault();
+			
+			boatRotateLeft = true;
+		}
+		
+		// Rorate right
+		if (event.keyCode == 'D') {
+			event.preventDefault();
+			
+			boatRotateRight = true;
+		}
+	}
+}
+
+room.onKeyUp = function(event)
+{
+	if (onBoat) {
+		// Forward
+		if (event.keyCode == 'W') {
+			event.preventDefault();
+			
+			boatGoForward = false;
+		}
+		
+		// Rotate left
+		if (event.keyCode == 'A') {
+			event.preventDefault();
+			
+			boatRotateLeft = false;
+		}
+		
+		// Rorate right
+		if (event.keyCode == 'D') {
+			event.preventDefault();
+			
+			boatRotateRight = false;
+		}
+	}
 }
 
 /**
@@ -90,9 +199,9 @@ var portalClicked = function(side) {
 
 		if (dist < 4.5) {
 			if (!frontPortalOpen) {
-				counter = 1600;
+				openDoorsCounter = 1600;
 			} else {
-				counter = 3000;
+				openDoorsCounter = 3000;
 			}
 			
 			frontPortalOpeningRequested = true;

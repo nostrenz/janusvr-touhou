@@ -38,6 +38,12 @@
 		mtl='../assets/characters/mystia-lorelei/model.mtl'
 	/>
 	
+	<!-- Objects -->
+	<AssetObject id="nice-boat"
+		src="../assets/objects/boat/model.obj"
+		mtl="../assets/objects/boat/model.mtl"
+	/>
+	
 	<!-- Sounds -->
 	<AssetSound id="bgm"
 		src="../assets/audio/human-village.mp3"
@@ -133,6 +139,19 @@
 		lighting="false"
 	/>
 	
+	<!-- Objects -->
+	<Object id="nice-boat"
+		collision_id="nice-boat"
+		js_id="boat"
+		pos="8.2 -1.5 25"
+		xdir="0 0 1"
+		ydir="0 1 0"
+		zdir="-1 0 0"
+		cull_face="none"
+		locked="true"
+		lighting="false"
+	/>
+	
 	<!-- WebSurfaces -->
 	<Object websurface_id="wiki-village"
 		id="plane"
@@ -158,5 +177,19 @@
 		loop="true"
 		rect="-999 999 999 -999"
 	/>
+	
+	<!-- Texts -->
+	<Text
+		pos="4.6 -0.5 25.5"
+		xdir="1 0 0"
+		ydir="0 1 0"
+		zdir="1 0 0"
+		scale="3 3 3">On the boat, press B to use it, B again to leave</Text>
+	<Text
+		pos="4.7 -0.7 25.5"
+		xdir="1 0 0"
+		ydir="0 1 0"
+		zdir="1 0 0"
+		scale="2 2 2">(W: move forward; A/D: turn left/right)</Text>
 </Room>
 </FireBoxRoom>

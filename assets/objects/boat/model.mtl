@@ -9,8 +9,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd materials/hagyo02.jpg
-map_d materials/hagyo02.jpg
+map_Kd ../../places/hakugyokurou/materials/hagyo02.jpg
+map_d ../../places/hakugyokurou/materials/hagyo02.jpg
 
 newmtl 船体
 Ns 96.078431
@@ -20,5 +20,5 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd materials/hagyo30.jpg
-map_d materials/hagyo30.jpg
+map_Kd ../../places/hakugyokurou/materials/hagyo30.jpg
+map_d ../../places/hakugyokurou/materials/hagyo30.jpg
