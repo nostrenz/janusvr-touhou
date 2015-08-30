@@ -26,10 +26,6 @@
 	/>
 	
 	<!-- Characters -->
-	<AssetObject id='nue-houjuu'
-		src='../assets/characters/nue-houjuu/model.obj'
-		mtl='../assets/characters/nue-houjuu/model.mtl'
-	/>
 	<AssetObject id='nue-houjuu-body'
 		src='../assets/characters/nue-houjuu/body.obj'
 		mtl='../assets/characters/nue-houjuu/body.mtl'
@@ -44,24 +40,9 @@
 		mtl='../assets/characters/yoshika-miyako/model.mtl'
 	/>
 	
-	<AssetObject id='shou-toramaru'
-		src='../assets/characters/shou-toramaru/model.obj'
-		mtl='../assets/characters/shou-toramaru/model.mtl'
-	/>
-	
-	<AssetObject id='nazrin'
-		src='../assets/characters/nazrin/model.obj'
-		mtl='../assets/characters/nazrin/model.mtl'
-	/>
-	
 	<AssetObject id='minamitsu-murasa'
 		src='../assets/characters/minamitsu-murasa/model.obj'
 		mtl='../assets/characters/minamitsu-murasa/model.mtl'
-	/>
-	
-	<AssetObject id='mamizou-futatsuiwa'
-		src='../assets/characters/mamizou-futatsuiwa/model.obj'
-		mtl='../assets/characters/mamizou-futatsuiwa/model.mtl'
 	/>
 	
 	<AssetObject id='kogasa-tatara'
@@ -73,6 +54,23 @@
 		mtl='../assets/objects/kogasa-umbrella/model.mtl'
 	/>
 	
+	<!--
+	<AssetObject id='shou-toramaru'
+		src='../assets/characters/shou-toramaru/model.obj'
+		mtl='../assets/characters/shou-toramaru/model.mtl'
+	/>
+	
+	<AssetObject id='nazrin'
+		src='../assets/characters/nazrin/model.obj'
+		mtl='../assets/characters/nazrin/model.mtl'
+	/>
+	
+	<AssetObject id='mamizou-futatsuiwa'
+		src='../assets/characters/mamizou-futatsuiwa/model.obj'
+		mtl='../assets/characters/mamizou-futatsuiwa/model.mtl'
+	/>
+	-->
+	
 	<!-- Shaders -->
 	<AssetShader id="tree_shader"
 		vertex_src="../assets/shaders/vertex_tree.glsl"
@@ -80,6 +78,9 @@
 	<AssetShader id="hair-shader"
 		vertex_src="../assets/shaders/vertex_hair.glsl"
 	/>
+	
+	<!-- Script -->
+	<AssetScript src="../assets/scripts/myouren-temple.js" />
 </Assets>
 
 <Room visible="false" col="1 0 0" pos="18.5 0 105" fwd="0 0 -1" >
@@ -93,6 +94,8 @@
 	/>
 	<Object id="place-palanquin"
 		collision_id="place-palanquin-collision"
+		js_id="palanquin"
+		pos="-55 10 0"
 		fwd="0 0 1"
 		locked="true"
 		lighting="true"
@@ -136,24 +139,6 @@
 		collision_radius="0.5"
 	/>
 
-	<Text pos="20.5 2.2 10" fwd="0 0 1" scale="1.5 1.5 1.5">Nazrin</Text>
-	<Object id="nazrin"
-		pos="20.5 0.1 10"
-		fwd="0 0 1"
-		lighting="false"
-		cull_face="none"
-		collision_radius="0.5"
-	/>
-
-	<Text pos="16.5 2.2 10" fwd="0 0 1" scale="1.5 1.5 1.5">Shou Toramaru</Text>
-	<Object id="shou-toramaru"
-		pos="16.5 0.1 10"
-		fwd="0 0 1"
-		lighting="false"
-		cull_face="none"
-		collision_radius="0.5"
-	/>
-
 	<Text pos="22.5 2.2 10" fwd="0 0 1" scale="1.5 1.5 1.5">Minamitsu Murasa</Text>
 	<Object id="minamitsu-murasa"
 		pos="22.5 0.1 10"
@@ -163,6 +148,42 @@
 		collision_radius="0.5"
 	/>
 
+	<Text pos="24.5 2.2 10" fwd="0 0 1" scale="1.5 1.5 1.5">Kogasa Tatara</Text>
+	<Object id="kogasa-tatara"
+		js_id="kogasa"
+		pos="24.5 0.1 10"
+		fwd="0 0 1"
+		lighting="false"
+		cull_face="none"
+		collision_radius="0.5"
+	/>
+	<Object id="kogasa-umbrella"
+		js_id="umbrella"
+		pos="24.5 0.5 12"
+		fwd="0 0 1"
+		lighting="false"
+		cull_face="none"
+	/>
+	
+	<!--
+	<Text pos="16.5 2.2 10" fwd="0 0 1" scale="1.5 1.5 1.5">Shou Toramaru</Text>
+	<Object id="shou-toramaru"
+		pos="16.5 0.1 10"
+		fwd="0 0 1"
+		lighting="false"
+		cull_face="none"
+		collision_radius="0.5"
+	/>
+		
+	<Text pos="20.5 2.2 10" fwd="0 0 1" scale="1.5 1.5 1.5">Nazrin</Text>
+	<Object id="nazrin"
+		pos="20.5 0.1 10"
+		fwd="0 0 1"
+		lighting="false"
+		cull_face="none"
+		collision_radius="0.5"
+	/>
+	
 	<Text pos="14.5 2.2 10" fwd="0 0 1" scale="1.5 1.5 1.5">Mamizou Futatsuiwa</Text>
 	<Object id="mamizou-futatsuiwa"
 		pos="14.5 0.1 10"
@@ -171,20 +192,15 @@
 		cull_face="none"
 		collision_radius="0.5"
 	/>
-
-	<Text pos="24.5 2.2 10" fwd="0 0 1" scale="1.5 1.5 1.5">Kogasa Tatara</Text>
-	<Object id="kogasa-tatara"
-		pos="24.5 0.1 10"
-		fwd="0 0 1"
-		lighting="false"
-		cull_face="none"
-		collision_radius="0.5"
-	/>
-	<Object id="kogasa-umbrella"
-		pos="24.5 0.1 12"
-		fwd="0 0 1"
-		lighting="false"
-		cull_face="none"
-	/>
+	-->
+	
+	<Text
+		pos="-35.1 3 0"
+		fwd="-1 0 0"
+		scale="7 7 7">On the boat, press B to use it, B again to leave</Text>
+	<Text
+		pos="-35.1 2.7 0"
+		fwd="-1 0 0"
+		scale="6 6 6">(W: move forward; A/D: turn left/right; I/K: move up/down)</Text>
 </Room>
 </FireBoxRoom>
