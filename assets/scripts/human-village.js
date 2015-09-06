@@ -46,12 +46,7 @@ var boatControls = function(delta_time) {
 		room.objects[jsId].pos.z = boatMaxZ;
 	}
 	
-	// Stay fixed on the boat
-	player.pos.x = room.objects[jsId].pos.x;
-	player.pos.y = room.objects[jsId].pos.y;
-	player.pos.z = room.objects[jsId].pos.z;
-	
-	// Make the boat going forwad when holding W
+	// Make the boat going forward when holding W
 	if (boatGoForward) {
 		var vel = (delta_time*boatSpeed);
 		
@@ -67,6 +62,11 @@ var boatControls = function(delta_time) {
 		rotateBoatCounter -= delta_time;
 		rotateObject(jsId, rotateBoatCounter*boatTurnRate);
 	}
+	
+	// Stay fixed on the boat (also prevent teleporting)
+	player.pos.x = room.objects[jsId].pos.x;
+	player.pos.y = room.objects[jsId].pos.y;
+	player.pos.z = room.objects[jsId].pos.z;
 }
 
 var mystiaEffects = function() {
@@ -103,12 +103,9 @@ var float = function(jsId, offset, multiplier) {
  * @param time: An incrementing counter, can be globalTime
  *				A negative value rotate clockwise, a negative one anticlockwise
  */
-var rotateObject = function(jsId, time) {
-	var sin = Math.sin(time);
-	var cos = Math.cos(time);
-	
-	room.objects[jsId].xdir.x = room.objects[jsId].zdir.z = sin;
-	room.objects[jsId].zdir.x = (room.objects[jsId].xdir.z = cos) * -1;
+var rotateObject = function(jsId, time) {	
+	room.objects[jsId].xdir.x = room.objects[jsId].zdir.z = Math.sin(time);
+	room.objects[jsId].zdir.x = (room.objects[jsId].xdir.z = Math.cos(time)) * -1;
 }
 
 /**

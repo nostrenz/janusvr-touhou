@@ -8,7 +8,7 @@ var onBoat = false;
 var boatGoForward = false;
 var boatRotateLeft = false;
 var boatRotateRight = false;
-var rotateBoatCounter = 0;
+var rotateBoatCounter = 3090;
 var boatSpeed = 0.0025;
 var boatTurnRate = 0.0005;
 
@@ -34,11 +34,6 @@ var boatEffects = function() {
 
 var boatControls = function(delta_time) {
 	jsId = "boat";
-			
-	// Stay fixed on the boat
-	player.pos.x = room.objects[jsId].pos.x;
-	player.pos.y = room.objects[jsId].pos.y;
-	player.pos.z = room.objects[jsId].pos.z;
 	
 	// Make the boat going forwad when holding W
 	if (boatGoForward) {
@@ -56,6 +51,11 @@ var boatControls = function(delta_time) {
 		rotateBoatCounter -= delta_time;
 		rotateObject(jsId, rotateBoatCounter*boatTurnRate);
 	}
+	
+	// Stay fixed on the boat (also prevent teleporting)
+	player.pos.x = room.objects[jsId].pos.x;
+	player.pos.y = room.objects[jsId].pos.y;
+	player.pos.z = room.objects[jsId].pos.z;
 }
 
 
@@ -106,11 +106,8 @@ var float = function(jsId, offset, multiplier) {
  *				A negative value rotate clockwise, a negative one anticlockwise
  */
 var rotateObject = function(jsId, time) {
-	var sin = Math.sin(time);
-	var cos = Math.cos(time);
-	
-	room.objects[jsId].xdir.x = room.objects[jsId].zdir.z = sin;
-	room.objects[jsId].zdir.x = (room.objects[jsId].xdir.z = cos) * -1;
+	room.objects[jsId].xdir.x = room.objects[jsId].zdir.z = Math.sin(time);
+	room.objects[jsId].zdir.x = (room.objects[jsId].xdir.z = Math.cos(time)) * -1;
 }
 
 
