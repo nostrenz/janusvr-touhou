@@ -130,8 +130,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd materials/simenawa.png
-map_d materials/simenawa.png
+map_Kd materials/simenawa.jpg
+map_d materials/simenawa.jpg
 
 newmtl 瓦
 Ns 96.078431
