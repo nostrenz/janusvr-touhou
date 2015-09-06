@@ -1,0 +1,27 @@
+<FireBoxRoom>
+<Assets>
+<AssetObject
+	id="2hu_head"
+	src="http://nostrenz.github.io/janusvr-touhou/assets/characters/nue-houjuu/head.obj"
+	mtl="http://nostrenz.github.io/janusvr-touhou/assets/characters/nue-houjuu/head.mtl"
+/>
+<AssetObject
+	id="2hu_body"
+	src="http://nostrenz.github.io/janusvr-touhou/assets/characters/nue-houjuu/body.obj"
+	mtl="http://nostrenz.github.io/janusvr-touhou/assets/characters/nue-houjuu/body.mtl"
+/>
+</Assets>
+<Room>
+<Ghost
+	id="Nue Houjuu"
+	head_id="2hu_head"
+	body_id="2hu_body"
+	scale="0.95 0.95 0.95"
+	pos="-0.0 -0.0 -0.0"
+	head_pos="0.0 1.7 0.0"
+	eye_pos="0.0 1.7 -0.135"
+	lighting="false"
+	cull_face="none"
+/>
+</Room>
+</FireBoxRoom>

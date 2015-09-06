@@ -1,29 +1,73 @@
 # Blender MTL File: 'head&body.blend'
-# Material Count: 15
+# Material Count: 13
 
-newmtl えり
+newmtl 00:ボディ
 Ns 92.156863
 Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
-Ks 0.047000 0.047000 0.047000
+Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd materials/niso02.png
-map_d materials/niso02.png
+map_Kd materials/body.jpg
+map_d materials/body.jpg
 
-newmtl くつ
+newmtl 00:ボディ_NONE
 Ns 92.156863
 Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd materials/body.jpg
+map_d materials/body.jpg
+
+newmtl 02:上着
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd materials/ue.jpg
+map_d materials/ue.jpg
+
+newmtl 04:後髪
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd materials/kami.jpg
+map_d materials/kami.jpg
+
+newmtl 05:白目
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd materials/face.png
+map_d materials/face.png
+
+newmtl 06:口
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd materials/kutsu.png
-map_d materials/kutsu.png
+map_Kd materials/face.png
+map_d materials/face.png
 
-newmtl ニーソ
+newmtl 07:かお
 Ns 92.156863
 Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
@@ -31,74 +75,54 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd materials/niso02.png
-map_d materials/niso02.png
+map_Kd materials/face.png
+map_d materials/face.png
 
-newmtl リストバンド
+newmtl 08:まゆ
 Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.640000 0.640000 0.640000
-Ks 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.850000
-illum 2
-map_Kd materials/kutsu.png
-map_d materials/kutsu.png
-
-newmtl リボン
-Ns 92.156863
-Ka 0.000000 0.000000 0.000000
-Kd 0.640000 0.640000 0.640000
-Ks 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.999000
-illum 2
-map_Kd materials/kutsu.png
-map_d materials/kutsu.png
-
-newmtl 服
-Ns 92.156863
-Ka 0.000000 0.000000 0.000000
-Kd 0.640000 0.640000 0.640000
+Kd 0.544000 0.544000 0.544000
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd materials/fuku.png
-map_d materials/fuku.png
+map_Kd materials/face.png
+map_d materials/face.png
 
-newmtl 柄
+newmtl 09:瞳
 Ns 92.156863
 Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
-d 1.000000
+d 0.990000
 illum 2
-map_Kd materials/mono.png
-map_d materials/mono.png
+map_Kd materials/face.png
+map_d materials/face.png
 
-newmtl Skin
+newmtl 09:瞳_NONE
 Ns 92.156863
 Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
-d 1.000000
+d 0.990000
 illum 2
-map_Kd materials/hada05.png
-map_d materials/hada05.png
+map_Kd materials/face.png
+map_d materials/face.png
 
-newmtl 肌普段なし
+newmtl 10:ハイライト
 Ns 92.156863
 Ka 0.000000 0.000000 0.000000
-Kd 0.577255 0.391530 0.293647
-Ks 0.047059 0.047059 0.047059
+Kd 0.512000 0.512000 0.512000
+Ks 0.000000 0.000000 0.000000
 Ni 1.000000
-d 1.000000
+d 0.950000
 illum 2
+map_Kd materials/face.png
+map_d materials/face.png
 
-newmtl 蛇
+newmtl 11:カゲ
 Ns 92.156863
 Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
@@ -106,20 +130,10 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd materials/mono.png
-map_d materials/mono.png
+map_Kd materials/face.png
+map_d materials/face.png
 
-newmtl 蛇目
-Ns 92.156863
-Ka 0.000000 0.000000 0.000000
-Kd 0.587294 0.000000 0.145569
-Ks 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd materials/spa4.png
-
-newmtl 赤
+newmtl 12:かみ
 Ns 92.156863
 Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
@@ -127,38 +141,5 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd materials/mono.png
-map_d materials/mono.png
-
-newmtl 金属
-Ns 92.156863
-Ka 0.000000 0.000000 0.000000
-Kd 0.640000 0.640000 0.640000
-Ks 0.082353 0.082353 0.082353
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd materials/mono.png
-map_d materials/mono.png
-
-newmtl 金属2
-Ns 92.156863
-Ka 0.000000 0.000000 0.000000
-Kd 0.640000 0.640000 0.640000
-Ks 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd materials/maki.png
-map_d materials/maki.png
-
-newmtl 青
-Ns 92.156863
-Ka 0.000000 0.000000 0.000000
-Kd 0.640000 0.640000 0.640000
-Ks 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd materials/mono.png
-map_d materials/mono.png
+map_Kd materials/kami.jpg
+map_d materials/kami.jpg

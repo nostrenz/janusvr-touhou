@@ -1,0 +1,46 @@
+# Blender MTL File: 'head&body.blend'
+# Material Count: 4
+
+newmtl 00:ボディ
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd materials/body.jpg
+map_d materials/body.jpg
+
+newmtl 01:さらし
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd materials/body.jpg
+map_d materials/body.jpg
+
+newmtl 02:上着
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd materials/ue.jpg
+map_d materials/ue.jpg
+
+newmtl 03:スカーツ
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd materials/skt.jpg
+map_d materials/skt.jpg
