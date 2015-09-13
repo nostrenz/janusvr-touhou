@@ -7,8 +7,8 @@
 />
 <AssetObject
 	id="2hu_body"
-	src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/model.obj"
-	mtl="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/clownpiece/model.mtl"
+	src="http://nostrenz.github.io/janusvr-touhou/assets/characters/clownpiece/model.obj.gz"
+	mtl="http://nostrenz.github.io/janusvr-touhou/assets/characters/clownpiece/model.mtl"
 />
 </Assets>
 <Room>

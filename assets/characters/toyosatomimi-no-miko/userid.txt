@@ -7,8 +7,8 @@
 />
 <AssetObject
 	id="miko_body"
-	src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/model.obj"
-	mtl="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/toyosatomimi-no-miko/model.mtl"
+	src="http://nostrenz.github.io/janusvr-touhou/assets/characters/toyosatomimi-no-miko/model.obj.gz"
+	mtl="http://nostrenz.github.io/janusvr-touhou/assets/characters/toyosatomimi-no-miko/model.mtl"
 />
 </Assets>
 <Room>

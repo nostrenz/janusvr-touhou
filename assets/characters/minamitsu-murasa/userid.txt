@@ -7,8 +7,8 @@
 />
 <AssetObject
 	id="murasa_body"
-	src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/model.obj"
-	mtl="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/minamitsu-murasa/model.mtl"
+	src="http://nostrenz.github.io/janusvr-touhou/assets/characters/minamitsu-murasa/model.obj.gz"
+	mtl="http://nostrenz.github.io/janusvr-touhou/assets/characters/minamitsu-murasa/model.mtl"
 />
 </Assets>
 <Room>

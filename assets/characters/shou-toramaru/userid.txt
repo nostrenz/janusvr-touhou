@@ -7,8 +7,8 @@
 />
 <AssetObject
 	id="shou_body"
-	src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/shou-toramaru/model.obj"
-	mtl="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/shou-toramaru/model.mtl"
+	src="http://nostrenz.github.io/janusvr-touhou/assets/characters/shou-toramaru/model.obj.gz"
+	mtl="http://nostrenz.github.io/janusvr-touhou/assets/characters/shou-toramaru/model.mtl"
 />
 </Assets>
 <Room>

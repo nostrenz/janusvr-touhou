@@ -7,21 +7,21 @@
 	/>
 	<AssetObject
 		id="patchy_body"
-		src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/body.obj"
-		mtl="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/body.mtl"
+		src="http://nostrenz.github.io/janusvr-touhou/assets/characters/patchouli-knowledge/body.obj.gz"
+		mtl="http://nostrenz.github.io/janusvr-touhou/assets/characters/patchouli-knowledge/body.mtl"
 	/>
 	<AssetObject
 	   id='patchy-hair'
-	   src='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/hair.obj'
-	   mtl='https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/patchouli-knowledge/hair.mtl'
+	   src='http://nostrenz.github.io/janusvr-touhou/assets/characters/patchouli-knowledge/hair.obj.gz'
+	   mtl='http://nostrenz.github.io/janusvr-touhou/assets/characters/patchouli-knowledge/hair.mtl'
 	/>
 	<AssetShader id="hair-shader"
-		vertex_src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/shaders/vertex_hair.glsl"
+		vertex_src="http://nostrenz.github.io/janusvr-touhou/assets/shaders/vertex_hair.glsl"
 	/>
 </Assets>
 <Room>
 	<Ghost
-		id="Patchouly Knowledge (Nostre)"
+		id="Patchouly Knowledge"
 		head_id="patchy_head"
 		body_id="patchy_body"
 		js_id="patchy"

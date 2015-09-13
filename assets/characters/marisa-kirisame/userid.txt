@@ -7,7 +7,7 @@
 />
 <AssetObject
 	id="2hu_body"
-	src="http://nostrenz.github.io/janusvr-touhou/assets/characters/marisa-kirisame/model.obj"
+	src="http://nostrenz.github.io/janusvr-touhou/assets/characters/marisa-kirisame/model.obj.gz"
 	mtl="http://nostrenz.github.io/janusvr-touhou/assets/characters/marisa-kirisame/model.mtl"
 />
 </Assets>

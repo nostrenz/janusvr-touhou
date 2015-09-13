@@ -7,8 +7,8 @@
 />
 <AssetObject
 	id="seija_body"
-	src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/model.obj"
-	mtl="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seija-kijin/model.mtl"
+	src="http://nostrenz.github.io/janusvr-touhou/assets/characters/seija-kijin/model.obj.gz"
+	mtl="http://nostrenz.github.io/janusvr-touhou/assets/characters/seija-kijin/model.mtl"
 />
 </Assets>
 <Room>

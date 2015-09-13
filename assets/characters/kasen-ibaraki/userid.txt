@@ -7,8 +7,8 @@
 />
 <AssetObject
 	id="kasen_body"
-	src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/ibaraki-kasen/model.obj"
-	mtl="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/ibaraki-kasen/model.mtl"
+	src="http://nostrenz.github.io/janusvr-touhou/assets/characters/ibaraki-kasen/model.obj.gz"
+	mtl="http://nostrenz.github.io/janusvr-touhou/assets/characters/ibaraki-kasen/model.mtl"
 />
 </Assets>
 <Room>

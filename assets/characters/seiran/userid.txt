@@ -7,8 +7,8 @@
 />
 <AssetObject
 	id="seiran_body"
-	src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seiran/model.obj"
-	mtl="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/seiran/model.mtl"
+	src="http://nostrenz.github.io/janusvr-touhou/assets/characters/seiran/model.obj.gz"
+	mtl="http://nostrenz.github.io/janusvr-touhou/assets/characters/seiran/model.mtl"
 />
 </Assets>
 <Room>

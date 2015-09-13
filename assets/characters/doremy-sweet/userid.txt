@@ -7,8 +7,8 @@
 />
 <AssetObject
 	id="2hu_body"
-	src="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/doremy-sweet/model.obj"
-	mtl="https://raw.githubusercontent.com/nostrenz/janusvr-touhou/master/assets/characters/doremy-sweet/model.mtl"
+	src="http://nostrenz.github.io/janusvr-touhou/assets/characters/doremy-sweet/model.obj.gz"
+	mtl="http://nostrenz.github.io/janusvr-touhou/assets/characters/doremy-sweet/model.mtl"
 />
 </Assets>
 <Room>

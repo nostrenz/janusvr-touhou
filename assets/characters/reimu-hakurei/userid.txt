@@ -2,12 +2,12 @@
 <Assets>
 <AssetObject
 	id="2hu_head"
-	src="http://nostrenz.github.io/janusvr-touhou/assets/characters/reimu-hakurei/head.obj"
+	src="http://nostrenz.github.io/janusvr-touhou/assets/characters/reimu-hakurei/head.obj.gz"
 	mtl="http://nostrenz.github.io/janusvr-touhou/assets/characters/reimu-hakurei/head.mtl"
 />
 <AssetObject
 	id="2hu_body"
-	src="http://nostrenz.github.io/janusvr-touhou/assets/characters/reimu-hakurei/body.obj"
+	src="http://nostrenz.github.io/janusvr-touhou/assets/characters/reimu-hakurei/body.obj.gz"
 	mtl="http://nostrenz.github.io/janusvr-touhou/assets/characters/reimu-hakurei/body.mtl"
 />
 </Assets>
