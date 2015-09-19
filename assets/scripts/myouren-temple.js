@@ -113,13 +113,11 @@ room.onKeyDown = function(event)
 			onBoat = !onBoat;
 			
 			if (onBoat) {
-			print("You're on the ship now (W: move forward; A/D: turn left/right; I/K: move up/down)");
-			} else {
-				print("You're no longer on the ship");
+				print("You're on the ship (W: move forward; A/D: turn left/right; I/K: move up/down; B: leave)");
 			}
 		} else {
 			print("You need to get closer to use the ship");
-		}	
+		}
 	}
 	
 	if (onBoat) {
