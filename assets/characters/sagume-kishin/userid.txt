@@ -1,0 +1,27 @@
+<FireBoxRoom>
+<Assets>
+<AssetObject
+	id="2hu_head"
+	src="https://dl.dropboxusercontent.com/s/ycw7iosfx77c6y4/head.obj.gz"
+	mtl="https://dl.dropboxusercontent.com/s/etf17ypd2m3wwnn/head.mtl"
+/>
+<AssetObject
+	id="2hu_body"
+	src="https://dl.dropboxusercontent.com/s/0860pj0co8kiwiy/body.obj.gz"
+	mtl="https://dl.dropboxusercontent.com/s/mnhyg1tltw6t5cw/body.mtl"
+/>
+</Assets>
+<Room>
+<Ghost
+	id="Sagume Kishin"
+	head_id="2hu_head"
+	body_id="2hu_body"
+	scale="1 1 1"
+	pos="0 0 0"
+	head_pos="-0.01 1.5 0"
+	eye_pos="0.0 1.7 -0.135"
+	lighting="false"
+	cull_face="none"
+/>
+</Room>
+</FireBoxRoom>

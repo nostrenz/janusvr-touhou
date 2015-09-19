@@ -1,0 +1,69 @@
+<FireBoxRoom>
+<Assets>
+	<!-- Place -->
+	<AssetObject id='place-moon'
+		src='../assets/objects/moon/moon.obj.gz'
+		mtl='../assets/objects/moon/moon.mtl'
+	/>
+	
+	<!-- Characters -->
+	<AssetObject id='sagume-kishin'
+		src='../assets/characters/sagume-kishin/model.obj.gz'
+		mtl='../assets/characters/sagume-kishin/model.mtl'
+	/>
+	
+	<!-- Images -->
+	<AssetImage id="up"
+		src="../assets/images/skybox/moon/posy.png"
+	/>
+	<AssetImage id="down"
+		src="../assets/images/skybox/moon/negy.png"
+	/>
+	<AssetImage id="left"
+		src="../assets/images/skybox/moon/negx.png"
+	/>
+	<AssetImage id="right"
+		src="../assets/images/skybox/moon/posx.png"
+	/>
+	<AssetImage id="back"
+		src="../assets/images/skybox/moon/negz.png"
+	/>
+	<AssetImage id="front"
+		src="../assets/images/skybox/moon/posz.png"
+	/>
+	
+	<!-- Sounds -->
+	<AssetSound id="bgm"
+		src="../assets/audio/moon.mp3"
+	/>
+</Assets>
+
+<Room visible="false" col="1 0 0" pos="0 20 0" fwd="-1 0 0"
+skybox_left_id="left" skybox_right_id="right" skybox_front_id="front" skybox_back_id="back" skybox_up_id="up" skybox_down_id="down" >
+	<!-- Place -->
+	<Object id="place-moon"
+		collision_id="place-moon"
+		pos="-350 50 500"
+		locked="true"
+		lighting="false"
+		scale="5.5 5.5 5.5"
+		rotate_deg_per_sec="0.3"
+	/>
+	
+	<!-- Characters -->
+	<Text pos="2 2 2" fwd="1 0 -1" scale="1.5 1.5 1.5">Sagume Kishin</Text>
+	<Object id="sagume-kishin"
+		pos="2 0 2"
+		fwd="1 0 -1"
+		lighting="false"
+		cull_face="none"
+		collision_radius="0.5"
+	/>
+	
+	<!-- Sounds -->
+	<Sound id="bgm"
+		loop="true"
+		rect="-999 999 999 -999"
+	/>
+</Room>
+</FireBoxRoom>
