@@ -1,4 +1,5 @@
-//# Original from http://www.gathervr.com/Dizzyhomeroom/watershaderT.txt
+// Original borrowed by Marisa from http://www.gathervr.com/Dizzyhomeroom/watershaderT.txt
+// and edited by me.
 
 uniform vec3      iResolution;
 uniform float     iGlobalTime;

@@ -1,4 +1,5 @@
-//# Original from http://www.dgp.toronto.edu/~mccrae/projects/firebox/home/water_vertex.txt
+// Original borrowed by Marisa from http://www.dgp.toronto.edu/~mccrae/projects/firebox/home/water_vertex.txt
+// and edited by me.
 
 //#version 110
 

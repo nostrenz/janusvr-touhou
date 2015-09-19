@@ -154,9 +154,7 @@ room.onKeyDown = function(event)
 		}
 		
 		if (onBoat) {
-			print("You're on the boat now (W: move forward; A/D: turn left/right)");
-		} else {
-			print("You're no longer on the boat");
+			print("You're on the boat (W: move forward; A/D: turn left/right; B: leave)");
 		}
 	}
 	

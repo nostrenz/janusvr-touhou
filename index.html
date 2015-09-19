@@ -17,6 +17,14 @@
 		src='assets/characters/reimu-hakurei/model.obj.gz'
 		mtl='assets/characters/reimu-hakurei/model.mtl'
 	/>
+	<AssetObject id='reimu-hakurei_head'
+		src='assets/characters/reimu-hakurei/head.obj.gz'
+		mtl='assets/characters/reimu-hakurei/head.mtl'
+	/>
+	<AssetObject id='reimu-hakurei_body'
+		src='assets/characters/reimu-hakurei/body.obj.gz'
+		mtl='assets/characters/reimu-hakurei/body.mtl'
+	/>
 
 	<AssetObject id='marisa-kirisame'
 		src='assets/characters/marisa-kirisame/model.obj.gz'
@@ -53,6 +61,9 @@
 	<AssetWebSurface id="wiki"
 		src="http://en.touhouwiki.net/wiki/Hakurei_Shrine"
 	/>
+	
+	<!-- Ghosts -->
+	<AssetGhost id="Reimu Hakurei" src="assets/ghost/reimu-hakurei.txt" />
 </Assets>
 
 <Room visible="false" col="1 0 0" pos="0 -3 58" fwd="0 0 -1" >
@@ -66,6 +77,7 @@
 	/>
 	<Object id="place-plants"
 		collision_id="place-plants"
+		cull_face="none"
 		pos="0 0 0"
 		fwd="0 0 -1"
 		scale="1 1 1"
@@ -76,18 +88,19 @@
 		blend_dest="constant_color"
 	/>
 
-	<!-- Characters -->
-	<Text pos="1.8 2.1 6" fwd="0 0 1" >Hakurei Reimu</Text>
-	<Object id="reimu-hakurei"
-		pos="1.8 0 6"
-		cull_face="none"
-		collision_radius="0.5"
-		fwd="0 0 1"
+	<Ghost id="Reimu Hakurei"
+		head_id="reimu-hakurei_head"
+		body_id="reimu-hakurei_body"
+		head_pos="0 1.7 0"
+		eye_pos="0.0 1.7 -0.135"
 		scale="0.85 0.85 0.85"
 		lighting="false"
+		cull_face="none"
+		loop="true"
+		auto_play="true"
 	/>
 
-	<Text pos="-2.3 1.35 13" fwd="0 0 1" >Marisa Kirisame</Text>
+	<Text pos="-2.3 1 13" fwd="0 0 1" >Marisa Kirisame</Text>
 	<Object id="marisa-kirisame"
 		pos="-2.3 -1 13"
 		cull_face="none"
@@ -129,6 +142,9 @@
 	<!-- Texts -->
 	<Text pos="0 6.9 35.5" fwd="0 0 1" scale="7 7 7">Welcome to the Hakurei Shrine</Text>
 	<Text pos="2.5 -2.0 52.15" fwd="0 1 1" scale="1.6 1.6 1.6">Map of Gensokyo</Text>
+	
+	<Text pos="2.5 -0.9 51" fwd="0 1 1" scale="2 2 2">Do not want the music? Press M to toggle it!</Text>
+	<Text pos="2.5 -0.8 51" fwd="0 1 1" scale="2 2 2">You can CTRL-Click ghost characters to use them as avatar!</Text>
 	
 	<!-- Sounds -->
 	<Sound id="bgm"
