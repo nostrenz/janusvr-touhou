@@ -8,6 +8,17 @@
 	<AssetObject id='place-terrain-collision'
 		src='../assets/places/scarlet-devil-mansion/terrain-collision.obj.gz'
 	/>
+	<AssetObject id='place-door-left'
+		src='../assets/places/scarlet-devil-mansion/door-left.obj.gz'
+		mtl='../assets/places/scarlet-devil-mansion/door.mtl'
+	/>
+	<AssetObject id='place-door-right'
+		src='../assets/places/scarlet-devil-mansion/door-right.obj.gz'
+		mtl='../assets/places/scarlet-devil-mansion/door.mtl'
+	/>
+	<AssetObject id='place-ladder'
+		src='../assets/places/scarlet-devil-mansion/ladder.obj.gz'
+	/>
 	
 	<AssetObject id='place-trees'
 		src='../assets/places/scarlet-devil-mansion/trees.obj.gz'
@@ -55,6 +66,9 @@
 	<AssetWebSurface id="wiki"
 		src="http://en.touhouwiki.net/wiki/Scarlet_Devil_Mansion"
 	/>
+	
+	<!-- Script -->
+	<AssetScript src="../assets/scripts/scarlet-devil-mansion.js" />
 </Assets>
 
 <Room visible="false" col="1 0 0" pos="0 0.2 13.7" fwd="0 0 -1" >
@@ -102,6 +116,35 @@
 		blend_dest="constant_color"
 	/>
 	
+	<Object id="place-door-left"
+		collision_id="place-door-left"
+		js_id="door-left"
+		onclick="doorClicked('left')"
+		pos="-1.64 1.33 -25.145"
+		cull_face="none"
+		locked="true"
+		lighting="false"
+	/>
+	<Object id="place-door-right"
+		collision_id="place-door-right"
+		js_id="door-right"
+		onclick="doorClicked('right')"
+		pos="1.64 1.33 -25.145"
+		cull_face="none"
+		locked="true"
+		lighting="false"
+	/>
+	
+	<Object id="place-ladder"
+		collision_id="place-ladder"
+		js_id="ladder"
+		pos="-5.25 14.4 -34.4"
+		fwd="0 0 1"
+		locked="true"
+		lighting="true"
+		col="0.3 0.19 0.17"
+	/>
+	
 	<!-- Characters -->
 	<Text pos="-3 2.2 12" fwd="0 0 -1" scale="2 1.5 2">Hong Meiling (sleeping)</Text>
 	<Object id="hong-meiling"
@@ -138,5 +181,15 @@
 		loop="true"
 		rect="-999 999 999 -999"
 	/>
+	
+	<!-- Texts -->
+	<Text
+		pos="0 3.81 -25.14"
+		fwd="0 0 1"
+		scale="2.5 2.5 2.5">Get close then click doors to open, click again to close</Text>
+	<Text
+		pos="-5.25 14.4 -34"
+		fwd="0 10 1"
+		scale="3 3 3">Get close then press F to use the ladder</Text>
 </Room>
 </FireBoxRoom>
