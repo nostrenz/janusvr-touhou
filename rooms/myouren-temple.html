@@ -26,13 +26,13 @@
 	/>
 	
 	<!-- Characters -->
-	<AssetObject id='nue-houjuu-body'
-		src='../assets/characters/nue-houjuu/body-nohair.obj.gz'
-		mtl='../assets/characters/nue-houjuu/body.mtl'
+	<AssetObject id='nue-houjuu_head'
+		src='../assets/characters/nue-houjuu/head.obj.gz'
+		mtl='../assets/characters/nue-houjuu/head.mtl'
 	/>
-	<AssetObject id='nue-houjuu-hair'
-		src='../assets/characters/nue-houjuu/hair.obj.gz'
-		mtl='../assets/characters/nue-houjuu/hair.mtl'
+	<AssetObject id='nue-houjuu_body'
+		src='../assets/characters/nue-houjuu/body.obj.gz'
+		mtl='../assets/characters/nue-houjuu/body.mtl'
 	/>
 	
 	<AssetObject id='yoshika-miyako'
@@ -79,6 +79,11 @@
 		vertex_src="../assets/shaders/vertex_hair.glsl"
 	/>
 	
+	<!-- Ghosts -->
+	<AssetGhost id="Nue Houjuu"
+		src="../assets/ghost/nue-houjuu.txt"
+	/>
+	
 	<!-- Script -->
 	<AssetScript src="../assets/scripts/myouren-temple.js" />
 </Assets>
@@ -112,22 +117,15 @@
 	/>
 	
 	<!-- Characters -->
-	<Text pos="18.5 2.2 10" fwd="0 0 1" scale="1.5 1.5 1.5">Nue Houjuu</Text>
-	<Object id="nue-houjuu-body"
-		cull_face="none"
-		pos="18.5 0.1 10"
-		fwd="0 0 1"
+	<Ghost id="Nue Houjuu"
+		head_id="nue-houjuu_head"
+		body_id="nue-houjuu_body"
+		head_pos="0 1.7 0"
+		eye_pos="0 1.7 -0.135"
 		lighting="false"
-		collision_radius="0.5"
-		locked="true"
-	/>
-	<Object id="nue-houjuu-hair"
 		cull_face="none"
-		pos="18.5 0.1 10"
-		fwd="0 0 1"
-		lighting="false"
-		shader_id="hair-shader"
-		locked="true"
+		loop="true"
+		auto_play="true"
 	/>
 
 	<Text pos="-14.8 7 -45" fwd="1 0 1" scale="1.5 1.5 1.5">Yoshika Miyako</Text>
