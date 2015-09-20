@@ -36,8 +36,29 @@
 		mtl='assets/characters/suika-ibuki/model.mtl'
 	/>
 	
+	<AssetObject id='kasen-ibaraki-body'
+		src='assets/characters/kasen-ibaraki/body.obj.gz'
+		mtl='assets/characters/kasen-ibaraki/body.mtl'
+	/>
+	<AssetObject id='kasen-ibaraki-hair'
+		src='assets/characters/kasen-ibaraki/hair.obj.gz'
+		mtl='assets/characters/kasen-ibaraki/hair.mtl'
+	/>
+	<AssetObject id='kasen-ibaraki-dress'
+		src='assets/characters/kasen-ibaraki/dress.obj.gz'
+		mtl='assets/characters/kasen-ibaraki/dress.mtl'
+	/>
+	<AssetObject id='kasen-ibaraki-face'
+		src='assets/characters/kasen-ibaraki/face.obj.gz'
+		mtl='assets/characters/kasen-ibaraki/face.mtl'
+	/>
+	<AssetObject id='face0'
+		src='assets/characters/kasen-ibaraki/face0.obj.gz'
+		mtl='assets/characters/kasen-ibaraki/face.mtl'
+	/>
+	
 	<!-- Shaders -->
-	<AssetShader id="tree_shader"
+	<AssetShader id="tree-shader"
 		vertex_src="assets/shaders/vertex_tree.glsl"
 	/>
 	<AssetShader id="hair-shader"
@@ -82,6 +103,9 @@
 	
 	<!-- Ghosts -->
 	<AssetGhost id="Reimu Hakurei" src="assets/ghost/reimu-hakurei.txt" />
+	
+	<!-- Script -->
+	<AssetScript src="assets/scripts/hakurei-shrine.js" />
 </Assets>
 
 <Room visible="false" col="1 0 0" pos="0 -3 58" fwd="0 0 -1" >
@@ -101,7 +125,7 @@
 		scale="1 1 1"
 		locked="true"
 		lighting="false"
-		shader_id="tree_shader"
+		shader_id="tree-shader"
 		blend_src="one_minus_constant_color"
 		blend_dest="constant_color"
 	/>
@@ -135,6 +159,40 @@
 		collision_radius="0.5"
 		fwd="0 0 1"
 		lighting="false"
+	/>
+	
+	<Text pos="-3.3 1.15 34" xdir="-0.75 0 0.65" zdir="0.65 0 0.75" >Kasen Ibaraki</Text>
+	<Object id="kasen-ibaraki-body"
+		pos="-3.3 -0.8 34"
+		xdir="-0.75 0 0.65"
+		zdir="0.65 0 0.75"
+		lighting="false"
+		collision_radius="0.5"
+		cull_face="none"
+	/>
+	<Object id="kasen-ibaraki-hair"
+		pos="-3.255 0.798 34.055"
+		xdir="-0.75 0 0.65"
+		zdir="0.65 0 0.75"
+		lighting="false"
+		shader_id="hair-shader"
+		cull_face="none"
+	/>
+	<Object id="kasen-ibaraki-dress"
+		pos="-3.3 -0.11 34"
+		xdir="-0.75 0 0.65"
+		zdir="0.65 0 0.75"
+		lighting="false"
+		shader_id="dress-shader"
+		cull_face="none"
+	/>
+	<Object id="kasen-ibaraki-face"
+		pos="-3.3 -0.8 34"
+		xdir="-0.75 0 0.65"
+		zdir="0.65 0 0.75"
+		lighting="false"
+		js_id="kasen-ibaraki-face"
+		blend0_id="face0"
 	/>
 
 	<!-- WebSurfaces -->
