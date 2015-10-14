@@ -108,10 +108,7 @@ var doorClicked = function(side)
 		if (dist < 4.5) {
 			if (!doorsOpen) {
 				leftDoorCounter = -1600;
-				rightDoorCounter = 1600;
-			} else {
-				leftDoorCounter = -200;
-				rightDoorCounter = 3000;
+				rightDoorCounter = 1540;
 			}
 			
 			doorsOpeningRequested = true;
