@@ -22,8 +22,14 @@
 		mtl="../assets/places/hakugyokurou/front-portal.mtl"
 	/>
 	
-	<AssetObject id="place-water"
+	<!--<AssetObject id="place-water"
 		src="../assets/places/hakugyokurou/water.obj"
+	/>-->
+	<AssetObject
+		id="place-water"
+		src="../assets/objects/waterplane/waterplane.obj"
+		tex0="../assets/objects/waterplane/color.png"
+		tex3="../assets/objects/waterplane/wave.gif"
 	/>
 	
 	<!-- Objects -->
@@ -101,7 +107,7 @@ visible="false" col="0.5 0.5 0.5" pos="0 0 58" fwd="0 0 -1" >
 		blend_src="one_minus_constant_color"
 		blend_dest="constant_color"
 	/>
-	<Object id="place-water"
+	<!--<Object id="place-water"
 		pos="0 1 0"
 		fwd="0 0 1"
 		cull_face="none"
@@ -109,6 +115,13 @@ visible="false" col="0.5 0.5 0.5" pos="0 0 58" fwd="0 0 -1" >
 		lighting="false"
 		shader_id="water_shader"
 		blend_src="src_color"
+	/>-->
+	<Object id="place-water"
+		pos="0 -1 0"
+		fwd="0 0 1"
+		cull_face="none"
+		locked="true"
+		shader_id="water_shader"
 	/>
 	
 	<Object id="place-front-portal"

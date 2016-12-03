@@ -1,5 +1,4 @@
-// Original borrowed by Marisa from http://www.gathervr.com/Dizzyhomeroom/watershaderT.txt
-// and edited by me.
+// Original borrowed by Marisa from http://www.gathervr.com/Dizzyhomeroom/watershaderT.txt and edited by me.
 
 uniform vec3      iResolution;
 uniform float     iGlobalTime;
@@ -39,8 +38,8 @@ void mainImage(out vec4 fragColor, in vec2 fragCoord)
 	vec3 colour = vec3(pow(abs(c), 50.0));
 	
 	// Add the blue part
-    colour = clamp(colour + vec3(0.0, 0.30, 0.45), 0.0, 1.0);
-    
+	colour = clamp(colour + vec3(0.0, 0.30, 0.45), 0.0, 1.0);
+
 	fragColor = vec4(colour, 1.0);
 }
 
