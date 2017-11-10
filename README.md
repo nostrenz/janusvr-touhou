@@ -1,6 +1,27 @@
 # janusvr-touhou
 Gensokyo in Janus VR, using MMD models.
 
+![Some screenshots](https://raw.githubusercontent.com/nostrenz/janusvr-touhou/gh-pages/mosaic.jpg)
+
+## Rooms
+
+* [Hakurei Shrine](https://vesta.janusvr.com/nostrenz/gensokyo) (hub world)
+* [Human Village](https://vesta.janusvr.com/nostrenz/human-village)
+* [Hakugyokurou](https://vesta.janusvr.com/nostrenz/hakugyokurou)
+* [Former Hell](https://vesta.janusvr.com/nostrenz/former-hell)
+	* [Palace of the Earth Spirits](https://vesta.janusvr.com/nostrenz/palace-of-the-earth-spirits)
+* [Scarlet Devil Mansion](https://vesta.janusvr.com/nostrenz/scarlet-devil-mansion)
+	* [Hall](https://vesta.janusvr.com/nostrenz/sdm-hall)
+	* [Library](https://vesta.janusvr.com/nostrenz/sdm-library)
+* [Senkai](https://vesta.janusvr.com/nostrenz/senkai)
+* [Myouren Temple](https://vesta.janusvr.com/nostrenz/myouren-temple)
+
+## How to visit one of the room?
+
+Download [JanusVR](http://janusvr.com/) and access a room URL with it or just use a regular browser by hitting the "play" button in the Vesta page!
+
+## Sources
+
 MMD models from:
 - http://citrusmoothie.tumblr.com
 - http://all-of-mmd.deviantart.com
